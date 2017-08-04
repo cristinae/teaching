@@ -1,6 +1,8 @@
-## Winter Semester 2017/2018
+### Winter Semester 2017/2018
 
-### Word Embeddings for NLP and IR
+#### Word Embeddings for Natural Language Processing and Information Retrieval
 
 
-## Summer Semester 2016/2017
+### Summer Semester 2016/2017
+
+#### Machine Translation: Practical Session on PB-SMT
