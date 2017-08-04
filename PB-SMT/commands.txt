@@ -1,0 +1,96 @@
+##### CORPUS 
+
+paste Books.en-fr.en Books.en-fr.fr Books.en-fr.ids > Books.all
+grep Shadow Books.all > Books.sets
+grep -v Shadow Books.all > Books.training
+head -859 Books.sets > Books.dev
+tail -1000 Books.sets > Books.test
+
+cut -f1 Books.training > Books.train.en
+cut -f2 Books.training > Books.train.fr
+cut -f1 Books.dev > Books.dev.en
+cut -f2 Books.dev > Books.dev.fr
+cut -f1 Books.test > Books.test.en
+cut -f2 Books.test > Books.test.fr
+
+tail -3002 WMT-News.en-fr.en  > news2014.test.en
+tail -3002 WMT-News.en-fr.fr  > news2014.test.fr
+
+##### CLEANING
+
+for i in "Books.train" "Books.dev" "Books.test" "news2014.test"; do `perl /home/cristinae/soft/mosesdecoder/scripts/tokenizer/replace-unicode-punctuation.perl < $i.en > $i.norm1.en` ; done;
+for i in "Books.train" "Books.dev" "Books.test" "news2014.test"; do `perl /home/cristinae/soft/mosesdecoder/scripts/tokenizer/replace-unicode-punctuation.perl < $i.fr > $i.norm1.fr` ; done;
+
+
+for i in "Books.train" "Books.dev" "Books.test" "news2014.test"; do `perl /home/cristinae/soft/mosesdecoder/scripts/tokenizer/normalize-punctuation.perl -l en  < $i.norm1.en > $i.norm2.en` ; done;
+for i in "Books.train" "Books.dev" "Books.test" "news2014.test"; do `perl /home/cristinae/soft/mosesdecoder/scripts/tokenizer/normalize-punctuation.perl -l fr  < $i.norm1.fr > $i.norm2.fr` ; done;
+
+
+for i in "Books.train" "Books.dev" "Books.test" "news2014.test"; do `perl /home/cristinae/soft/mosesdecoder/scripts/tokenizer/remove-non-printing-char.perl  < $i.norm2.en > $i.norm3.en` ; done;
+for i in "Books.train" "Books.dev" "Books.test" "news2014.test"; do `perl /home/cristinae/soft/mosesdecoder/scripts/tokenizer/remove-non-printing-char.perl  < $i.norm2.fr > $i.norm3.fr` ; done;
+
+
+##### TOKENISATION
+
+for i in "Books.train" "Books.dev" "Books.test" "news2014.test"; do `perl /home/cristinae/soft/mosesdecoder/scripts/tokenizer/tokenizer.perl -l en -no-escape  -threads 4 < $i.norm3.en > $i.tok.en` ; done;
+for i in "Books.train" "Books.dev" "Books.test" "news2014.test"; do `perl /home/cristinae/soft/mosesdecoder/scripts/tokenizer/tokenizer.perl -l fr -no-escape  -threads 4 < $i.norm3.fr > $i.tok.fr` ; done;
+
+
+##### TRUECASING
+
+mkdir truecaser
+cd truecaser
+perl  /home/cristinae/soft/mosesdecoder/scripts/recaser/train-truecaser.perl --model tcModel.Books.en --corpus ../Books.train.tok.en
+perl  /home/cristinae/soft/mosesdecoder/scripts/recaser/train-truecaser.perl --model tcModel.Books.fr --corpus ../Books.train.tok.fr
+
+for i in "Books.train" "Books.dev" "Books.test" "news2014.test"; do `perl /home/cristinae/soft/mosesdecoder/scripts/recaser/truecase.perl --model ./truecaser/tcModel.Books.en < $i.tok.en > $i.tc.en` ; done;
+for i in "Books.train" "Books.dev" "Books.test" "news2014.test"; do `perl /home/cristinae/soft/mosesdecoder/scripts/recaser/truecase.perl --model ./truecaser/tcModel.Books.fr < $i.tok.fr > $i.tc.fr` ; done;
+
+
+##### LANGUAGE MODELLING
+
+/home/cristinae/soft/mosesdecoder/bin/lmplz -o 5 -S 80% -T ./tmp < ../corpus/Books.train.tc.en  > corpusBooks.train.tc.5.en.lm
+/home/cristinae/soft/mosesdecoder/bin/lmplz -o 5 -S 80% -T ./tmp < ../corpus/Books.train.tc.fr  > corpusBooks.train.tc.5.fr.lm
+
+
+##### MOSES TRAINING
+
+/home/cristinae/soft/mosesdecoder/scripts/training/clean-corpus-n.perl ../corpus/Books.train.tc en fr ../corpus/Books.train.tc.clean 1 100
+
+
+/home/cristinae/soft/mosesdecoder/scripts/training/train-model.perl --parallel -root-dir ./ -corpus /home/cristinae/pln/teaching/SMT/corpus/Books.train.tc.clean -f fr -e en -alignment grow-diag-final-and -reordering msd-bidirectional-fe -lm 0:5:/home/cristinae/pln/teaching/SMT/lm/corpusBooks.train.tc.5.en.lm:8 --external-bin-dir /home/cristinae/soft/mosesdecoder/bin 
+
+# Additional options
+-mgiza -mgiza-cpus 10 --score-options '--GoodTuring'
+
+# MERT optimisation
+/home/cristinae/soft/mosesdecoder/scripts/training/mert-moses.pl /home/cristinae/pln/teaching/SMT/corpus/Books.dev.tc.fr  /home/cristinae/pln/teaching/SMT/corpus/Books.dev.tc.en /home/cristinae/soft/mosesdecoder/bin/moses  ./model/moses.ini --mertdir /home/cristinae/soft/mosesdecoder/bin/   --working-dir=/home/cristinae/pln/teaching/SMT/moses/tuning  --nbest=100  
+
+
+##### MOSES DECODING
+
+/home/cristinae/soft/mosesdecoder/scripts/training/filter-model-given-input.pl ./trads/filteredBooks /home/cristinae/pln/teaching/SMT/moses0/tuning/moses.ini /home/cristinae/pln/teaching/SMT/corpus/Books.test.tc.fr
+
+/home/cristinae/soft/mosesdecoder/scripts/training/filter-model-given-input.pl ./trads/filteredNews /home/cristinae/pln/teaching/SMT/moses0/tuning/moses.ini /home/cristinae/pln/teaching/SMT/corpus/news2014.test.tc.fr
+
+
+
+/home/cristinae/soft/mosesdecoder/bin/moses -f trads/filteredBooks/moses.ini < ../corpus/Books.test.tc.fr > trads/Books.testTrad.tc.fr2en.en
+
+/home/cristinae/soft/mosesdecoder/bin/moses -f trads/filteredNews/moses.ini < ../corpus/news2014.test.tc.fr > trads/news2014.testTrad.tc.fr2en.en
+
+
+
+#### EVALUATION
+
+perl /home/cristinae/soft/mosesdecoder/scripts/generic/multi-bleu.perl ../corpus/Books.test.tc.en < trads/Books.testTrad.tc.fr2en.en
+
+perl /home/cristinae/soft/mosesdecoder/scripts/generic/multi-bleu.perl ../corpus/news2014.test.tc.fr < trads/news2014.testTrad.tc.fr2en.en
+
+
+
+
+http://matrix.statmt.org/matrix
+http://asiya.cs.upc.edu/demo/asiya_online.php
+
+
