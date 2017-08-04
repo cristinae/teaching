@@ -5,4 +5,4 @@
 
 ### Summer Semester 2016/2017
 
-#### Machine Translation: Practical Session on PB-SMT
+#### [Machine Translation: Practical Session on PB-SMT](./PB-SMT/README.md)
