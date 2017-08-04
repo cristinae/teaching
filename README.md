@@ -4,6 +4,12 @@
 
 <br>
 
-### Summer Semester 2016/2017
+### Previous semesters
 
-* #### [Machine Translation: Practical Session on PB-SMT](./PB-SMT/README.md)
+#### Summer Semester 2016/2017 (UdS)
+
+* [Machine Translation: Practical Session on PB-SMT](./PB-SMT/README.md)
+
+#### Summer Semester 2014/2015 (UPC)
+
+* Tutorial on Statistical Machine Translation
