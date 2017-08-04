@@ -1,13 +1,12 @@
-### Word Embeddings for Natural Language Processing and Information Retrieval
+# UNDER CONSTRUCTION!
 
-<br>
+### Word Embeddings for Natural Language Processing and Information Retrieval
 
 #### General Info
 ```
 Where: Building C7.2
 When: 
 ```
-
 <br>
 
 #### Objectives
