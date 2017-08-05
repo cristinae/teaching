@@ -1,6 +1,6 @@
 ### Winter Semester 2017/2018
 
-* #### [Word Embeddings for Natural Language Processing and Information Retrieval](./we4nlp/README.md)
+* [Word Embeddings for Natural Language Processing and Information Retrieval](./we4nlp/README.md)
 
 <br>
 
@@ -12,4 +12,4 @@
 
 #### Summer Semester 2014/2015 (UPC)
 
-* Tutorial on Statistical Machine Translation
+* [Tutorial on Statistical Machine Translation](./PB-SMT/classeMT.pdf )
