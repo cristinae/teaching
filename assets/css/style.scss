@@ -7,7 +7,7 @@ a {
     color: SlateGray;
 }
 
-li{
-        background: url(img/puntTaronja.png) no-repeat center left;
-        padding-left: 0em;
-}
+ul {
+    list-style-image: url('./img/puntTaronja.png');
+} 
+
