@@ -2,6 +2,12 @@
 ---
 
 @import "{{ site.theme }}";
+
 a {
     color: SlateGray;
+}
+
+li{
+        background: url(img/puntTaronja.jpg) no-repeat center left;
+        padding-left: 1em;
 }
