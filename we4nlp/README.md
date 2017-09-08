@@ -5,7 +5,7 @@
 ## General Info
 ```
 Where: Building C7.2, U15
-When: Mondays 8-10 am
+When: Mondays 8:30-10:00 am
 ```
 <br>
 
@@ -19,10 +19,13 @@ When: Mondays 8-10 am
 
 ### ALL: General 
 
-* Tomas Mikolov, Kai Chen, Greg Corrado and Jeffrey Dean. (2013). Efficient Estimation of Word Representations in Vector Space. 
+* Stephen Clark. 2015. Vector Space Models of Lexical Meaning. _Handbook of Contemporary Semantic Theory — second edition, edited by Shalom Lappin and Chris Fox._ Chapter 16, pp.493-522. Wiley-Blackwell. [[pdf]](http://www.cl.cam.ac.uk/~sc609/pubs/sem_handbook.pdf) 
+Note: pre-copy editing; survey article.
+
+* Tomas Mikolov, Kai Chen, Greg Corrado and Jeffrey Dean. 2013. Efficient Estimation of Word Representations in Vector Space. 
 _Proceedings of the Workshop at International Conference on Learning Representations (ICLR)_. [[pdf]](https://arxiv.org/pdf/1301.3781)
 
-* Jeffrey Pennington, Richard Socher, and Christopher D. Manning. (2014). GloVe: Global Vectors for Word Representation. _Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP)_.  Pages 1532-1543
+* Jeffrey Pennington, Richard Socher, and Christopher D. Manning. 2014. GloVe: Global Vectors for Word Representation. _Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP)_.  Pages 1532-1543
 [[pdf]](https://nlp.stanford.edu/pubs/glove.pdf)
 
 ### Group A: Multilingual Embeddings
