@@ -36,13 +36,22 @@ _CoRR, abs/1706.04902_ [[pdf]](https://arxiv.org/pdf/1706.04902.pdf)
 * Shyam Upadhyay, Kai-Wei Chang, Matt Taddy, Adam Kalai and James Zou. (2017) Beyond Bilingual: Multi-sense Word Embeddings using Multilingual Context. 
 _Proceedings of the 2nd Workshop on Representation Learning for NLP (RepL4NLP)_. Pages 139-145, Vancouver, Canada. [[pdf]](http://aclweb.org/anthology/W/W17/W17-2613.pdf)
 
-* Anders Søgaard, Zeljko Agic, Hector Martinez Alonso, Barbara Plank, Bernd Bohnet. (2015) Inverted indexing for cross-lingual NLP.  _53rd Annual Meeting of the Association for Computational Linguistics (ACL)_. Vol. 1, Association for Computational Linguistics, pp. 1713-1722. [[pdf]](http://www.aclweb.org/anthology/P15-1165)
+* Anders Søgaard, Zeljko Agic, Hector Martinez Alonso, Barbara Plank, Bernd Bohnet. (2015) Inverted indexing for cross-lingual NLP.  _53rd Annual Meeting of the Association for Computational Linguistics (ACL)_. Vol. 1. Pages 1713-1722. [[pdf]](http://www.aclweb.org/anthology/P15-1165)
 
 
 ### Group B: Beyond Words and Sense Embeddings
 
 * Quoc V. Le and Tomas Mikolov. (2014). Distributed Representations of Sentences and Documents. 
 _Proceedings of the 31st International Conference on Machine Learning, in PMLR_ 32(2):1188-1196  [[pdf]](http://proceedings.mlr.press/v32/le14.pdf)
+
+* Shyam Upadhyay, Kai-Wei Chang, Matt Taddy, Adam Kalai and James Zou. (2017). Beyond Bilingual: Multi-sense Word Embeddings using Multilingual Context. 
+_Proceedings of the 2nd Workshop on Representation Learning for NLP (RepL4NLP)_. Pages 139-145, Vancouver, Canada. [[pdf]](http://aclweb.org/anthology/W/W17/W17-2613.pdf)
+
+* Ben Athiwaratkun and Andrew Gordon Wilson. (2017). Multimodal Word Distributions. 
+_Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (ACL)_. Vol. 1. Pages 1645-1656. Vancouver, Canada. [[pdf]](http://www.aclweb.org/anthology/P/P17/P17-1151.pdf)
+
+* (?) Li Lucy and Jon Gauthier. (2017). Are distributional representations ready for the real world? Evaluating word vectors for grounded perceptual meaning. 
+_Proceedings of the First Workshop on Language Grounding for Robotics_. Pages 76-85, Vancouver, Canada. [[pdf]](http://www.aclweb.org/anthology/W/W17/W17-2810.pdf)
 
 <br>
 ## Term Paper
@@ -53,7 +62,7 @@ _Proceedings of the 31st International Conference on Machine Learning, in PMLR_ 
 
 * Option 2: Word Embeddings with Multiword Expressions
 
-* Option 3: Word Embeddings with Semantic Features
+* Option 3: Word Embeddings on Semantic Features
 
 * Option 4: Other (ask/propose!)
 
