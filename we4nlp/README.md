@@ -1,6 +1,5 @@
-# UNDER CONSTRUCTION!
-
 # Word Embeddings for NLP and IR
+<br>
 
 ## General Info
 ```
@@ -21,8 +20,8 @@ Who: Cristina España i Bonet
 ### Scientific Presentations
 1. Oral Presentation
 2. Technical Paper
-
 <br>
+
 ## References
 
 (Groups A and B depend on the number of students)
