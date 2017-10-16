@@ -6,11 +6,21 @@
 ```
 Where: Building C7.2, U15
 When: Mondays 8:30-10:00 am
+Who: Cristina España i Bonet
 ```
 <br>
 
 ## Objectives
 
+### Knowledge
+1. General notion of semantic representations for linguistic elements
+2. Focus on word embeddings (WE) as semantic representations
+3. Applications of WE to several NLP/IR tasks
+4. From words to sentences to documents to multimodal
+
+### Scientific Presentations
+1. Oral Presentation
+2. Technical Paper
 
 <br>
 ## References
