@@ -6,9 +6,8 @@
 Where: Building C7.2, U15
 When: Mondays 8:30-10:00 am
 Who: Cristina España i Bonet
+What: 
 ```
-<br>
-
 ## Objectives
 
 ### Knowledge
