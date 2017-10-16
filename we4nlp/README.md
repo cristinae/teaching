@@ -1,6 +1,4 @@
 # Word Embeddings for NLP and IR
-<br>
-
 ## General Info
 ```
 Where: Building C7.2, U15
@@ -11,7 +9,7 @@ What:
 ## Objectives
 
 ### Knowledge
-1. General notion of semantic representations for linguistic elements
+1. General notion of semantic representations of linguistic elements
 2. Focus on word embeddings (WE) as semantic representations
 3. Applications of WE to several NLP/IR tasks
 4. From words to sentences to documents to multimodal
@@ -23,7 +21,7 @@ What:
 
 ## References
 
-(Groups A and B depend on the number of students)
+(Provisional: Groups A and B depend on the number of students)
 
 ### ALL: General 
 
