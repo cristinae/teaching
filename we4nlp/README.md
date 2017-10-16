@@ -6,6 +6,9 @@ When: Mondays 8:30-10:00 am
 Who: Cristina España i Bonet
 What: 
 ```
+
+[Calendar](./calendar.md)
+
 ## Objectives
 
 ### Knowledge
