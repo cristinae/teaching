@@ -7,7 +7,7 @@ Who: Cristina España i Bonet
 What: 
 ```
 
-[Calendar](./calendar.md)
+[Calendar](../calendar.md)
 
 ## Objectives
 
