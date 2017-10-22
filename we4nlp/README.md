@@ -26,7 +26,7 @@ What:
 
 (Provisional: Groups A and B depend on the number of students)
 
-### ALL: General 
+### ALL: CORE papers 
 
 * Stephen Clark. 2015. Vector Space Models of Lexical Meaning. _Handbook of Contemporary Semantic Theory — second edition, edited by Shalom Lappin and Chris Fox._ Chapter 16, pp.493-522. Wiley-Blackwell. [[pdf]](http://www.cl.cam.ac.uk/~sc609/pubs/sem_handbook.pdf) 
 Note: pre-copy editing; survey article.
@@ -36,6 +36,10 @@ _Proceedings of the Workshop at International Conference on Learning Representat
 
 * Jeffrey Pennington, Richard Socher, and Christopher D. Manning. 2014. GloVe: Global Vectors for Word Representation. _Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP)_.  Pages 1532-1543
 [[pdf]](https://nlp.stanford.edu/pubs/glove.pdf)
+
+* Quoc V. Le and Tomas Mikolov. (2014). Distributed Representations of Sentences and Documents. 
+_Proceedings of the 31st International Conference on Machine Learning, in PMLR_ 32(2):1188-1196  [[pdf]](http://proceedings.mlr.press/v32/le14.pdf)
+
 
 ### Group A: Multilingual Embeddings
 
@@ -49,9 +53,6 @@ _Proceedings of the 2nd Workshop on Representation Learning for NLP (RepL4NLP)_.
 
 
 ### Group B: Beyond Words and Sense Embeddings
-
-* Quoc V. Le and Tomas Mikolov. (2014). Distributed Representations of Sentences and Documents. 
-_Proceedings of the 31st International Conference on Machine Learning, in PMLR_ 32(2):1188-1196  [[pdf]](http://proceedings.mlr.press/v32/le14.pdf)
 
 * Shyam Upadhyay, Kai-Wei Chang, Matt Taddy, Adam Kalai and James Zou. (2017). Beyond Bilingual: Multi-sense Word Embeddings using Multilingual Context. 
 _Proceedings of the 2nd Workshop on Representation Learning for NLP (RepL4NLP)_. Pages 139-145, Vancouver, Canada. [[pdf]](http://aclweb.org/anthology/W/W17/W17-2613.pdf)
