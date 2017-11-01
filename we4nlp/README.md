@@ -2,7 +2,7 @@
 ## General Info
 ```
 Where: Building C7.2, U15
-When: Thursdays 16:00-17:30   ~~Mondays 8:30-10:00 am~~
+When: Thursdays 16:00-17:30   <strike>Mondays 8:30-10:00 am</strike>
 Who: Cristina España i Bonet
 What: 
 ```
@@ -30,23 +30,23 @@ What:
 
 * Stephen Clark. 2015. Vector Space Models of Lexical Meaning. _Handbook of Contemporary Semantic Theory — second edition, edited by Shalom Lappin and Chris Fox._ Chapter 16, pp.493-522. Wiley-Blackwell. [[pdf]](http://www.cl.cam.ac.uk/~sc609/pubs/sem_handbook.pdf) 
 Note: pre-copy editing; survey article.
-</br><span style="color:red"> ASSIGNED (2 people), 9th & 12th November </span>
+<br><span style="color:red"> ASSIGNED (2 people), 9th & 12th November </span>
 
 * Tomas Mikolov, Kai Chen, Greg Corrado and Jeffrey Dean. 2013. Efficient Estimation of Word Representations in Vector Space. 
 _Proceedings of the Workshop at International Conference on Learning Representations (ICLR)_. [[pdf]](https://arxiv.org/pdf/1301.3781)
-</br><span style="color:red"> ASSIGNED (1 person), 23rd  November </span>
+<br><span style="color:red"> ASSIGNED (1 person), 23rd  November </span>
 
 * Jeffrey Pennington, Richard Socher, and Christopher D. Manning. 2014. GloVe: Global Vectors for Word Representation. _Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP)_.  Pages 1532-1543
 [[pdf]](https://nlp.stanford.edu/pubs/glove.pdf)
-</br><span style="color:green"> TO BE ASSIGNED (1 person) </span>
+<br><span style="color:green"> TO BE ASSIGNED (1 person) </span>
 
 * Sebastian Ruder. A Survey of Cross-lingual Embedding Models. 
 _CoRR, abs/1706.04902_ [[pdf]](https://arxiv.org/pdf/1706.04902.pdf)
-</br><span style="color:green"> TO BE ASSIGNED (2 people) </span>
+<br><span style="color:green"> TO BE ASSIGNED (2 people) </span>
 
 * Quoc V. Le and Tomas Mikolov. (2014). Distributed Representations of Sentences and Documents. 
 _Proceedings of the 31st International Conference on Machine Learning, in PMLR_ 32(2):1188-1196  [[pdf]](http://proceedings.mlr.press/v32/le14.pdf)
-</br><span style="color:green"> TO BE ASSIGNED (1 person) </span>
+<br><span style="color:green"> TO BE ASSIGNED (1 person) </span>
 
 
 ### Group A, PROVISIONAL: Multilingual Embeddings
