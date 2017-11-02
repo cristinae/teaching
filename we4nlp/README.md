@@ -33,7 +33,7 @@ Note: pre-copy editing; survey article.
 <br><span style="color:red"> ASSIGNED (2 people), 9th & 12th November </span>
 
 * Tomas Mikolov, Kai Chen, Greg Corrado and Jeffrey Dean. 2013. Efficient Estimation of Word Representations in Vector Space. 
-_Proceedings of the Workshop at International Conference on Learning Representations (ICLR)_. [[pdf]](https://arxiv.org/pdf/1301.3781)
+_Proceedings of the Workshop at International Conference on Learning Representations (ICLR)_. Pages 1-12. [[pdf]](https://arxiv.org/pdf/1301.3781)
 <br><span style="color:red"> ASSIGNED (1 person), 23rd  November </span>
 
 * Jeffrey Pennington, Richard Socher, and Christopher D. Manning. 2014. GloVe: Global Vectors for Word Representation. _Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP)_.  Pages 1532-1543
@@ -45,7 +45,7 @@ _CoRR, abs/1706.04902_ [[pdf]](https://arxiv.org/pdf/1706.04902.pdf)
 <br><span style="color:green"> TO BE ASSIGNED (2 people) </span>
 
 * Quoc V. Le and Tomas Mikolov. (2014). Distributed Representations of Sentences and Documents. 
-_Proceedings of the 31st International Conference on Machine Learning, in PMLR_ 32(2):1188-1196  [[pdf]](http://proceedings.mlr.press/v32/le14.pdf)
+_Proceedings of the 31st International Conference on Machine Learning, in PMLR_ 32(2). Pages 1188-1196  [[pdf]](http://proceedings.mlr.press/v32/le14.pdf)
 <br><span style="color:green"> TO BE ASSIGNED (1 person) </span>
 
 
@@ -62,14 +62,14 @@ _Proceedings of the 2nd Workshop on Representation Learning for NLP (RepL4NLP)_.
 * Lucie Flekova and Iryna Gurevych. (2016). Supersense Embeddings: A Unified Model for Supersense Interpretation, Prediction, and Utilization.
 _Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics_. Pages 2029-2041. [[pdf]](http://www.aclweb.org/anthology/P16-1191)
 
+* Massimiliano Mancini, Jose Camacho-Collados, Ignacio Iacobacci and Roberto Navigli. (2017). Embedding Words and Senses Together via Joint Knowledge-Enhanced Training.
+_Proceedings of the 21st Conference on Computational Natural Language Learning (CoNLL 2017)_. Pages 100–111. [[pdf]](1https://www.aclweb.org/anthology/K/K17/K17-1012.pdf)
+
 * Shyam Upadhyay, Kai-Wei Chang, Matt Taddy, Adam Kalai and James Zou. (2017). Beyond Bilingual: Multi-sense Word Embeddings using Multilingual Context. 
 _Proceedings of the 2nd Workshop on Representation Learning for NLP (RepL4NLP)_. Pages 139-145, Vancouver, Canada. [[pdf]](http://aclweb.org/anthology/W/W17/W17-2613.pdf)
 
 * Ben Athiwaratkun and Andrew Gordon Wilson. (2017). Multimodal Word Distributions. 
 _Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (ACL)_. Vol. 1. Pages 1645-1656. Vancouver, Canada. [[pdf]](http://www.aclweb.org/anthology/P/P17/P17-1151.pdf)
-
-* (?) Li Lucy and Jon Gauthier. (2017). Are distributional representations ready for the real world? Evaluating word vectors for grounded perceptual meaning. 
-_Proceedings of the First Workshop on Language Grounding for Robotics_. Pages 76-85, Vancouver, Canada. [[pdf]](http://www.aclweb.org/anthology/W/W17/W17-2810.pdf)
 
 <br>
 ## Term Paper
