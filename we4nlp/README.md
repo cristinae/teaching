@@ -38,18 +38,18 @@ _Proceedings of the Workshop at International Conference on Learning Representat
 
 * Jeffrey Pennington, Richard Socher, and Christopher D. Manning. 2014. GloVe: Global Vectors for Word Representation. _Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP)_.  Pages 1532-1543
 [[pdf]](https://nlp.stanford.edu/pubs/glove.pdf)
-<br><span style="color:green"> TO BE ASSIGNED (1 person) </span>
+<br><span style="color:red"> ASSIGNED (1 person), 30th  November </span>
 
 * Sebastian Ruder. A Survey of Cross-lingual Embedding Models. 
 _CoRR, abs/1706.04902_ [[pdf]](https://arxiv.org/pdf/1706.04902.pdf)
-<br><span style="color:green"> TO BE ASSIGNED (2 people) </span>
+<br><span style="color:red"> ASSIGNED (1 person), 7th  December </span>
+
+
+### Group A, PROVISIONAL
 
 * Quoc V. Le and Tomas Mikolov. (2014). Distributed Representations of Sentences and Documents. 
 _Proceedings of the 31st International Conference on Machine Learning, in PMLR_ 32(2). Pages 1188-1196  [[pdf]](http://proceedings.mlr.press/v32/le14.pdf)
 <br><span style="color:green"> TO BE ASSIGNED (1 person) </span>
-
-
-### Group A, PROVISIONAL: Multilingual Embeddings
 
 * Shyam Upadhyay, Kai-Wei Chang, Matt Taddy, Adam Kalai and James Zou. (2017) Beyond Bilingual: Multi-sense Word Embeddings using Multilingual Context. 
 _Proceedings of the 2nd Workshop on Representation Learning for NLP (RepL4NLP)_. Pages 139-145, Vancouver, Canada. [[pdf]](http://aclweb.org/anthology/W/W17/W17-2613.pdf)
