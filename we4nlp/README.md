@@ -30,11 +30,13 @@ What:
 
 * Stephen Clark. 2015. Vector Space Models of Lexical Meaning. _Handbook of Contemporary Semantic Theory — second edition, edited by Shalom Lappin and Chris Fox._ Chapter 16, pp.493-522. Wiley-Blackwell. [[pdf]](http://www.cl.cam.ac.uk/~sc609/pubs/sem_handbook.pdf) 
 Note: pre-copy editing; survey article.
-<br><span style="color:red"> ASSIGNED (2 people), 9th & 12th November </span>
+<br><span style="color:red"> ASSIGNED (2 people), 9th [[slides]](./1-Polina_Paper1a.pdf) & 12th November </span>
 
 * Tomas Mikolov, Kai Chen, Greg Corrado and Jeffrey Dean. 2013. Efficient Estimation of Word Representations in Vector Space. 
 _Proceedings of the Workshop at International Conference on Learning Representations (ICLR)_. Pages 1-12. [[pdf]](https://arxiv.org/pdf/1301.3781)
-<br><span style="color:red"> ASSIGNED (1 person), 23rd  November </span>
+<br><span style="color:red"> ASSIGNED (1 person), 23rd  November  [[slides]](./2-Andrew_Paper2.pdf)</span>
+
+   * RELATED: Tomas Mikolov, Ilya Sutskever, Kai Chen, Greg Corrado and Jeffrey Dean. 2013. Distributed Representations of Words and Phrases and their Compositionality. _Advances in Neural Information Processing Systems 26_.  Pages 3111-3119. [[pdf]](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
 
 * Jeffrey Pennington, Richard Socher, and Christopher D. Manning. 2014. GloVe: Global Vectors for Word Representation. _Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP)_.  Pages 1532-1543
 [[pdf]](https://nlp.stanford.edu/pubs/glove.pdf)
