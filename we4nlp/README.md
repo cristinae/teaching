@@ -30,7 +30,7 @@ What:
 
 * Stephen Clark. 2015. Vector Space Models of Lexical Meaning. _Handbook of Contemporary Semantic Theory — second edition, edited by Shalom Lappin and Chris Fox._ Chapter 16, pp.493-522. Wiley-Blackwell. [[pdf]](http://www.cl.cam.ac.uk/~sc609/pubs/sem_handbook.pdf) 
 Note: pre-copy editing; survey article.
-<br><span style="color:red"> ASSIGNED (2 people), 9th [[slides]](./slides2017/1-Polina_Paper1a.pdf) & 12th November </span>
+<br><span style="color:red"> ASSIGNED (2 people), 9th [[slides]](./slides2017/1-Polina_Paper1a.pdf) & 12th November  [[slides]](./slides2017/3-Lukas_Paper1b.pdf)</span>
 
 * Tomas Mikolov, Kai Chen, Greg Corrado and Jeffrey Dean. 2013. Efficient Estimation of Word Representations in Vector Space. 
 _Proceedings of the Workshop at International Conference on Learning Representations (ICLR)_. Pages 1-12. [[pdf]](https://arxiv.org/pdf/1301.3781)
@@ -40,7 +40,7 @@ _Proceedings of the Workshop at International Conference on Learning Representat
 
 * Jeffrey Pennington, Richard Socher, and Christopher D. Manning. 2014. GloVe: Global Vectors for Word Representation. _Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP)_.  Pages 1532-1543
 [[pdf]](https://nlp.stanford.edu/pubs/glove.pdf)
-<br><span style="color:red"> ASSIGNED (1 person), 30th  November </span>
+<br><span style="color:red"> ASSIGNED (1 person), 30th  November  [[slides]](./slides2017/4-Damyana_Paper3.pdf)</span>
 
 * Sebastian Ruder. A Survey of Cross-lingual Embedding Models. 
 _CoRR, abs/1706.04902_ [[pdf]](https://arxiv.org/pdf/1706.04902.pdf)
@@ -57,6 +57,8 @@ _Proceedings of the 31st International Conference on Machine Learning, in PMLR_ 
 _Proceedings of the 2nd Workshop on Representation Learning for NLP (RepL4NLP)_. Pages 139-145, Vancouver, Canada. [[pdf]](http://aclweb.org/anthology/W/W17/W17-2613.pdf)
 
 * Anders Søgaard, Zeljko Agic, Hector Martinez Alonso, Barbara Plank, Bernd Bohnet. (2015) Inverted indexing for cross-lingual NLP.  _53rd Annual Meeting of the Association for Computational Linguistics (ACL)_. Vol. 1. Pages 1713-1722. [[pdf]](http://www.aclweb.org/anthology/P15-1165)
+
+* Sanjeev Arora, Yuanzhi Li, Yingyu Liang, Tengyu Ma, Andrej Risteski. (2016) A Latent Variable Model Approach to PMI-based Word Embeddings.  _Transactions of the Association for Computational Linguistics_. Vol. 4. Pages 385–399. [[pdf]](https://www.transacl.org/ojs/index.php/tacl/article/download/742/204)
 
 
 ### Group B, PROVISIONAL: Beyond Words and Sense Embeddings
