@@ -57,7 +57,7 @@ _Proceedings of the 31st International Conference on Machine Learning, in PMLR_ 
 
 * Sanjeev Arora, Yuanzhi Li, Yingyu Liang, Tengyu Ma, Andrej Risteski. (2016) A Latent Variable Model Approach to PMI-based Word Embeddings.  _Transactions of the Association for Computational Linguistics_. Vol. 4. Pages 385–399. [[pdf]](https://www.transacl.org/ojs/index.php/tacl/article/download/742/204)
 
-* Maximilian Nickel, Douwe Kiela. (2017) Poincaré Embeddings for Learning Hierarchical Representations. _eprint arXiv:1705.08039_. [[pdf]] (https://arxiv.org/pdf/1705.08039.pdf)
+* Maximilian Nickel, Douwe Kiela. (2017) Poincaré Embeddings for Learning Hierarchical Representations. _eprint arXiv:1705.08039_. [[pdf]](https://arxiv.org/pdf/1705.08039.pdf)
 
 
 ### Group B, PROVISIONAL: Sense Embeddings
