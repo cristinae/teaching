@@ -50,8 +50,11 @@ _CoRR, abs/1706.04902_ [[pdf]](https://arxiv.org/pdf/1706.04902.pdf)
 ### Group A, PROVISIONAL
 
 * Quoc V. Le and Tomas Mikolov. (2014). Distributed Representations of Sentences and Documents. 
-_Proceedings of the 31st International Conference on Machine Learning, in PMLR_ 32(2). Pages 1188-1196  [[pdf]](http://proceedings.mlr.press/v32/le14.pdf)
+_Proceedings of the 31st International Conference on Machine Learning, in PMLR_ 32(2). Pages 1188-1196. [[pdf]](http://proceedings.mlr.press/v32/le14.pdf)
 <br><span style="color:green"> TO BE ASSIGNED (1 person) </span>
+
+* Xinxiong Chen, Lei Xu, Zhiyuan Liu, Maosong Sun and Huanbo Luan. (2015). Joint Learning of Character and Word Embeddings.
+_Proceedings of the Twenty-Fourth International Joint Conference on Artificial Intelligence (IJCAI)_. Pages 1236-1242. [[pdf]](https://www.ijcai.org/Proceedings/15/Papers/178.pdf)
 
 * Anders Søgaard, Zeljko Agic, Hector Martinez Alonso, Barbara Plank, Bernd Bohnet. (2015) Inverted indexing for cross-lingual NLP.  _53rd Annual Meeting of the Association for Computational Linguistics (ACL)_. Vol. 1. Pages 1713-1722. [[pdf]](http://www.aclweb.org/anthology/P15-1165)
 
