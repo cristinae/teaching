@@ -57,10 +57,12 @@ _Proceedings of the 31st International Conference on Machine Learning, in PMLR_ 
 _Proceedings of the Twenty-Fourth International Joint Conference on Artificial Intelligence (IJCAI)_. Pages 1236-1242. [[pdf]](https://www.ijcai.org/Proceedings/15/Papers/178.pdf)
 
 * Anders Søgaard, Zeljko Agic, Hector Martinez Alonso, Barbara Plank, Bernd Bohnet. (2015) Inverted indexing for cross-lingual NLP.  _53rd Annual Meeting of the Association for Computational Linguistics (ACL)_. Vol. 1. Pages 1713-1722. [[pdf]](http://www.aclweb.org/anthology/P15-1165)
+<br><span style="color:red"> ASSIGNED, 18th  January </span>
 
 * Sanjeev Arora, Yuanzhi Li, Yingyu Liang, Tengyu Ma, Andrej Risteski. (2016) A Latent Variable Model Approach to PMI-based Word Embeddings.  _Transactions of the Association for Computational Linguistics_. Vol. 4. Pages 385–399. [[pdf]](https://www.transacl.org/ojs/index.php/tacl/article/download/742/204)
 
 * Maximilian Nickel, Douwe Kiela. (2017) Poincaré Embeddings for Learning Hierarchical Representations. _eprint arXiv:1705.08039_. [[pdf]](https://arxiv.org/pdf/1705.08039.pdf)
+<br><span style="color:red"> ASSIGNED, 25th  January </span>
 
 * Christopher E Moody. (2016) Mixing Dirichlet Topic Models and Word Embeddings to Make lda2vec. _eprint arXiv:1605.02019_. [[pdf]](https://arxiv.org/pdf/1605.02019.pdf)
 
@@ -75,6 +77,7 @@ _Proceedings of the 21st Conference on Computational Natural Language Learning (
 
 * Shyam Upadhyay, Kai-Wei Chang, Matt Taddy, Adam Kalai and James Zou. (2017). Beyond Bilingual: Multi-sense Word Embeddings using Multilingual Context. 
 _Proceedings of the 2nd Workshop on Representation Learning for NLP (RepL4NLP)_. Pages 139-145. Vancouver, Canada. [[pdf]](http://aclweb.org/anthology/W/W17/W17-2613.pdf)
+<br><span style="color:red"> ASSIGNED, 11th  January </span>
 
 * Ben Athiwaratkun and Andrew Gordon Wilson. (2017). Multimodal Word Distributions. 
 _Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (ACL)_. Vol. 1. Pages 1645-1656. Vancouver, Canada. [[pdf]](http://www.aclweb.org/anthology/P/P17/P17-1151.pdf)
@@ -83,6 +86,7 @@ _Proceedings of the 55th Annual Meeting of the Association for Computational Lin
 _Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing (EMNLP)_. Pages 2829-2835. Copenhagen, Denmark. [[pdf]](https://arxiv.org/pdf/1707.07601.pdf)
 
 * Sanjeev Arora, Yuanzhi Li, Yingyu Liang, Tengyu Ma and Andrej Risteski. (2016). Linear Algebraic Structure of Word Senses, with Applications to Polysemy.  _eprint arXiv: arXiv:1601.03764_. [[pdf]](https://arxiv.org/pdf/1601.03764.pdf)
+<br><span style="color:red"> ASSIGNED, 11th  January </span>
 
 <br>
 ## Term Paper
