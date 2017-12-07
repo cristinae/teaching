@@ -51,7 +51,6 @@ _CoRR, abs/1706.04902_ [[pdf]](https://arxiv.org/pdf/1706.04902.pdf)
 
 * Quoc V. Le and Tomas Mikolov. (2014). Distributed Representations of Sentences and Documents. 
 _Proceedings of the 31st International Conference on Machine Learning, in PMLR_ 32(2). Pages 1188-1196. [[pdf]](http://proceedings.mlr.press/v32/le14.pdf)
-<br><span style="color:green"> TO BE ASSIGNED (1 person) </span>
 
 * Xinxiong Chen, Lei Xu, Zhiyuan Liu, Maosong Sun and Huanbo Luan. (2015). Joint Learning of Character and Word Embeddings.
 _Proceedings of the Twenty-Fourth International Joint Conference on Artificial Intelligence (IJCAI)_. Pages 1236-1242. [[pdf]](https://www.ijcai.org/Proceedings/15/Papers/178.pdf)
@@ -61,6 +60,8 @@ _Proceedings of the Twenty-Fourth International Joint Conference on Artificial I
 * Sanjeev Arora, Yuanzhi Li, Yingyu Liang, Tengyu Ma, Andrej Risteski. (2016) A Latent Variable Model Approach to PMI-based Word Embeddings.  _Transactions of the Association for Computational Linguistics_. Vol. 4. Pages 385–399. [[pdf]](https://www.transacl.org/ojs/index.php/tacl/article/download/742/204)
 
 * Maximilian Nickel, Douwe Kiela. (2017) Poincaré Embeddings for Learning Hierarchical Representations. _eprint arXiv:1705.08039_. [[pdf]](https://arxiv.org/pdf/1705.08039.pdf)
+
+* Christopher E Moody. (2016) Mixing Dirichlet Topic Models and Word Embeddings to Make lda2vec. _eprint arXiv:1605.02019_. [[pdf]](https://arxiv.org/pdf/1605.02019.pdf)
 
 
 ### Group B, PROVISIONAL: Sense Embeddings
