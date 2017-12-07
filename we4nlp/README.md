@@ -27,7 +27,8 @@ What:
 (Provisional: Groups A and B depend on the number of students)
 
 ### ALL: CORE papers 
-
+Linear Algebraic Structure of Word Senses, with Applications to
+Polysemy
 * Stephen Clark. 2015. Vector Space Models of Lexical Meaning. _Handbook of Contemporary Semantic Theory — second edition, edited by Shalom Lappin and Chris Fox._ Chapter 16, pp.493-522. Wiley-Blackwell. [[pdf]](http://www.cl.cam.ac.uk/~sc609/pubs/sem_handbook.pdf) 
 Note: pre-copy editing; survey article.
 <br><span style="color:red"> ASSIGNED (2 people), 9th [[slides]](./slides2017/1-Polina_Paper1a.pdf) & 12th November  [[slides]](./slides2017/3-Lukas_Paper1b.pdf)</span>
@@ -81,6 +82,7 @@ _Proceedings of the 55th Annual Meeting of the Association for Computational Lin
 * Spandana Gella, Rico Sennrich, Frank Keller and Mirella Lapata. (2017). Image Pivoting for Learning Multilingual Multimodal Representations. 
 _Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing (EMNLP)_. Pages 2829-2835. Copenhagen, Denmark. [[pdf]](https://arxiv.org/pdf/1707.07601.pdf)
 
+* Sanjeev Arora, Yuanzhi Li, Yingyu Liang, Tengyu Ma and Andrej Risteski. (2016). Linear Algebraic Structure of Word Senses, with Applications to Polysemy.  _eprint arXiv: arXiv:1601.03764_. [[pdf]](https://arxiv.org/pdf/1601.03764.pdf)
 
 <br>
 ## Term Paper
