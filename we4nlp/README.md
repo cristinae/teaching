@@ -73,7 +73,8 @@ _Proceedings of the Twenty-Fourth International Joint Conference on Artificial I
 _Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics_. Pages 2029-2041. [[pdf]](http://www.aclweb.org/anthology/P16-1191)
 
 * Massimiliano Mancini, Jose Camacho-Collados, Ignacio Iacobacci and Roberto Navigli. (2017). Embedding Words and Senses Together via Joint Knowledge-Enhanced Training.
-_Proceedings of the 21st Conference on Computational Natural Language Learning (CoNLL 2017)_. Pages 100–111. [[pdf]](1https://www.aclweb.org/anthology/K/K17/K17-1012.pdf)
+_Proceedings of the 21st Conference on Computational Natural Language Learning (CoNLL 2017)_. Pages 100–111. [[pdf]](https://www.aclweb.org/anthology/K/K17/K17-1012.pdf)
+<br><span style="color:red"> ASSIGNED, 1st February </span> 
 
 * Shyam Upadhyay, Kai-Wei Chang, Matt Taddy, Adam Kalai and James Zou. (2017). Beyond Bilingual: Multi-sense Word Embeddings using Multilingual Context. 
 _Proceedings of the 2nd Workshop on Representation Learning for NLP (RepL4NLP)_. Pages 139-145. Vancouver, Canada. [[pdf]](http://aclweb.org/anthology/W/W17/W17-2613.pdf)
