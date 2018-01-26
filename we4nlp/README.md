@@ -48,7 +48,7 @@ _CoRR, abs/1706.04902_ [[pdf]](https://arxiv.org/pdf/1706.04902.pdf)
 <br><span style="color:red"> ASSIGNED (1 person), 7th  December </span>
 
 
-### Group A, PROVISIONAL
+### Group A
 
 * Quoc V. Le and Tomas Mikolov. (2014). Distributed Representations of Sentences and Documents. 
 _Proceedings of the 31st International Conference on Machine Learning, in PMLR_ 32(2). Pages 1188-1196. [[pdf]](http://proceedings.mlr.press/v32/le14.pdf)
@@ -67,7 +67,7 @@ _Proceedings of the Twenty-Fourth International Joint Conference on Artificial I
 * Christopher E Moody. (2016) Mixing Dirichlet Topic Models and Word Embeddings to Make lda2vec. _eprint arXiv:1605.02019_. [[pdf]](https://arxiv.org/pdf/1605.02019.pdf)
 
 
-### Group B, PROVISIONAL: Sense Embeddings
+### Group B: Sense Embeddings
 
 * Lucie Flekova and Iryna Gurevych. (2016). Supersense Embeddings: A Unified Model for Supersense Interpretation, Prediction, and Utilization.
 _Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics_. Pages 2029-2041. [[pdf]](http://www.aclweb.org/anthology/P16-1191)
@@ -87,7 +87,7 @@ _Proceedings of the 55th Annual Meeting of the Association for Computational Lin
 _Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing (EMNLP)_. Pages 2829-2835. Copenhagen, Denmark. [[pdf]](https://arxiv.org/pdf/1707.07601.pdf)
 
 * Sanjeev Arora, Yuanzhi Li, Yingyu Liang, Tengyu Ma and Andrej Risteski. (2016). Linear Algebraic Structure of Word Senses, with Applications to Polysemy.  _eprint arXiv: arXiv:1601.03764_. [[pdf]](https://arxiv.org/pdf/1601.03764.pdf)
-<br><span style="color:red"> ASSIGNED, 11th  January </span>
+<br><span style="color:red"> ASSIGNED, 11th  January </span>  [[slides]](./slides2017/6-Fangzhou_Polysemy.pdf) 
 
 <br>
 ## Term Paper
