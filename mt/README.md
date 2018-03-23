@@ -21,7 +21,7 @@ The cou
 <br>
 
 
-## References
+## Basic Bibliography
 
 There is no textbook for the course, but you can find related information in the following references.
 
@@ -32,5 +32,29 @@ There is no textbook for the course, but you can find related information in the
 
 ## Syllabus
 
+### Week 1
 
+* Introduction to the course
+* Introduction to MT
 
+### Week 2
+
+* Statistical Machine Translation
+
+### Week 3 
+
+* Statistical Machine Translation
+* Evaluation
+
+### Week 4
+
+* Lab1: Statistical Machine Translation (home)
+
+### Week 
+
+### Week 
+### Week 
+### Week 
+### Week 
+### Week 
+### Week 
