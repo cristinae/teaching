@@ -1,4 +1,9 @@
-### Winter Semester 2017/2018
+### Summer Semester 2016/2017 (UdS)
+
+* [Machine Translation](./mt/README.md)
+
+
+### Winter Semester 2017/2018 (UdS)
 
 * [Word Embeddings for Natural Language Processing and Information Retrieval](./we4nlp/README.md)
 
