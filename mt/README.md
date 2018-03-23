@@ -12,18 +12,22 @@ Who: Cristina España i Bonet (Part I)
 
 ## Objectives
 
-The course gives an introduction to machine translation paying special interest to statistical and neural machine translation systems. A strong background on mathematics, statistics and machine learning is not required but a basic knowledge is expected to follow the course.
+The course gives an introduction to machine translation going from statistical to neural machine translation systems and paying special attention to the current state of the art. A strong background on mathematics, statistics and machine learning is not required but a basic knowledge is expected to follow the course.
 <br>
 
 ## Evaluation
 
-The cou
+The evaluation consists of X assignments and a final exam:
+* SMT assignment (x%). Due in XXX
+* NMT assignment (x%). Due in XXX
+* ...
+* Final exam (x%). Date to be announced
 <br>
 
 
 ## Basic Bibliography
 
-There is no textbook for the course, but you can find related information in the following references.
+There is no textbook for the course, but you can find general information in the following references. More especific texts or slides will be provided for each session.
 
 * Statistical Machine Translation book by Philipp Koehn [[slides]](http://www.statmt.org/book/)
 * From SMT to NMT, three posts in a blog to understand the basics of NMT [[blog]](https://devblogs.nvidia.com/introduction-neural-machine-translation-with-gpus/)
@@ -34,27 +38,54 @@ There is no textbook for the course, but you can find related information in the
 
 ### Week 1
 
-* Introduction to the course
-* Introduction to MT
+* C1: Introduction to the course + MT
+* C2: Introduction to MT
 
 ### Week 2
 
-* Statistical Machine Translation
+* C3: Statistical Machine Translation
 
 ### Week 3 
 
-* Statistical Machine Translation
-* Evaluation
+* C4: Statistical Machine Translation
+* C5: Evaluation
 
 ### Week 4
 
-* Lab1: Statistical Machine Translation (home)
+* C6, C7: Lab1, Statistical Machine Translation (home)
 
-### Week 
+### Week 5
 
-### Week 
-### Week 
-### Week 
-### Week 
-### Week 
-### Week 
+* R1
+* R2
+
+### Week 6
+
+* C8: Lab1, doubts (on-site)
+
+### Week 7
+ 
+* R3
+* C9 :Lab1, report due and feedback (on-site)
+
+### Week 8
+
+* R4, R5: Lab2, Neural Machine Translation (home)
+
+### Week 9
+
+* R6: Lab2, doubts
+* 
+
+### Week 10
+
+### Week 11
+
+* 
+* R :Lab2, report due and feedback (on-site)
+
+### Week 12
+
+### Week 13 (later)
+
+* 
