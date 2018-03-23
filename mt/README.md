@@ -7,7 +7,7 @@ Who: Cristina España i Bonet (Part I)
      Raphael Rubino (Part II)
 ```
 
-## See the course [calendar](../calendars/calendarMT.md)
+### See the course [calendar](../calendars/calendarMT.md)
 <br>
 
 ## Objectives
@@ -18,6 +18,7 @@ The course gives an introduction to machine translation paying special interest 
 ## Evaluation
 
 The cou
+<br>
 
 
 ## References
@@ -26,7 +27,8 @@ There is no textbook for the course, but you can find related information in the
 
 * Statistical Machine Translation book by Philipp Koehn [[slides]](http://www.statmt.org/book/)
 * From SMT to NMT, three posts in a blog to understand the basics of NMT [[blog]](https://devblogs.nvidia.com/introduction-neural-machine-translation-with-gpus/)
-*Chapter on Neural Machine Translation by Philipp Koehn [[pdf]](https://arxiv.org/pdf/1709.07809.pdf)
+* Chapter on Neural Machine Translation by Philipp Koehn [[pdf]](https://arxiv.org/pdf/1709.07809.pdf)
+<br>
 
 ## Syllabus
 
