@@ -17,11 +17,11 @@ The course gives an introduction to machine translation going from statistical t
 
 ## Evaluation
 
-The evaluation consists of X assignments and a final exam:
-* SMT assignment (x%). Due in XXX
-* NMT assignment (x%). Due in XXX
-* ...
-* Final exam (x%). Date to be announced
+The evaluation consists of 3 assignments and a final exam:
+* SMT assignment (lab week 4, deadline week 7)
+* NMT assignment
+* Paper presentation & review (week 13, last week of course)
+* Final exam (date to be announced)
 <br>
 
 
@@ -43,12 +43,13 @@ There is no textbook for the course, but you can find general information in the
 
 ### Week 2
 
+* M1: Post-edition in Machine Translation (bring your laptop!)
 * C3: Statistical Machine Translation
 
 ### Week 3 
 
 * C4: Statistical Machine Translation
-* C5: Evaluation
+* C5: Evaluation (bring your laptop!)
 
 ### Week 4
 
@@ -56,36 +57,46 @@ There is no textbook for the course, but you can find general information in the
 
 ### Week 5
 
-* R1
-* R2
+* R1: Neural Machine Translation
+* R2: Neural Machine Translation
 
 ### Week 6
 
-* C8: Lab1, doubts (on-site)
+* Whit Monday
+* R3:
 
 ### Week 7
  
-* R3
-* C9 :Lab1, report due and feedback (on-site)
+* C8: Lab1, end, doubts and deadline (on-site, bring your laptop!)
+* R4: 
 
 ### Week 8
 
-* R4, R5: Lab2, Neural Machine Translation (home)
+* 
+* 
 
 ### Week 9
 
-* R6: Lab2, doubts
+* 
 * 
 
 ### Week 10
 
+* 
+* 
+
 ### Week 11
 
 * 
-* R :Lab2, report due and feedback (on-site)
+* 
 
 ### Week 12
 
-### Week 13 (later)
-
 * 
+* 
+
+### Week 13 
+
+* Student Presentations I
+* Student Presentations II
+
