@@ -1,4 +1,4 @@
-### Summer Semester 2016/2017 (UdS)
+### Summer Semester 2017/2018 (UdS)
 
 * [Machine Translation](./mt/README.md)
 
