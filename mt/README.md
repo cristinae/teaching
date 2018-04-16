@@ -29,6 +29,8 @@ The evaluation consists of 3 assignments and a final exam:
 
 There is no textbook for the course, but you can find general information in the following references. More especific texts or slides will be provided for each session.
 
+* Speech and Language Processing: An introduction to natural language processing, computational linguistics,
+and speech recognition by Daniel Jurafsky & James H. Martin. 2007. [[Chapter 25]](.//slides2018/biblio/JurafskyMartinChap25Draft.pdf). [[New draft]](https://web.stanford.edu/~jurafsky/slp3/)
 * Statistical Machine Translation book by Philipp Koehn [[slides]](http://www.statmt.org/book/)
 * From SMT to NMT, three posts in a blog to understand the basics of NMT [[blog]](https://devblogs.nvidia.com/introduction-neural-machine-translation-with-gpus/)
 * Chapter on Neural Machine Translation by Philipp Koehn [[pdf]](https://arxiv.org/pdf/1709.07809.pdf)
@@ -39,11 +41,12 @@ There is no textbook for the course, but you can find general information in the
 ### Week 1
 
 * C1: Introduction to the course + MT
-* C2: Introduction to MT
+* C2: Introduction to MT (we might use the laptop, not mandatory)
 
 ### Week 2
 
 * M1: Post-edition in Machine Translation (bring your laptop!)
+      <br><span style="color:red">Starts at 14:00!</span>
 * C3: Statistical Machine Translation
 
 ### Week 3 
