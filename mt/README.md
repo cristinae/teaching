@@ -41,11 +41,11 @@ and speech recognition by Daniel Jurafsky & James H. Martin. 2007 [[Chapter 25]]
 ### Week 1
 
 * C1: Introduction to the course [[slides]](.//slides2018/lectures/1a-introCourse.pdf) + Languages [[slides]](.//slides2018/lectures/2-introMThard.pdf) 
-* C2: Introduction to MT (we might use the laptop, not mandatory)
+* C2: Introduction to MT [[slides]](.//slides2018/lectures/3-introMT.pdf) (we might use the laptop, not mandatory)
 
 ### Week 2
 
-* M1: Post-edition in Machine Translation (bring your laptop!)
+* M1: Post-edition in Machine Translation [[slides]](.//slides2018/lectures/4-postEditing.pdf) (bring your laptop!)
       <br><span style="color:red">Monday 23/04/2018 starts at 14:00!</span>
 * C3: Statistical Machine Translation
 
