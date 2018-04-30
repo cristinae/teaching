@@ -47,12 +47,13 @@ and speech recognition by Daniel Jurafsky & James H. Martin. 2007 [[Chapter 25]]
 
 * M1: Post-edition in Machine Translation [[slides]](.//slides2018/lectures/4-postEditing.pdf) (bring your laptop!)
       <br><span style="color:red">Monday 23/04/2018 starts at 14:00!</span>
-* C3: Statistical Machine Translation
+* C3: Statistical Machine Translation [[slides]](.//slides2018/lectures/5-SMT.pdf) 
 
 ### Week 3 
 
-* C4: Statistical Machine Translation
-* C5: Evaluation (bring your laptop!)
+* C4: Statistical Machine Translation [[slides]](.//slides2018/lectures/5-SMT.pdf) 
+* C5: Statistical Machine Translation [[slides]](.//slides2018/lectures/5-SMT.pdf) 
+<br><span style="color:red">SMT slides are provisional till this comment disapears!</span>
 
 ### Week 4
 
@@ -71,7 +72,7 @@ and speech recognition by Daniel Jurafsky & James H. Martin. 2007 [[Chapter 25]]
 ### Week 7
  
 * C8: Lab1, end, doubts and deadline (on-site, bring your laptop!)
-* R4: 
+* C9: Evaluation (bring your laptop!)
 
 ### Week 8
 
@@ -91,12 +92,12 @@ and speech recognition by Daniel Jurafsky & James H. Martin. 2007 [[Chapter 25]]
 ### Week 11
 
 * 
-* 
+* Written Exam?
 
 ### Week 12
 
 * 
-* 
+* Student Presentations ?
 
 ### Week 13 
 
