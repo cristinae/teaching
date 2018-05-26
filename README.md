@@ -2,9 +2,7 @@
 
 * [Machine Translation](./mt/README.md)
 
-<br>
-
-* [Introduction to Word Embeddings](./seminaris/introWE.pdf)
+* [Introduction to Word Embeddings](./seminars/introWE.pdf)
 
 ### Winter Semester 2017/2018 (UdS)
 
