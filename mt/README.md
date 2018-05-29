@@ -53,11 +53,11 @@ and speech recognition by Daniel Jurafsky & James H. Martin. 2007 [[Chapter 25]]
 
 * C4: Statistical Machine Translation [[slides]](.//slides2018/lectures/5-SMT.pdf) 
 * C5: Statistical Machine Translation [[slides]](.//slides2018/lectures/5-SMT.pdf) 
-<br><span style="color:red">SMT slides are provisional till this comment disapears!</span>
 
 ### Week 4
 
 * C6, C7: Lab1, Statistical Machine Translation [[slides]](.//slides2018/lectures/6-labSMT.pdf)  (home)
+<br><span style="color:red">Commands with different language directions unified</span>
 
 ### Week 5
 
@@ -73,6 +73,7 @@ and speech recognition by Daniel Jurafsky & James H. Martin. 2007 [[Chapter 25]]
  
 * C8: Lab1, end, doubts and deadline (on-site, bring your laptop!)
 * C9: Evaluation (bring your laptop!)
+* <br><span style="color:red">01/05/2018 Deadline for Lab1 report</span>
 
 ### Week 8
 
