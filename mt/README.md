@@ -67,7 +67,7 @@ and speech recognition by Daniel Jurafsky & James H. Martin. 2007 [[Chapter 25]]
 ### Week 6
 
 * Whit Monday
-* R3:
+* R3: Neural Machine Translation
 
 ### Week 7
  
@@ -77,31 +77,31 @@ and speech recognition by Daniel Jurafsky & James H. Martin. 2007 [[Chapter 25]]
 
 ### Week 8
 
-* 
-* 
+* C10: Lab3, presentation
+* R4: Neural Machine Translation
 
 ### Week 9
 
-* 
-* 
+* R5: Neural Machine Translation
+* R6: Lab2, Neural Machine Translation (home)
 
 ### Week 10
 
-* 
-* 
+* R7: Lab2, Neural Machine Translation (home)
+* R8: Confidence Estimation
 
 ### Week 11
 
-* 
-* Written Exam?
+* R9: Lab2, end, doubts and deadline (on-site, bring your laptop!)
+* Lab3: Student Presentations I
 
 ### Week 12
 
-* 
-* Student Presentations ?
+* Lab3: Student Presentations II
+* Lab3: Student Presentations III
 
 ### Week 13 
 
-* Student Presentations I
-* Student Presentations II
+* Free
+* Written Exam
 
