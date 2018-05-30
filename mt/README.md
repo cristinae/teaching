@@ -72,7 +72,7 @@ and speech recognition by Daniel Jurafsky & James H. Martin. 2007 [[Chapter 25]]
 ### Week 7
  
 * C8: Lab1 Q&A (on-site, bring your laptop!)
-* C9: Evaluation (bring your laptop!)
+* C9: Evaluation (bring your laptop!) [[slides]](.//slides2018/lectures/7-MTEval.pdf) 
 * <span style="color:red">01/05/2018 Deadline for Lab1 report</span>
 
 ### Week 8
@@ -83,12 +83,12 @@ and speech recognition by Daniel Jurafsky & James H. Martin. 2007 [[Chapter 25]]
 ### Week 9
 
 * R5: Neural Machine Translation
-* R6: Lab2, Neural Machine Translation (home)
+* R6: Lab2, Neural Machine Translation
 
 ### Week 10
 
-* R7: Lab2, Neural Machine Translation (home)
-* R8: Confidence Estimation
+* R7: Lab2, Neural Machine Translation 
+* R8: Quality Estimation
 
 ### Week 11
 
