@@ -71,7 +71,7 @@ and speech recognition by Daniel Jurafsky & James H. Martin. 2007 [[Chapter 25]]
 
 ### Week 7
  
-* C8: Lab1, end, doubts and deadline (on-site, bring your laptop!)
+* C8: Lab1 Q&A (on-site, bring your laptop!)
 * C9: Evaluation (bring your laptop!)
 * <span style="color:red">01/05/2018 Deadline for Lab1 report</span>
 
@@ -92,15 +92,20 @@ and speech recognition by Daniel Jurafsky & James H. Martin. 2007 [[Chapter 25]]
 
 ### Week 11
 
-* R9: Lab2, end, doubts and deadline (on-site, bring your laptop!)
-* Lab3: Student Presentations I
+* R9: Lab2 Q&A (on-site, bring your laptop!)
+* 
 
 ### Week 12
+
+* 
+* Lab3: Student Presentations I
+
+### Week 13
 
 * Lab3: Student Presentations II
 * Lab3: Student Presentations III
 
-### Week 13 
+### Week 14 
 
 * Free
 * Written Exam
