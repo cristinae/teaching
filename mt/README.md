@@ -78,6 +78,8 @@ and speech recognition by Daniel Jurafsky & James H. Martin. 2007 [[Chapter 25]]
 ### Week 8
 
 * C10: Lab3, presentation
+Chose a [[paper]](https://docs.google.com/document/d/1wtGHDMnnHmCnY6uv-9bRO4FfsRHZqRuCvYVfRaCp83A/edit?usp=sharing) 
+Chose a [[date]](https://doodle.com/poll/pzcv2bngb4hiv38u)
 * R4: Neural Machine Translation
 
 ### Week 9
