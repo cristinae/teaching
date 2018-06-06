@@ -61,7 +61,7 @@ and speech recognition by Daniel Jurafsky & James H. Martin. 2007 [[Chapter 25]]
 
 ### Week 5
 
-* R1: Neural Machine Translation
+* R1: Neural Machine Translation [[slides]](http://raphael.rubino.free.fr/uds_summer2018_nmt1.pdf)
 * R2: Neural Machine Translation
 
 ### Week 6
