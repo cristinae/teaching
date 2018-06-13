@@ -62,12 +62,12 @@ and speech recognition by Daniel Jurafsky & James H. Martin. 2007 [[Chapter 25]]
 ### Week 5
 
 * R1: Neural Machine Translation [[slides]](http://raphael.rubino.free.fr/uds_summer2018_nmt1.pdf)
-* R2: Neural Machine Translation
+* R2: Neural Machine Translation [[slides]](http://raphael.rubino.free.fr/uds_summer2018_nmt2.pdf)
 
 ### Week 6
 
-* Whit Monday
-* R3: Neural Machine Translation
+* White Monday
+* R3: Neural Machine Translation [[slides]](http://raphael.rubino.free.fr/uds_summer2018_nmt3.pdf)
 
 ### Week 7
  
@@ -80,11 +80,11 @@ and speech recognition by Daniel Jurafsky & James H. Martin. 2007 [[Chapter 25]]
 * C10: Lab3, presentation [[slides]](.//slides2018/lectures/8-oralPresentation.pdf) 
 <br>Chose a [[paper]](https://docs.google.com/document/d/1wtGHDMnnHmCnY6uv-9bRO4FfsRHZqRuCvYVfRaCp83A/edit?usp=sharing) <span style="color:red"> Before 11th June!</span> 
 <br>Chose a [[date]](https://doodle.com/poll/pzcv2bngb4hiv38u)
-* R4: Neural Machine Translation
+* R4: Neural Machine Translation [[slides]](http://raphael.rubino.free.fr/uds_summer2018_nmt4.pdf)
 
 ### Week 9
 
-* R5: Neural Machine Translation
+* R5: Neural Machine Translation [[slides]](http://raphael.rubino.free.fr/uds_summer2018_nmt5.pdf)
 * R6: Lab2, Neural Machine Translation [[PDF]](http://raphael.rubino.free.fr/uds_summer2018_nmt_lab1.pdf)
 
 ### Week 10
