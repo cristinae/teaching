@@ -85,7 +85,7 @@ and speech recognition by Daniel Jurafsky & James H. Martin. 2007 [[Chapter 25]]
 ### Week 9
 
 * R5: Neural Machine Translation
-* R6: Lab2, Neural Machine Translation
+* R6: Lab2, Neural Machine Translation [[PDF]](http://raphael.rubino.free.fr/uds_summer2018_nmt_lab1.pdf)
 
 ### Week 10
 
