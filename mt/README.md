@@ -97,18 +97,59 @@ and speech recognition by Daniel Jurafsky & James H. Martin. 2007 [[Chapter 25]]
 * R9: Lab2 Q&A (on-site, bring your laptop!)
 * R10: Selected Topics
 
-### Week 12
+### Week 12 
 
-* Lab3: Student Presentations I
-* Lab3: Student Presentations II
+* 02/07/2018 Written Exam
+<br>Chose a [[date]](https://doodle.com/poll/yx5pithafigxdkxa) for the <span style="color:red"> Resit Exam</span> 
+* Free 
 
 ### Week 13
 
-* Lab3: Student Presentations III
-* Lab3: Student Presentations IV
+* 09/07/2018   Lab3: Student Presentations I
+<br> <br> 2:15-2:35 -- Matt Kuhn
+<br> _Europarl: A Parallel Corpus for Statistical Machine Translation_
+<br> <br> 2:40-3:00 -- Tanja Bäumel
+<br> _Beyond Parallel Data: Joint Word Alignment and Decipherment Improves Machine Translation_
+<br> <br> 3:05-3:25 -- Christine Schäfer
+<br> _Phrase-Based & Neural Unsupervised Machine Translation_
+<br> <br> 3:30-3:50 -- Anastasija Amann
+<br> _A Sense-Based Translation Model for Statistical Machine Translation_
 
-### Week 14 
+ 
+* 11/07/2018   Lab3: Student Presentations II
+<br> <br> 2:05-2:25 -- Polina Stadnikova
+<br> _Hierarchical Phrase-Based Translation_
+<br> <br> 2:25-2:45 -- Azin Zahraei
+<br> _Hierarchical Phrase-Based Translation_
+<br> <br> 2:50-3:10 -- Kirstin Kolmorgen
+<br> _Docent: A Document-Level Decoder for Phrase-Based Statistical Machine Translation_
+<br> <br> 3:15-3:35 -- Damyana Gateva
+<br> _Exploiting cross-sentence context for neural machine translation_
+<br> <br> 3:40-4:00 -- Iza Škrjanec
+<br> _Modeling Selectional Preferences of Verbs and Nouns in String-to-Tree Machine Translation_
 
-* Free (if possible)
-* Written Exam
+### Week 14
+
+* 16/07/2018   Lab3: Student Presentations III
+<br> <br> 2:15-2:35 -- Daria Pylypenko
+<br> _Modeling Source Syntax for Neural Machine Translation_
+<br> <br> 2:40-3:00 -- Mario Magued Mina
+<br> _Neural Machine Translation with Word Predictions_
+<br> <br> 3:05-3:25 -- Dominik Stammbach
+<br> _Unsupervised Neural Machine Translation with Weight Sharing_
+<br> <br> 3:30-3:50 -- Yanzhe Guo
+<br> _Lattice-Based Recurrent Neural Network Encoders for Neural Machine Translation_
+
+ 
+* 18/07/2018   Lab3: Student Presentations IV
+<br> <br> 2:15-2:35 -- Hali Lindsay
+<br> _Is Neural Machine Translation Ready for Deployment? A Case Study on 30 Translation Directions_
+<br> <br> 2:40-3:00 -- Lukas Schmitt
+<br> _Google’s Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation_
+<br> <br> 3:05-3:25 -- Meisyarah Dwiastuti
+<br> _Convolutional Sequence to Sequence Learning_
+<br> <br> 3:30-3:50 -- Insa Kröger
+<br> _A neural interlingua for multilingual machine translation_
+
+
 
