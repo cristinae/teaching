@@ -105,7 +105,7 @@ and speech recognition by Daniel Jurafsky & James H. Martin. 2007 [[Chapter 25]]
 
 ### Week 13
 
-* 09/07/2018   Lab3: Student Presentations I
+* *09/07/2018   Lab3: Student Presentations I*
 <br> <br> 2:15-2:35 -- Matt Kuhn
 <br> _Europarl: A Parallel Corpus for Statistical Machine Translation_
 <br> <br> 2:40-3:00 -- Tanja Bäumel
@@ -116,7 +116,7 @@ and speech recognition by Daniel Jurafsky & James H. Martin. 2007 [[Chapter 25]]
 <br> _A Sense-Based Translation Model for Statistical Machine Translation_
 
  
-* 11/07/2018   Lab3: Student Presentations II
+* *11/07/2018   Lab3: Student Presentations II*
 <br> <br> 2:05-2:25 -- Polina Stadnikova
 <br> _Hierarchical Phrase-Based Translation_
 <br> <br> 2:25-2:45 -- Azin Zahraei
@@ -130,7 +130,7 @@ and speech recognition by Daniel Jurafsky & James H. Martin. 2007 [[Chapter 25]]
 
 ### Week 14
 
-* 16/07/2018   Lab3: Student Presentations III
+* *16/07/2018   Lab3: Student Presentations III*
 <br> <br> 2:15-2:35 -- Daria Pylypenko
 <br> _Modeling Source Syntax for Neural Machine Translation_
 <br> <br> 2:40-3:00 -- Mario Magued Mina
@@ -141,7 +141,7 @@ and speech recognition by Daniel Jurafsky & James H. Martin. 2007 [[Chapter 25]]
 <br> _Lattice-Based Recurrent Neural Network Encoders for Neural Machine Translation_
 
  
-* 18/07/2018   Lab3: Student Presentations IV
+* *18/07/2018   Lab3: Student Presentations IV*
 <br> <br> 2:15-2:35 -- Hali Lindsay
 <br> _Is Neural Machine Translation Ready for Deployment? A Case Study on 30 Translation Directions_
 <br> <br> 2:40-3:00 -- Lukas Schmitt
