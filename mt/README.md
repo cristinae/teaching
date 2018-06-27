@@ -57,8 +57,7 @@ and speech recognition by Daniel Jurafsky & James H. Martin. 2007 [[Chapter 25]]
 
 ### Week 4
 
-* C6, C7: Lab1, Statistical Machine Translation [[slides]](.//slides2018/lectures/6-labSMT.pdf)  (home)
-<br><span style="color:red">Commands with different language directions unified</span>
+* C6, C7: Lab1, Statistical Machine Translation [[guidelines]](.//slides2018/lectures/6-labSMT.pdf)  (home)
 
 ### Week 5
 
