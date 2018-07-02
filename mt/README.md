@@ -22,7 +22,7 @@ The evaluation consists of 3 assignments and a final exam:
 * NMT assignment (lab week 9, deadline week 14)
 * Paper presentation & review (weeks 13/14, last week of course)
 * Final exam: <span style="color:red"> 02/07/2018 </span>
-* Resit exam: <span style="color:red"> [[vote!]](https://doodle.com/poll/yx5pithafigxdkxa) </span>
+* Resit exam: <span style="color:red"> 01/08/2018 </span>
 <br>
 
 
