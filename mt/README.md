@@ -58,7 +58,7 @@ and speech recognition by Daniel Jurafsky & James H. Martin. 2007 [[Chapter 25]]
 ### Week 4
 
 * C6, C7: Lab1, Statistical Machine Translation [[guidelines]](.//slides2018/lectures/6-labSMT.pdf)  (home)
-* <br><span style="color:red">Results: Ranked BLEU scores</span> [[ranking]](.//slides2018/students/resultsLAB1.pdf) 
+ <br><span style="color:red">Results: BLEU scores</span> [[ranking]](.//slides2018/students/resultsLAB1.pdf) 
 
 ### Week 5
 
@@ -79,7 +79,7 @@ and speech recognition by Daniel Jurafsky & James H. Martin. 2007 [[Chapter 25]]
 ### Week 8
 
 * C10: Lab3, presentation [[slides]](.//slides2018/lectures/8-oralPresentation.pdf) 
-<br>Chose a [[paper]](https://docs.google.com/document/d/1wtGHDMnnHmCnY6uv-9bRO4FfsRHZqRuCvYVfRaCp83A/edit?usp=sharing) <span style="color:red"> Before 11th June!</span> 
+<br>Chose a [[paper]](https://docs.google.com/document/d/1wtGHDMnnHmCnY6uv-9bRO4FfsRHZqRuCvYVfRaCp83A/edit?usp=sharing) 
 <br>Chose a [[date]](https://doodle.com/poll/pzcv2bngb4hiv38u)
 * R4: Neural Machine Translation [[slides]](http://raphael.rubino.free.fr/uds_summer2018_nmt4.pdf)
 
@@ -101,7 +101,7 @@ and speech recognition by Daniel Jurafsky & James H. Martin. 2007 [[Chapter 25]]
 ### Week 12 
 
 * 02/07/2018 Written Exam
-<br>Chose a [[date]](https://doodle.com/poll/yx5pithafigxdkxa) for the <span style="color:red"> Resit Exam</span> 
+<br>Chose a [[date]](https://doodle.com/poll/yx5pithafigxdkxa) for the Resit Exam 
 * Free 
 
 ### Week 13
