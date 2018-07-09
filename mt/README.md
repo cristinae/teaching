@@ -143,13 +143,15 @@ and speech recognition by Daniel Jurafsky & James H. Martin. 2007 [[Chapter 25]]
 
  
 * *18/07/2018   Lab3: Student Presentations IV*
-<br> <br> 2:15-2:35 -- Hali Lindsay
+<br><br> 2:00-2:20 -- Tanja Bäumel
+<br> _Beyond Parallel Data: Joint Word Alignment and Decipherment Improves Machine Translation_
+<br> 2:25-2:45 -- Hali Lindsay
 <br> _Is Neural Machine Translation Ready for Deployment? A Case Study on 30 Translation Directions_
-<br> 2:40-3:00 -- Lukas Schmitt
+<br> 2:50-3:10 -- Lukas Schmitt
 <br> _Google’s Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation_
-<br> 3:05-3:25 -- Meisyarah Dwiastuti
+<br> 3:15-3:35 -- Meisyarah Dwiastuti
 <br> _Convolutional Sequence to Sequence Learning_
-<br> 3:30-3:50 -- Insa Kröger
+<br> 3:40-4:00 -- Insa Kröger
 <br> _A neural interlingua for multilingual machine translation_
 
 
