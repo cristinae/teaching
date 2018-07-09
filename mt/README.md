@@ -58,6 +58,7 @@ and speech recognition by Daniel Jurafsky & James H. Martin. 2007 [[Chapter 25]]
 ### Week 4
 
 * C6, C7: Lab1, Statistical Machine Translation [[guidelines]](.//slides2018/lectures/6-labSMT.pdf)  (home)
+* <br><span style="color:red">Results: Ranked BLEU scores</span> [[ranking]](.//slides2018/students/resultsLAB1.pdf) 
 
 ### Week 5
 
@@ -113,7 +114,7 @@ and speech recognition by Daniel Jurafsky & James H. Martin. 2007 [[Chapter 25]]
 <br> 3:05-3:25 -- Christine Schäfer
 <br> _Phrase-Based & Neural Unsupervised Machine Translation_
 <br> 3:30-3:50 -- Anastasija Amann
-<br> _A Sense-Based Translation Model for Statistical Machine Translation_
+<br> _A Sense-Based Translation Model for Statistical Machine Translation_  [[slides]](.//slides2018/students/anastasija.pdf) 
 
  
 * *11/07/2018   Lab3: Student Presentations II*
