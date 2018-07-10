@@ -21,7 +21,7 @@ The evaluation consists of 3 assignments and a final exam:
 * SMT assignment (lab week 4, deadline week 7)
 * NMT assignment (lab week 9, deadline week 14)
 * Paper presentation & review (weeks 13/14, last week of course)
-* Final exam: <span style="color:red"> 02/07/2018 </span>
+* Final exam: 02/07/2018 <span style="color:red"> Review SMT: </span>19/07/2018 at 11 am or after your talk
 * Resit exam: <span style="color:red"> 01/08/2018 </span>
 <br>
 
@@ -108,7 +108,7 @@ and speech recognition by Daniel Jurafsky & James H. Martin. 2007 [[Chapter 25]]
 
 * *09/07/2018   Lab3: Student Presentations I*
 <br> <br> 2:15-2:35 -- Matt Kuhn
-<br> _Europarl: A Parallel Corpus for Statistical Machine Translation_
+<br> _Europarl: A Parallel Corpus for Statistical Machine Translation_  [[slides]](.//slides2018/students/matt.pptx) 
 <br> 2:40-3:00 -- Tanja Bäumel
 <br> _Beyond Parallel Data: Joint Word Alignment and Decipherment Improves Machine Translation_
 <br> 3:05-3:25 -- Christine Schäfer
