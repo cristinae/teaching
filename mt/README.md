@@ -21,7 +21,8 @@ The evaluation consists of 3 assignments and a final exam:
 * SMT assignment (lab week 4, deadline week 7)
 * NMT assignment (lab week 9, deadline week 14)
 * Paper presentation & review (weeks 13/14, last week of course)
-* Final exam: 02/07/2018 <span style="color:red"> Review SMT: </span>19/07/2018 at 11 am or after your talk
+* Final exam: 02/07/2018 
+<br> <span style="color:red"> Review SMT exam: </span>19/07/2018 at 11 am or after your talk
 * Resit exam: <span style="color:red"> 01/08/2018 </span>
 <br>
 
@@ -47,7 +48,6 @@ and speech recognition by Daniel Jurafsky & James H. Martin. 2007 [[Chapter 25]]
 ### Week 2
 
 * M1: Post-edition in Machine Translation [[slides]](.//slides2018/lectures/4-postEditing.pdf) (bring your laptop!)
-      <br><span style="color:red">Monday 23/04/2018 starts at 14:00!</span>
 * C3: Statistical Machine Translation [[slides]](.//slides2018/lectures/5-SMT.pdf) 
 
 ### Week 3 
