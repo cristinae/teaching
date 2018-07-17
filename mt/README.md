@@ -19,6 +19,7 @@ The course gives an introduction to machine translation going from statistical t
 
 The evaluation consists of 3 assignments and a final exam:
 * SMT assignment (lab week 4, deadline week 7)
+ <br><span style="color:red">Results: BLEU scores</span> [[ranking]](.//slides2018/students/resultsLAB1.pdf) 
 * NMT assignment (lab week 9, deadline week 14)
 * Paper presentation & review (weeks 13/14, last week of course)
 * Final exam: 02/07/2018 
@@ -138,7 +139,7 @@ and speech recognition by Daniel Jurafsky & James H. Martin. 2007 [[Chapter 25]]
 <br> _Neural Machine Translation with Word Predictions_
 <br> 3:05-3:25 -- Dominik Stammbach
 <br> _Unsupervised Neural Machine Translation with Weight Sharing_
-<br> 3:30-3:50 -- Yanzhe Guo
+<br> 3:30-3:50 -- Yanzhe Guo  [[slides]](.//slides2018/students/yanzhe.pptm) 
 <br> _Lattice-Based Recurrent Neural Network Encoders for Neural Machine Translation_
 
  
