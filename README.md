@@ -4,19 +4,18 @@
 
 <br>
 
-### Summer Semester 2017/2018 (UdS)
+
+### Previous semesters
+
+#### Summer Semester 2017/2018 (UdS)
 
 * [Machine Translation](./mt/README.md)
 
 * [Introduction to Word Embeddings](./seminars/introWE.pdf)
 
-### Winter Semester 2017/2018 (UdS)
+#### Winter Semester 2017/2018 (UdS)
 
 * [Word Embeddings for Natural Language Processing and Information Retrieval](./we4nlp/README.md)
-
-<br>
-
-### Previous semesters
 
 #### Summer Semester 2016/2017 (UdS)
 
