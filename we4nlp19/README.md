@@ -24,20 +24,19 @@ What:
 
 ## Course Structure
 
-* Background knowledge
+#### Background knowledge
 
-**2 weeks**
+**2 weeks** (lectures in the classical way)
 
-* Word Embeddings, basic typologies
+#### Word Embeddings, basic typologies
+
+**3 weeks, 1 presentation per student** (selected papers below)
+
+#### Embeddings, advanced notions
 
 **1 presentation per student** (selected papers below)
 
-
-* Embeddings, advanced notions
-
-**1 presentation per student** (selected papers below)
-
-* Embeddings in action
+#### Embeddings in action (depending on the number of students)
 
 **1 presentation per student** (papers must be selected from ACL, EMNLP or consulted otherwise)
 <br>
