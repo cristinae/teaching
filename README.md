@@ -1,3 +1,9 @@
+### Summer Semester 2018/2019 (UdS)
+
+* [Word Embeddings for Natural Language Processing and Information Retrieval](./we4nlp/)
+
+<br>
+
 ### Summer Semester 2017/2018 (UdS)
 
 * [Machine Translation](./mt/README.md)
