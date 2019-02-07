@@ -27,13 +27,19 @@ What:
 * Background knowledge
 
 * Word Embeddings, basic typologies
+<br>
 1 presentation per student (selected papers below)
 
+<br>
 * Embeddings, advanced notions
+<br>
 1 presentation per student (selected papers below)
 
+<br>
 * Embeddings in action
+<br>
 1 presentation per student (papers must be selected from ACL, EMNLP or consulted otherwise)
+<br>
 
 ## References
 
@@ -120,9 +126,8 @@ _Proceedings of the 2017 Conference on Empirical Methods in Natural Language Pro
 
 Suggested papers will be added here
 
-
-
 <br>
+
 ## Term Paper
 
 The topic <span style="color:red"> must </span> be agreed in advance
