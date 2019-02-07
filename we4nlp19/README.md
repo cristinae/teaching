@@ -26,19 +26,20 @@ What:
 
 * Background knowledge
 
+**2 weeks**
+
 * Word Embeddings, basic typologies
-<br>
-1 presentation per student (selected papers below)
 
-<br>
+**1 presentation per student** (selected papers below)
+
+
 * Embeddings, advanced notions
-<br>
-1 presentation per student (selected papers below)
 
-<br>
+**1 presentation per student** (selected papers below)
+
 * Embeddings in action
-<br>
-1 presentation per student (papers must be selected from ACL, EMNLP or consulted otherwise)
+
+**1 presentation per student** (papers must be selected from ACL, EMNLP or consulted otherwise)
 <br>
 
 ## References
@@ -57,7 +58,7 @@ _Proceedings of the Workshop at International Conference on Learning Representat
 * STEP BY STEP: Xin Rong. 2014. word2vec Parameter Learning Explained.
 _arXiv_ [[pdf]](https://arxiv.org/abs/1411.2738)
 
-<br><span style="color:green"> team work, date TBD  [[slides]](./slides2019/)</span>
+<span style="color:green"> team work, date TBD  [[slides]](./slides2019/)</span>
 
 #### GloVe
 
@@ -81,7 +82,7 @@ _arXiv_ [[pdf]](https://arxiv.org/abs/1411.2738)
 * Alan Akbik, Duncan Blythe, Roland Vollgraf. Contextual String Embeddings for Sequence Labeling. 2018. _Proceedings of the 27th International Conference on Computational Linguistics_. Pages 1638-1649.
 [[pdf]](http://aclweb.org/anthology/C18-1139)
 
-<br><span style="color:green"> team work, date TBD  [[slides]](./slides2019/)</span>
+<span style="color:green"> team work, date TBD  [[slides]](./slides2019/)</span>
 
 
 ### Advanced Notions
@@ -130,7 +131,7 @@ Suggested papers will be added here
 
 ## Term Paper
 
-The topic <span style="color:red"> must </span> be agreed in advance
+The topic <span style="color:red"> **must** </span> be agreed in advance
 
 ### Topics
 
