@@ -1,8 +1,8 @@
-# Word Embeddings for NLP and IR
+# Embeddings for NLP and IR
 ## General Info
 ```
 Where: Building C7.2, U15
-When: T??
+When: Wednesdays 8:30-10:00
 Who: Cristina España i Bonet
 What: 
 ```
@@ -26,11 +26,11 @@ What:
 
 #### Background knowledge
 
-**2 weeks** (lectures in the classical way)
+**3 weeks** (lectures in the classical way)
 
 #### Word Embeddings, basic typologies
 
-**3 weeks, 1 presentation per student** (selected papers below)
+**1 presentation per student** (group topics, selected papers below)
 
 #### Embeddings, advanced notions
 
