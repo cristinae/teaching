@@ -1,6 +1,6 @@
 ### Summer Semester 2018/2019 (UdS)
 
-* [Word Embeddings for Natural Language Processing and Information Retrieval](./we4nlp19/README.md)
+* [Embeddings for Natural Language Processing and Information Retrieval](./we4nlp19/README.md)
 
 <br>
 
@@ -15,7 +15,7 @@
 
 #### Winter Semester 2017/2018 (UdS)
 
-* [Word Embeddings for Natural Language Processing and Information Retrieval](./we4nlp18/README.md)
+* [Embeddings for Natural Language Processing and Information Retrieval](./we4nlp18/README.md)
 
 #### Summer Semester 2016/2017 (UdS)
 
