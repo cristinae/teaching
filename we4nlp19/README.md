@@ -1,8 +1,8 @@
 # Embeddings for NLP and IR
 ## General Info
 ```
-Where: Building C7.2, U15
-When: Wednesdays 8:30-10:00
+Where: Building C7.2, Room -1.05
+When: Wednesdays 8:30-10:00 (+intensive week for Part II)
 Who: Cristina España i Bonet
 What: 
 ```
@@ -24,19 +24,19 @@ What:
 
 ## Course Structure
 
-#### Background knowledge
+#### Part I: Background knowledge
 
 **3 weeks** (lectures in the classical way)
 
-#### Word Embeddings, basic typologies
+#### Part II: Word Embeddings, basic typologies and state of the art
 
 **1 presentation per student** (group topics, selected papers below)
 
-#### Embeddings, advanced notions
+#### Part III: Embeddings, advanced notions
 
 **1 presentation per student** (selected papers below)
 
-#### Embeddings in action (depending on the number of students)
+#### Part III: Embeddings in action (depending on the number of students)
 
 **1 presentation per student** (papers must be selected from ACL, EMNLP or consulted otherwise)
 <br>
