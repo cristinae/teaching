@@ -18,7 +18,7 @@ What:
 4. From words to sentences to documents to multimodal
 
 ### Scientific Presentations
-1. Oral Presentation [[slides]](./oral.pdf)
+1. Oral Presentation (W3) [[slides]](./oral.pdf)
 2. Technical Paper [[slides]](./paper.pdf)
 <br>
 
