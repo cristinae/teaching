@@ -26,11 +26,12 @@ What:
 
 #### Part I: Background knowledge
 
-* Introduction to the course [[slides]](./introCourse.pdf)
+* W1: Introduction to the course [[slides]](./introCourse.pdf)
 
 **3 weeks** (lectures in the classical way)
-
-* Introduction to embeddings [[slides]](./)
+* W2: Introduction to embeddings [[slides]](./)
+* W3: Introduction to PCA, SVD and others [[slides]](./)
+* W4: Practical exercise (bring your laptop with python!)
 
 
 #### Part II: Embeddings, basic typologies and state of the art
