@@ -2,7 +2,7 @@
 ## General Info
 ```
 Where: Building C7.2, Room -1.05
-When: Wednesdays 8:30-10:00 (+intensive week for Part II)
+When: Wednesdays 8:30-10:00 (2h sessions for Part II)
 Who: Cristina España i Bonet
 What: 
 ```
