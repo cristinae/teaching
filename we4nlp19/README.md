@@ -26,19 +26,21 @@ What:
 
 #### Part I: Background knowledge
 
+* Introduction to the course [[slides]](./introCourse.pdf)
+
 **3 weeks** (lectures in the classical way)
 
-#### Part II: Word Embeddings, basic typologies and state of the art
+* Introduction to embeddings [[slides]](./)
+
+
+#### Part II: Embeddings, basic typologies and state of the art
 
 **1 presentation per student** (group topics, selected papers below)
 
-#### Part III: Embeddings, advanced notions
+#### Part III: Advanced notions and embeddings in action 
 
-**1 presentation per student** (selected papers below)
+**1 presentation per student** (selected papers below, or a chosen paper from ACL, EMNLP -consulted otherwise)
 
-#### Part III: Embeddings in action (depending on the number of students)
-
-**1 presentation per student** (papers must be selected from ACL, EMNLP or consulted otherwise)
 <br>
 
 ## References
@@ -49,12 +51,12 @@ What:
  
 #### word2vec
 
-* MAIN: Tomas Mikolov, Kai Chen, Greg Corrado and Jeffrey Dean. 2013. Efficient Estimation of Word Representations in Vector Space. 
+* Tomas Mikolov, Kai Chen, Greg Corrado and Jeffrey Dean. 2013. Efficient Estimation of Word Representations in Vector Space. 
 _Proceedings of the Workshop at International Conference on Learning Representations (ICLR)_. Pages 1-12. [[pdf]](https://arxiv.org/pdf/1301.3781)
 
-* RELATED: Tomas Mikolov, Ilya Sutskever, Kai Chen, Greg Corrado and Jeffrey Dean. 2013. Distributed Representations of Words and Phrases and their Compositionality. _Advances in Neural Information Processing Systems 26_.  Pages 3111-3119. [[pdf]](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
+* Tomas Mikolov, Ilya Sutskever, Kai Chen, Greg Corrado and Jeffrey Dean. 2013. Distributed Representations of Words and Phrases and their Compositionality. _Advances in Neural Information Processing Systems 26_.  Pages 3111-3119. [[pdf]](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
 
-* STEP BY STEP: Xin Rong. 2014. word2vec Parameter Learning Explained.
+* Xin Rong. 2014. word2vec Parameter Learning Explained.
 _arXiv_ [[pdf]](https://arxiv.org/abs/1411.2738)
 
 <span style="color:green"> team work, date TBD  [[slides]](./slides2019/)</span>
@@ -63,15 +65,15 @@ _arXiv_ [[pdf]](https://arxiv.org/abs/1411.2738)
 
 * Jeffrey Pennington, Richard Socher, and Christopher D. Manning. 2014. GloVe: Global Vectors for Word Representation. _Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP)_.  Pages 1532-1543.
 [[pdf]](https://nlp.stanford.edu/pubs/glove.pdf)
-<br><span style="color:green"> 1 person, date TBD  [[slides]](./slides2019/)</span>
 
 #### Fastext
 
 * Piotr Bojanowski, Edouard Grave, Armand Joulin, Tomas Mikolov. 2017. Enriching Word Vectors with Subword Information. _Transactions of the Association for Computational Linguistics_. Vol 5. Pages 135-146.
 [[pdf]](http://aclweb.org/anthology/Q17-1010)
-<br><span style="color:green"> 1 person, date TBD  [[slides]](./slides2019/)</span>
 
-#### ELMo, BERT and Family
+<span style="color:green"> team work, date TBD  [[slides]](./slides2019/)</span>
+
+#### ELMo, BERT, OpenAI-GTP and Family
 
 * Matthew E. Peters, Mark Neumann, Mohit Iyyer, Matt Gardner, Christopher Clark, Kenton Lee, Luke Zettlemoyer. 2018. Deep contextualized word representations. _Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies_. Vol. 1. Pages 2227-2237.
 [[pdf]](http://aclweb.org/anthology/N18-1202)
@@ -84,7 +86,7 @@ _arXiv_ [[pdf]](https://arxiv.org/abs/1411.2738)
 <span style="color:green"> team work, date TBD  [[slides]](./slides2019/)</span>
 
 
-### Advanced Notions
+### Advanced Notions and Applications
 
 <span style="color:red"> Very provisional </span>
 
@@ -121,11 +123,6 @@ _Proceedings of the 55th Annual Meeting of the Association for Computational Lin
 * Spandana Gella, Rico Sennrich, Frank Keller and Mirella Lapata. (2017). Image Pivoting for Learning Multilingual Multimodal Representations. 
 _Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing (EMNLP)_. Pages 2829-2835. Copenhagen, Denmark. [[pdf]](https://arxiv.org/pdf/1707.07601.pdf)
 
-
-### Applications
-
-Suggested papers will be added here
-
 <br>
 
 ## Term Paper
@@ -140,7 +137,9 @@ The topic <span style="color:red"> **must** </span> be agreed in advance
 
 * Option 3: Word Embeddings on Semantic Features
 
-* Option 4: Other (ask/propose!)
+* Option 4: Contextual Embeddings in use
+
+* Option 5: Other (ask/propose!)
 
 
 ### Format
