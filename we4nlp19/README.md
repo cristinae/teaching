@@ -3,7 +3,7 @@
 ```
 Where: Building C7.2, Room -1.05
 When: Wednesdays 8:30-10:00 (2h sessions for Part II)
-Who: Cristina España i Bonet
+Who: Cristina España i Bonet (and Koel Dutta)
 What: 
 ```
 
@@ -18,7 +18,7 @@ What:
 4. From words to sentences to documents to multimodal
 
 ### Scientific Presentations
-1. Oral Presentation (W3) [[slides]](./oral.pdf)
+1. Oral Presentation (W4) [[slides]](./oral.pdf)
 2. Technical Paper [[slides]](./paper.pdf)
 <br>
 
@@ -30,8 +30,8 @@ What:
 
 **3 weeks** (lectures in the classical way)
 * W2: Introduction to embeddings [[slides]](./)
-* W3: Introduction to PCA, SVD and others [[slides]](./)
-* W4: Practical exercise (bring your laptop with python!)
+* W3: Practical exercise (bring your laptop with python!)
+* W4: Introduction to PCA, SVD and others [[slides]](./)
 
 
 #### Part II: Embeddings, basic typologies and state of the art
@@ -98,6 +98,8 @@ _Proceedings of the 31st International Conference on Machine Learning, in PMLR_ 
 _Proceedings of the Twenty-Fourth International Joint Conference on Artificial Intelligence (IJCAI)_. Pages 1236-1242. [[pdf]](https://www.ijcai.org/Proceedings/15/Papers/178.pdf)
 
 * Jiaqi Mu, Suma Bhat, Pramod Viswanath. (2018). All-but-the-Top: Simple and Effective Postprocessing for Word Representations. _International Conference on Learning Representations (ICLR)_. [[pdf]](https://arxiv.org/pdf/1702.01417.pdf)
+
+* Alexis Conneau, Douwe Kiela, Holger Schwenk, Loic Barrault, Antoine Bordes. (2017). Supervised Learning of Universal Sentence Representations from Natural Language Inference Data. _Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing (EMNLP)_. Pages 670-680. [[pdf]](https://www.aclweb.org/anthology/D17-1070)
 
 * Anders Søgaard, Zeljko Agic, Hector Martinez Alonso, Barbara Plank, Bernd Bohnet. (2015). Inverted indexing for cross-lingual NLP.  _53rd Annual Meeting of the Association for Computational Linguistics (ACL)_. Vol. 1. Pages 1713-1722. [[pdf]](http://www.aclweb.org/anthology/P15-1165)
 
