@@ -29,7 +29,7 @@ What:
 * W1: Introduction to the course [[slides]](./introCourse.pdf)
 
 **3 weeks** (lectures in the classical way)
-* W2: Introduction to embeddings [[slides]](./)
+* W2: Introduction to embeddings [[slides]](./introWE.pdf)
 * W3: Practical exercise (bring your laptop with python!)
 * W4: Introduction to PCA, SVD and others [[slides]](./)
 
