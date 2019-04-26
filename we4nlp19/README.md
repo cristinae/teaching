@@ -64,6 +64,9 @@ _Proceedings of the Workshop at International Conference on Learning Representat
 * Xin Rong. 2014. word2vec Parameter Learning Explained.
 _arXiv_ [[pdf]](https://arxiv.org/abs/1411.2738)
 
+* Tomas Mikolov, Quoc V. Le and Ilya Sutskever. 2014. Exploiting Similarities among Languages for Machine Translation. _CoRR, abs/1309.4168_. [[pdf]](https://arxiv.org/pdf/1309.4168.pdf)
+
+
 <span style="color:green"> 22/05/2019 (2h) - Lisa Kluge, Jesujoba Alabi, Kwabena Amponsah, Daria Pylypenko, Morgan Wixted [[slides]](./slides2019/)</span>
 
 #### GloVe
