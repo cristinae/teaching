@@ -40,7 +40,7 @@ What:
 
 #### Part III: Advanced notions and embeddings in action 
 
-**1 presentation per student** (selected papers below, or a chosen paper from ACL, EMNLP -consulted otherwise)
+**1 presentation per student** (selected papers below, or a chosen paper from ACL, EMNLP, ICLR -consulted otherwise)
 
 <br>
 
@@ -60,7 +60,7 @@ _Proceedings of the Workshop at International Conference on Learning Representat
 * Xin Rong. 2014. word2vec Parameter Learning Explained.
 _arXiv_ [[pdf]](https://arxiv.org/abs/1411.2738)
 
-<span style="color:green"> team work, date TBD  [[slides]](./slides2019/)</span>
+<span style="color:green"> 29/05/2019 (2h) - Lisa Kluge, Jesujoba Alabi, Kwabena Amponsah, Daria Pylypenko, Morgan Wixted [[slides]](./slides2019/)</span>
 
 #### GloVe
 

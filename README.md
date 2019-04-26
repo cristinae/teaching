@@ -2,6 +2,10 @@
 
 * [Embeddings for Natural Language Processing and Information Retrieval](./we4nlp19/README.md)
 
+### Summer Semester 2018/2019 (UPC)
+
+* [Artificial Intelligence with Deep Learning - NLP Block](./)
+
 <br>
 
 
