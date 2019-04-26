@@ -38,6 +38,8 @@ What:
 
 **1 presentation per student** (group topics, selected papers below)
 
+* W5, W6, W7, W8:  Chose a [[topic]](https://doodle.com/poll/re3ksp9t9sqv9xwb)
+
 #### Part III: Advanced notions and embeddings in action 
 
 **1 presentation per student** (selected papers below, or a chosen paper from ACL, EMNLP, ICLR -consulted otherwise)
@@ -62,7 +64,7 @@ _Proceedings of the Workshop at International Conference on Learning Representat
 * Xin Rong. 2014. word2vec Parameter Learning Explained.
 _arXiv_ [[pdf]](https://arxiv.org/abs/1411.2738)
 
-<span style="color:green"> 29/05/2019 (2h) - Lisa Kluge, Jesujoba Alabi, Kwabena Amponsah, Daria Pylypenko, Morgan Wixted [[slides]](./slides2019/)</span>
+<span style="color:green"> 22/05/2019 (2h) - Lisa Kluge, Jesujoba Alabi, Kwabena Amponsah, Daria Pylypenko, Morgan Wixted [[slides]](./slides2019/)</span>
 
 #### GloVe
 
@@ -74,7 +76,7 @@ _arXiv_ [[pdf]](https://arxiv.org/abs/1411.2738)
 * Piotr Bojanowski, Edouard Grave, Armand Joulin, Tomas Mikolov. 2017. Enriching Word Vectors with Subword Information. _Transactions of the Association for Computational Linguistics_. Vol 5. Pages 135-146.
 [[pdf]](http://aclweb.org/anthology/Q17-1010)
 
-<span style="color:green"> 05/06/2019 (1h45) - Egla Hajdini, Nora Graichen, Aqsa Nazir, Insa Kröger [[slides]](./slides2019/)</span>
+<span style="color:green"> 29/05/2019 (1h45) - Egla Hajdini, Nora Graichen, Aqsa Nazir, Insa Kröger [[slides]](./slides2019/)</span>
 
 #### ELMo, BERT, OpenAI-GTP and Family
 
@@ -86,7 +88,7 @@ _arXiv_ [[pdf]](https://arxiv.org/abs/1411.2738)
 * Alan Akbik, Duncan Blythe, Roland Vollgraf. Contextual String Embeddings for Sequence Labeling. 2018. _Proceedings of the 27th International Conference on Computational Linguistics_. Pages 1638-1649.
 [[pdf]](http://aclweb.org/anthology/C18-1139)
 
-<span style="color:green"> 12/06/2019 (2h) - Vanessa Hahn, Tatiana Anikina, Marc Altmeyer, Daria Stetsenko, Sourav Dutta  [[slides]](./slides2019/)</span>
+<span style="color:green"> 05/06/2019 (2h) - Vanessa Hahn, Tatiana Anikina, Marc Altmeyer, Daria Stetsenko, Sourav Dutta  [[slides]](./slides2019/)</span>
 
 #### Multilingual embeddings
 
@@ -96,7 +98,7 @@ _arXiv_ [[pdf]](https://arxiv.org/abs/1411.2738)
 
 * Alexis Conneau, Guillaume Lample, Marc'Aurelio Ranzato, Ludovic Denoyer and Hervé Jégou. (2018). Word Translation Without Parallel Data. _ International Conference on Learning Representations (ICLR 2018)_. [[pdf]](https://arxiv.org/pdf/1710.04087.pdf)
 
-<span style="color:green"> 19/06/2019 (1h45m) - Susann Boy, Kathryn Chapman, Natalia Skachkova, Guadalupe Romero [[slides]](./slides2019/)</span>
+<span style="color:green"> 12/06/2019 (1h45m) - Susann Boy, Kathryn Chapman, Natalia Skachkova, Guadalupe Romero [[slides]](./slides2019/)</span>
 
 
 ### Advanced Notions and Applications
