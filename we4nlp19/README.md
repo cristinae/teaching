@@ -49,6 +49,8 @@ What:
 (Provisional: the papers and its distribution depend on the number of students)
 
 ### Word Embeddings, basic typologies
+
+Seed papers for presentations:
  
 #### word2vec
 
@@ -72,7 +74,7 @@ _arXiv_ [[pdf]](https://arxiv.org/abs/1411.2738)
 * Piotr Bojanowski, Edouard Grave, Armand Joulin, Tomas Mikolov. 2017. Enriching Word Vectors with Subword Information. _Transactions of the Association for Computational Linguistics_. Vol 5. Pages 135-146.
 [[pdf]](http://aclweb.org/anthology/Q17-1010)
 
-<span style="color:green"> team work, date TBD  [[slides]](./slides2019/)</span>
+<span style="color:green"> 05/06/2019 (1h45) - Egla Hajdini, Nora Graichen, Aqsa Nazir, Insa Kröger [[slides]](./slides2019/)</span>
 
 #### ELMo, BERT, OpenAI-GTP and Family
 
@@ -84,12 +86,24 @@ _arXiv_ [[pdf]](https://arxiv.org/abs/1411.2738)
 * Alan Akbik, Duncan Blythe, Roland Vollgraf. Contextual String Embeddings for Sequence Labeling. 2018. _Proceedings of the 27th International Conference on Computational Linguistics_. Pages 1638-1649.
 [[pdf]](http://aclweb.org/anthology/C18-1139)
 
-<span style="color:green"> team work, date TBD  [[slides]](./slides2019/)</span>
+<span style="color:green"> 12/06/2019 (2h) - Vanessa Hahn, Tatiana Anikina, Marc Altmeyer, Daria Stetsenko, Sourav Dutta  [[slides]](./slides2019/)</span>
+
+#### Multilingual embeddings
+
+* Manaal Faruqui and Chris Dyer. (2014). Improving Vector Space Word Representations Using Multilingual Correlation. _Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics_. Vol. 1. Pages 789-798. [[pdf]](https://www.aclweb.org/anthology/E14-1049)
+
+* Mikel Artetxe, Gorka Labaka, Eneko Agirre. (2018). A robust self-learning method for fully unsupervised cross-lingual mappings of word embeddings. _Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics_. Vol. 1. Pages 789-798. [[pdf]](http://aclweb.org/anthology/P18-1073)
+
+* Alexis Conneau, Guillaume Lample, Marc'Aurelio Ranzato, Ludovic Denoyer and Hervé Jégou. (2018). Word Translation Without Parallel Data. _ International Conference on Learning Representations (ICLR 2018)_. [[pdf]](https://arxiv.org/pdf/1710.04087.pdf)
+
+<span style="color:green"> 19/06/2019 (1h45m) - Susann Boy, Kathryn Chapman, Natalia Skachkova, Guadalupe Romero [[slides]](./slides2019/)</span>
 
 
 ### Advanced Notions and Applications
 
 <span style="color:red"> Very provisional </span>
+
+* Chengyue Gong, Di He, Xu Tan, Tao Qin, Liwei Wang and Tie-Yan Liu. (2018). FRAGE: Frequency-Agnostic Word Representation. _32nd Conference on Neural Information Processing Systems (NeurIPS 2018)_. [[pdf]](https://papers.nips.cc/paper/7408-frage-frequency-agnostic-word-representation.pdf)
 
 * Quoc V. Le and Tomas Mikolov. (2014). Distributed Representations of Sentences and Documents. 
 _Proceedings of the 31st International Conference on Machine Learning, in PMLR_ 32(2). Pages 1188-1196. [[pdf]](http://proceedings.mlr.press/v32/le14.pdf)
@@ -107,7 +121,6 @@ _Proceedings of the Twenty-Fourth International Joint Conference on Artificial I
 
 * Maximilian Nickel, Douwe Kiela. (2017) Poincaré Embeddings for Learning Hierarchical Representations. _eprint arXiv:1705.08039_. [[pdf]](https://arxiv.org/pdf/1705.08039.pdf)
 
-* Mikel Artetxe, Gorka Labaka, Eneko Agirre. (2018). A robust self-learning method for fully unsupervised cross-lingual mappings of word embeddings. _Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics_. Vol. 1. Pages 789-798. [[pdf]](http://aclweb.org/anthology/P18-1073)
 
 * Christopher E Moody. (2016) Mixing Dirichlet Topic Models and Word Embeddings to Make lda2vec. _eprint arXiv:1605.02019_. [[pdf]](https://arxiv.org/pdf/1605.02019.pdf)
 
@@ -117,14 +130,6 @@ _Proceedings of the 54th Annual Meeting of the Association for Computational Lin
 * Massimiliano Mancini, Jose Camacho-Collados, Ignacio Iacobacci and Roberto Navigli. (2017). Embedding Words and Senses Together via Joint Knowledge-Enhanced Training.
 _Proceedings of the 21st Conference on Computational Natural Language Learning (CoNLL 2017)_. Pages 100–111. [[pdf]](https://www.aclweb.org/anthology/K/K17/K17-1012.pdf)
 
-* Shyam Upadhyay, Kai-Wei Chang, Matt Taddy, Adam Kalai and James Zou. (2017). Beyond Bilingual: Multi-sense Word Embeddings using Multilingual Context. 
-_Proceedings of the 2nd Workshop on Representation Learning for NLP (RepL4NLP)_. Pages 139-145. Vancouver, Canada. [[pdf]](http://aclweb.org/anthology/W/W17/W17-2613.pdf)
-
-* Ben Athiwaratkun and Andrew Gordon Wilson. (2017). Multimodal Word Distributions. 
-_Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (ACL)_. Vol. 1. Pages 1645-1656. Vancouver, Canada. [[pdf]](http://www.aclweb.org/anthology/P/P17/P17-1151.pdf)
-
-* Spandana Gella, Rico Sennrich, Frank Keller and Mirella Lapata. (2017). Image Pivoting for Learning Multilingual Multimodal Representations. 
-_Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing (EMNLP)_. Pages 2829-2835. Copenhagen, Denmark. [[pdf]](https://arxiv.org/pdf/1707.07601.pdf)
 
 <br>
 
