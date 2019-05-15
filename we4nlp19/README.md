@@ -31,7 +31,7 @@ What:
 **3 weeks** (lectures in the classical way)
 * W2: Introduction to embeddings [[slides]](./introWE.pdf)
 * W3: Practical exercise (bring your laptop with python!)
-* W4: Introduction to PCA, SVD and others [[slides]](./)
+* W4: Introduction to PCA, SVD and others [[slides]](./introPCA.pdf)
 
 
 #### Part II: Embeddings, basic typologies and state of the art
