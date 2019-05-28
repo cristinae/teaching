@@ -42,13 +42,11 @@ What:
 
 #### Part III: Advanced notions and embeddings in action 
 
-**1 presentation per student** (selected papers below, or a chosen paper from ACL, EMNLP, ICLR -consulted otherwise)
+**1 presentation per student** (2 people per paper, selected papers below, or a chosen paper from ACL, EMNLP, ICLR -consulted otherwise)
 
 <br>
 
 ## References
-
-(Provisional: the papers and its distribution depend on the number of students)
 
 ### Word Embeddings, basic typologies
 
@@ -67,7 +65,7 @@ _arXiv_ [[pdf]](https://arxiv.org/abs/1411.2738)
 * Tomas Mikolov, Quoc V. Le and Ilya Sutskever. 2014. Exploiting Similarities among Languages for Machine Translation. _CoRR, abs/1309.4168_. [[pdf]](https://arxiv.org/pdf/1309.4168.pdf)
 
 
-<span style="color:green"> 22/05/2019 (2h) - Lisa Kluge, Jesujoba Alabi, Kwabena Amponsah, Daria Pylypenko, Morgan Wixted [[slides]](./slides2019/)</span>
+<span style="color:green"> 22/05/2019 (2h) - Lisa Kluge, Jesujoba Alabi, Kwabena Amponsah, Daria Pylypenko, Morgan Wixted [[slides]](./slides2019/w2v.pdf)</span>
 
 #### GloVe
 
@@ -91,7 +89,7 @@ _arXiv_ [[pdf]](https://arxiv.org/abs/1411.2738)
 * Alan Akbik, Duncan Blythe, Roland Vollgraf. Contextual String Embeddings for Sequence Labeling. 2018. _Proceedings of the 27th International Conference on Computational Linguistics_. Pages 1638-1649.
 [[pdf]](http://aclweb.org/anthology/C18-1139)
 
-<span style="color:green"> 05/06/2019 (2h) - Vanessa Hahn, Tatiana Anikina, Marc Altmeyer, Daria Stetsenko, Sourav Dutta  [[slides]](./slides2019/)</span>
+<span style="color:green"> 05/06/2019 (2h) - Vanessa Hahn, Tatiana Anikina, Marc Altmeyer, Sourav Dutta  [[slides]](./slides2019/)</span>
 
 #### Multilingual embeddings
 
@@ -106,7 +104,7 @@ _arXiv_ [[pdf]](https://arxiv.org/abs/1411.2738)
 
 ### Advanced Notions and Applications
 
-<span style="color:red"> Very provisional </span>
+<span style="color:red"> Provisional, you can add! </span>
 
 * Chengyue Gong, Di He, Xu Tan, Tao Qin, Liwei Wang and Tie-Yan Liu. (2018). FRAGE: Frequency-Agnostic Word Representation. _32nd Conference on Neural Information Processing Systems (NeurIPS 2018)_. [[pdf]](https://papers.nips.cc/paper/7408-frage-frequency-agnostic-word-representation.pdf)
 
@@ -144,15 +142,13 @@ The topic <span style="color:red"> **must** </span> be agreed in advance
 
 ### Topics
 
-* Option 1: Analysis of Word Embeddings according to Corpus Size and Domain/Language
+* Option 1: Analysis of Word Embeddings according to Corpus Size and Domain/Language (use Wikipedia dumps)
 
-* Option 2: Word Embeddings with Multiword Expressions
+* Option 2: Word Embeddings with Multiword Expressions (use Wikipedia dumps)
 
-* Option 3: Word Embeddings on Semantic Features
+* Option 3: Contextual Embeddings in use (pretrained contextual embeddings for an NLP task of your choice)
 
-* Option 4: Contextual Embeddings in use
-
-* Option 5: Other (ask/propose!)
+* Option 4: Other (ask/propose!)
 
 
 ### Format
