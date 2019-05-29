@@ -77,7 +77,7 @@ _arXiv_ [[pdf]](https://arxiv.org/abs/1411.2738)
 * Piotr Bojanowski, Edouard Grave, Armand Joulin, Tomas Mikolov. 2017. Enriching Word Vectors with Subword Information. _Transactions of the Association for Computational Linguistics_. Vol 5. Pages 135-146.
 [[pdf]](http://aclweb.org/anthology/Q17-1010)
 
-<span style="color:green"> 29/05/2019 (1h45) - Egla Hajdini, Nora Graichen, Aqsa Nazir, Insa Kröger [[slides]](./slides2019/)</span>
+<span style="color:green"> 29/05/2019 (1h45) - Egla Hajdini, Nora Graichen, Aqsa Nazir, Insa Kröger [[slides]](./slides2019/GloVeFastText.pdf)</span>
 
 #### ELMo, BERT, OpenAI-GTP and Family
 
@@ -125,7 +125,7 @@ _Proceedings of the Twenty-Fourth International Joint Conference on Artificial I
 * Maximilian Nickel, Douwe Kiela. (2017) Poincaré Embeddings for Learning Hierarchical Representations. _eprint arXiv:1705.08039_. [[pdf]](https://arxiv.org/pdf/1705.08039.pdf)
 
 
-* Christopher E Moody. (2016) Mixing Dirichlet Topic Models and Word Embeddings to Make lda2vec. _eprint arXiv:1605.02019_. [[pdf]](https://arxiv.org/pdf/1605.02019.pdf)
+* Christopher E Moody. (2016) Mixing Dirichlet Topic Models and Word Embeddings to Make lda2vec. _eprint arXiv:1605.02019_. [[pdf]](https://arxiv.org/pdf/1605.02019.pdf) <span style="color:green"> Nora Graichen, Insa Kröger [[slides]](./slides2019/)</span>
 
 * Lucie Flekova and Iryna Gurevych. (2016). Supersense Embeddings: A Unified Model for Supersense Interpretation, Prediction, and Utilization.
 _Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics_. Pages 2029-2041. [[pdf]](http://www.aclweb.org/anthology/P16-1191)
