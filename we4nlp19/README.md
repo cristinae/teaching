@@ -114,16 +114,19 @@ _Proceedings of the 31st International Conference on Machine Learning, in PMLR_ 
 * Xinxiong Chen, Lei Xu, Zhiyuan Liu, Maosong Sun and Huanbo Luan. (2015). Joint Learning of Character and Word Embeddings.
 _Proceedings of the Twenty-Fourth International Joint Conference on Artificial Intelligence (IJCAI)_. Pages 1236-1242. [[pdf]](https://www.ijcai.org/Proceedings/15/Papers/178.pdf)
 
+* Ben Athiwaratkun, Andrew Wilson, Anima Anandkumar. (2018). Probabilistic FastText for Multi-Sense Word Embeddings. _56th Annual Meeting of the Association for Computational Linguistics (ACL)_. Vol. 1. Pages 1-11. [[pdf]](https://www.aclweb.org/anthology/P18-1001)
+
 * Jiaqi Mu, Suma Bhat, Pramod Viswanath. (2018). All-but-the-Top: Simple and Effective Postprocessing for Word Representations. _International Conference on Learning Representations (ICLR)_. [[pdf]](https://arxiv.org/pdf/1702.01417.pdf)
 
+* Goran Glavaš, Ivan Vulić. (2018). Explicit Retrofitting of Distributional Word Vectors. _56th Annual Meeting of the Association for Computational Linguistics (ACL)_. Vol. 1. Pages 34-45. [[pdf]](https://www.aclweb.org/anthology/P18-1004)
+
 * Alexis Conneau, Douwe Kiela, Holger Schwenk, Loic Barrault, Antoine Bordes. (2017). Supervised Learning of Universal Sentence Representations from Natural Language Inference Data. _Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing (EMNLP)_. Pages 670-680. [[pdf]](https://www.aclweb.org/anthology/D17-1070)
+
+* Maximilian Nickel, Douwe Kiela. (2017). Poincaré Embeddings for Learning Hierarchical Representations. _eprint arXiv:1705.08039_. [[pdf]](https://arxiv.org/pdf/1705.08039.pdf)
 
 * Anders Søgaard, Zeljko Agic, Hector Martinez Alonso, Barbara Plank, Bernd Bohnet. (2015). Inverted indexing for cross-lingual NLP.  _53rd Annual Meeting of the Association for Computational Linguistics (ACL)_. Vol. 1. Pages 1713-1722. [[pdf]](http://www.aclweb.org/anthology/P15-1165)
 
 * Sanjeev Arora, Yuanzhi Li, Yingyu Liang, Tengyu Ma, Andrej Risteski. (2016). A Latent Variable Model Approach to PMI-based Word Embeddings.  _Transactions of the Association for Computational Linguistics_. Vol. 4. Pages 385–399. [[pdf]](https://www.transacl.org/ojs/index.php/tacl/article/download/742/204)
-
-* Maximilian Nickel, Douwe Kiela. (2017) Poincaré Embeddings for Learning Hierarchical Representations. _eprint arXiv:1705.08039_. [[pdf]](https://arxiv.org/pdf/1705.08039.pdf)
-
 
 * Christopher E Moody. (2016) Mixing Dirichlet Topic Models and Word Embeddings to Make lda2vec. _eprint arXiv:1605.02019_. [[pdf]](https://arxiv.org/pdf/1605.02019.pdf) 
 <span style="color:green"> ASSIGNED: Nora Graichen, Insa Kröger [[slides]](./slides2019/)</span>
