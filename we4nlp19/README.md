@@ -89,7 +89,7 @@ _arXiv_ [[pdf]](https://arxiv.org/abs/1411.2738)
 * Alan Akbik, Duncan Blythe, Roland Vollgraf. Contextual String Embeddings for Sequence Labeling. 2018. _Proceedings of the 27th International Conference on Computational Linguistics_. Pages 1638-1649.
 [[pdf]](http://aclweb.org/anthology/C18-1139)
 
-<span style="color:green"> 05/06/2019 (2h) - Vanessa Hahn, Tatiana Anikina, Marc Altmeyer, Sourav Dutta  [[slides]](./slides2019/)</span>
+<span style="color:green"> 05/06/2019 (2h) - Vanessa Hahn, Tatiana Anikina, Marc Altmeyer, Sourav Dutta  [[slides]](./slides2019/Embeddings.pptx)</span>
 
 #### Multilingual embeddings
 
@@ -113,6 +113,7 @@ _Proceedings of the 31st International Conference on Machine Learning, in PMLR_ 
 
 * Xinxiong Chen, Lei Xu, Zhiyuan Liu, Maosong Sun and Huanbo Luan. (2015). Joint Learning of Character and Word Embeddings.
 _Proceedings of the Twenty-Fourth International Joint Conference on Artificial Intelligence (IJCAI)_. Pages 1236-1242. [[pdf]](https://www.ijcai.org/Proceedings/15/Papers/178.pdf)
+<span style="color:green"> ASSIGNED: Jesujoba Alabi, SOMEONE ELSE!! [[slides]](./slides2019/)</span>
 
 * Ben Athiwaratkun, Andrew Wilson, Anima Anandkumar. (2018). Probabilistic FastText for Multi-Sense Word Embeddings. _56th Annual Meeting of the Association for Computational Linguistics (ACL)_. Vol. 1. Pages 1-11. [[pdf]](https://www.aclweb.org/anthology/P18-1001)
 
@@ -121,6 +122,8 @@ _Proceedings of the Twenty-Fourth International Joint Conference on Artificial I
 * Goran Glavaš, Ivan Vulić. (2018). Explicit Retrofitting of Distributional Word Vectors. _56th Annual Meeting of the Association for Computational Linguistics (ACL)_. Vol. 1. Pages 34-45. [[pdf]](https://www.aclweb.org/anthology/P18-1004)
 
 * Alexis Conneau, Douwe Kiela, Holger Schwenk, Loic Barrault, Antoine Bordes. (2017). Supervised Learning of Universal Sentence Representations from Natural Language Inference Data. _Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing (EMNLP)_. Pages 670-680. [[pdf]](https://www.aclweb.org/anthology/D17-1070)
+
+* Dani Yogatama, Cyprien de Masson d'Autume, Jerome Connor, Tomás Kociský, Mike Chrzanowski, Lingpeng Kong, Angeliki Lazaridou, Wang Ling, Lei Yu, Chris Dyer, Phil Blunsom. (2019). Learning and Evaluating General Linguistic Intelligence. [[pdf]](https://arxiv.org/pdf/1901.11373.pdf)
 
 * Maximilian Nickel, Douwe Kiela. (2017). Poincaré Embeddings for Learning Hierarchical Representations. _eprint arXiv:1705.08039_. [[pdf]](https://arxiv.org/pdf/1705.08039.pdf)
 
@@ -136,6 +139,7 @@ _Proceedings of the 54th Annual Meeting of the Association for Computational Lin
 
 * Massimiliano Mancini, Jose Camacho-Collados, Ignacio Iacobacci and Roberto Navigli. (2017). Embedding Words and Senses Together via Joint Knowledge-Enhanced Training.
 _Proceedings of the 21st Conference on Computational Natural Language Learning (CoNLL 2017)_. Pages 100–111. [[pdf]](https://www.aclweb.org/anthology/K/K17/K17-1012.pdf)
+<span style="color:green"> ASSIGNED: Morgan Wixted, Lisa Kluge [[slides]](./slides2019/)</span>
 
 
 <br>
