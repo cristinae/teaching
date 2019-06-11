@@ -123,7 +123,11 @@ _Proceedings of the Twenty-Fourth International Joint Conference on Artificial I
 
 * Alexis Conneau, Douwe Kiela, Holger Schwenk, Loic Barrault, Antoine Bordes. (2017). Supervised Learning of Universal Sentence Representations from Natural Language Inference Data. _Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing (EMNLP)_. Pages 670-680. [[pdf]](https://www.aclweb.org/anthology/D17-1070)
 
-* Dani Yogatama, Cyprien de Masson d'Autume, Jerome Connor, Tomás Kociský, Mike Chrzanowski, Lingpeng Kong, Angeliki Lazaridou, Wang Ling, Lei Yu, Chris Dyer, Phil Blunsom. (2019). Learning and Evaluating General Linguistic Intelligence. [[pdf]](https://arxiv.org/pdf/1901.11373.pdf)
+* Dani Yogatama, Cyprien de Masson d'Autume, Jerome Connor, Tomás Kociský, Mike Chrzanowski, Lingpeng Kong, Angeliki Lazaridou, Wang Ling, Lei Yu, Chris Dyer, Phil Blunsom. (2019). Learning and Evaluating General Linguistic Intelligence. [[pdf]](https://arxiv.org/pdf/1901.11373.pdf) <span style="color:green"> ASSIGNED: Marc Altmeyer, Susann Boy [[slides]](./slides2019/)</span>
+
+* Tolga Bolukbasi, Kai-Wei Chang, James Zou, Venkatesh Saligrama, Adam Kalai. (2017). Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings [[pdf]](https://arxiv.org/abs/1607.06520) <span style="color:green"> ASSIGNED: Vanessa Hahn, WHO ELSE? [[slides]](./slides2019/)</span>
+
+* Jieyu Zhao, Yichao Zhou, Zeyu Li, Wei Wang, Kai-Wei Chang. (2018). Learning Gender-Neutral Word Embeddings [[pdf]](https://arxiv.org/abs/1809.01496) <span style="color:green"> ASSIGNED: Vanessa Hahn, WHO ELSE? [[slides]](./slides2019/)</span>
 
 * Maximilian Nickel, Douwe Kiela. (2017). Poincaré Embeddings for Learning Hierarchical Representations. _eprint arXiv:1705.08039_. [[pdf]](https://arxiv.org/pdf/1705.08039.pdf)
 
