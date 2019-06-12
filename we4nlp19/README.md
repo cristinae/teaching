@@ -99,7 +99,7 @@ _arXiv_ [[pdf]](https://arxiv.org/abs/1411.2738)
 
 * Alexis Conneau, Guillaume Lample, Marc'Aurelio Ranzato, Ludovic Denoyer and Hervé Jégou. (2018). Word Translation Without Parallel Data. _ International Conference on Learning Representations (ICLR 2018)_. [[pdf]](https://arxiv.org/pdf/1710.04087.pdf)
 
-<span style="color:green"> 12/06/2019 (1h45m) - Susann Boy, Kathryn Chapman, Natalia Skachkova, Guadalupe Romero [[slides]](./slides2019/)</span>
+<span style="color:green"> 12/06/2019 (1h45m) - Susann Boy, Kathryn Chapman, Natalia Skachkova, Guadalupe Romero [[slides]](./slides2019/multilingual_embeddings.pdf)</span>
 
 
 ### Advanced Notions and Applications
@@ -129,7 +129,7 @@ _Proceedings of the Twenty-Fourth International Joint Conference on Artificial I
 
 * Jieyu Zhao, Yichao Zhou, Zeyu Li, Wei Wang, Kai-Wei Chang. (2018). Learning Gender-Neutral Word Embeddings [[pdf]](https://arxiv.org/abs/1809.01496) <span style="color:green"> ASSIGNED: Vanessa Hahn, Kathryn Chapman [[slides]](./slides2019/)</span>
 
-* Maximilian Nickel, Douwe Kiela. (2017). Poincaré Embeddings for Learning Hierarchical Representations. _eprint arXiv:1705.08039_. [[pdf]](https://arxiv.org/pdf/1705.08039.pdf)
+* Maximilian Nickel, Douwe Kiela. (2017). Poincaré Embeddings for Learning Hierarchical Representations. _eprint arXiv:1705.08039_. [[pdf]](https://arxiv.org/pdf/1705.08039.pdf)  <span style="color:green"> ASSIGNED: Tatiana Anikina, Natalia Skachkova [[slides]](./slides2019/)</span>
 
 * Anders Søgaard, Zeljko Agic, Hector Martinez Alonso, Barbara Plank, Bernd Bohnet. (2015). Inverted indexing for cross-lingual NLP.  _53rd Annual Meeting of the Association for Computational Linguistics (ACL)_. Vol. 1. Pages 1713-1722. [[pdf]](http://www.aclweb.org/anthology/P15-1165)
 
