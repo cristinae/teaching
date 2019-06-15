@@ -3,7 +3,7 @@
 ```
 Where: Building C7.2, Room -1.05
 When: Wednesdays 8:30-10:00 (2h sessions for Part II)
-Who: Cristina España i Bonet (and Koel Dutta)
+Who: Cristina España i Bonet
 What: 
 ```
 
@@ -113,7 +113,7 @@ _Proceedings of the 31st International Conference on Machine Learning, in PMLR_ 
 
 * Xinxiong Chen, Lei Xu, Zhiyuan Liu, Maosong Sun and Huanbo Luan. (2015). Joint Learning of Character and Word Embeddings.
 _Proceedings of the Twenty-Fourth International Joint Conference on Artificial Intelligence (IJCAI)_. Pages 1236-1242. [[pdf]](https://www.ijcai.org/Proceedings/15/Papers/178.pdf)
-<span style="color:green"> ASSIGNED: Jesujoba Alabi, SOMEONE ELSE!! [[slides]](./slides2019/)</span>
+<span style="color:green"> ASSIGNED: Jesujoba Alabi, Kwabena Amponsah-Kaakyire [[slides]](./slides2019/)</span>
 
 * Ben Athiwaratkun, Andrew Wilson, Anima Anandkumar. (2018). Probabilistic FastText for Multi-Sense Word Embeddings. _56th Annual Meeting of the Association for Computational Linguistics (ACL)_. Vol. 1. Pages 1-11. [[pdf]](https://www.aclweb.org/anthology/P18-1001)
 
