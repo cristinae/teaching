@@ -19,7 +19,7 @@ What:
 
 ### Scientific Presentations
 1. Oral Presentation (W4) [[slides]](./oral.pdf)
-2. Technical Paper [[slides]](./paper.pdf)
+2. Term Paper and Technical Papers (W9) [[slides]](./paper.pdf)
 <br>
 
 ## Course Structure
@@ -107,6 +107,7 @@ _arXiv_ [[pdf]](https://arxiv.org/abs/1411.2738)
 <span style="color:red"> Provisional, you can add! </span>
 
 * Chengyue Gong, Di He, Xu Tan, Tao Qin, Liwei Wang and Tie-Yan Liu. (2018). FRAGE: Frequency-Agnostic Word Representation. _32nd Conference on Neural Information Processing Systems (NeurIPS 2018)_. [[pdf]](https://papers.nips.cc/paper/7408-frage-frequency-agnostic-word-representation.pdf)
+<span style="color:green"> ASSIGNED??: Sourav Dutta, Daria Pylypenko [[slides]](./slides2019/)</span>
 
 * Quoc V. Le and Tomas Mikolov. (2014). Distributed Representations of Sentences and Documents. 
 _Proceedings of the 31st International Conference on Machine Learning, in PMLR_ 32(2). Pages 1188-1196. [[pdf]](http://proceedings.mlr.press/v32/le14.pdf)
@@ -163,14 +164,16 @@ The topic <span style="color:red"> **must** </span> be agreed in advance
 
 * Option 4: Other (ask/propose!)
 
+(see slides W9)
+
 
 ### Format
 
 8 pages paper in ACL format
 
-[LaTeX template](http://acl2017.org/downloads/acl17-latex.zip)
+[LaTeX template](http://www.acl2019.org/medias/340-acl2019-latex.zip)
 
 
 ### Deadline
 
-<span style="color:red"> TBD </span>
+<span style="color:red"> 19th August 2019 </span> -- Submit by email
