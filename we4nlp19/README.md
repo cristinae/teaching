@@ -106,38 +106,29 @@ _arXiv_ [[pdf]](https://arxiv.org/abs/1411.2738)
 
 <span style="color:red"> Provisional, you can add! </span>
 
-* Chengyue Gong, Di He, Xu Tan, Tao Qin, Liwei Wang and Tie-Yan Liu. (2018). FRAGE: Frequency-Agnostic Word Representation. _32nd Conference on Neural Information Processing Systems (NeurIPS 2018)_. [[pdf]](https://papers.nips.cc/paper/7408-frage-frequency-agnostic-word-representation.pdf)
-
-* Quoc V. Le and Tomas Mikolov. (2014). Distributed Representations of Sentences and Documents. 
-_Proceedings of the 31st International Conference on Machine Learning, in PMLR_ 32(2). Pages 1188-1196. [[pdf]](http://proceedings.mlr.press/v32/le14.pdf)
-
-* Xinxiong Chen, Lei Xu, Zhiyuan Liu, Maosong Sun and Huanbo Luan. (2015). Joint Learning of Character and Word Embeddings.
-_Proceedings of the Twenty-Fourth International Joint Conference on Artificial Intelligence (IJCAI)_. Pages 1236-1242. [[pdf]](https://www.ijcai.org/Proceedings/15/Papers/178.pdf)
-<span style="color:green"> ASSIGNED: Jesujoba Alabi, Kwabena Amponsah-Kaakyire [[slides]](./slides2019/)</span>
-
-* Ben Athiwaratkun, Andrew Wilson, Anima Anandkumar. (2018). Probabilistic FastText for Multi-Sense Word Embeddings. _56th Annual Meeting of the Association for Computational Linguistics (ACL)_. Vol. 1. Pages 1-11. [[pdf]](https://www.aclweb.org/anthology/P18-1001)
-<span style="color:green"> ASSIGNED??: Sourav Dutta, Daria Pylypenko [[slides]](./slides2019/)</span>
-
-* Jiaqi Mu, Suma Bhat, Pramod Viswanath. (2018). All-but-the-Top: Simple and Effective Postprocessing for Word Representations. _International Conference on Learning Representations (ICLR)_. [[pdf]](https://arxiv.org/pdf/1702.01417.pdf)
-
-* Goran Glavaš, Ivan Vulić. (2018). Explicit Retrofitting of Distributional Word Vectors. _56th Annual Meeting of the Association for Computational Linguistics (ACL)_. Vol. 1. Pages 34-45. [[pdf]](https://www.aclweb.org/anthology/P18-1004)
-
-* Alexis Conneau, Douwe Kiela, Holger Schwenk, Loic Barrault, Antoine Bordes. (2017). Supervised Learning of Universal Sentence Representations from Natural Language Inference Data. _Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing (EMNLP)_. Pages 670-680. [[pdf]](https://www.aclweb.org/anthology/D17-1070)
+#### Session 1: 26/06/2019
 
 * Dani Yogatama, Cyprien de Masson d'Autume, Jerome Connor, Tomás Kociský, Mike Chrzanowski, Lingpeng Kong, Angeliki Lazaridou, Wang Ling, Lei Yu, Chris Dyer, Phil Blunsom. (2019). Learning and Evaluating General Linguistic Intelligence. [[pdf]](https://arxiv.org/pdf/1901.11373.pdf) <span style="color:green"> ASSIGNED: Marc Altmeyer, Susann Boy [[slides]](./slides2019/)</span>
 
 * Tolga Bolukbasi, Kai-Wei Chang, James Zou, Venkatesh Saligrama, Adam Kalai. (2017). Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings [[pdf]](https://arxiv.org/abs/1607.06520) <span style="color:green"> ASSIGNED: Vanessa Hahn, Kathryn Chapman, Guadalupe Romero [[slides]](./slides2019/)</span>
 
-* Jieyu Zhao, Yichao Zhou, Zeyu Li, Wei Wang, Kai-Wei Chang. (2018). Learning Gender-Neutral Word Embeddings [[pdf]](https://arxiv.org/abs/1809.01496) <span style="color:green"> ASSIGNED: Vanessa Hahn, Kathryn Chapman,Guadalupe Romero [[slides]](./slides2019/)</span>
+* Jieyu Zhao, Yichao Zhou, Zeyu Li, Wei Wang, Kai-Wei Chang. (2018). Learning Gender-Neutral Word Embeddings [[pdf]](https://arxiv.org/abs/1809.01496) <span style="color:green"> ASSIGNED: Vanessa Hahn, Kathryn Chapman, Guadalupe Romero [[slides]](./slides2019/)</span>
+
+#### Session 2: 03/07/2019
 
 * Maximilian Nickel, Douwe Kiela. (2017). Poincaré Embeddings for Learning Hierarchical Representations. _eprint arXiv:1705.08039_. [[pdf]](https://arxiv.org/pdf/1705.08039.pdf)  <span style="color:green"> ASSIGNED: Tatiana Anikina, Natalia Skachkova [[slides]](./slides2019/)</span>
 
-* Anders Søgaard, Zeljko Agic, Hector Martinez Alonso, Barbara Plank, Bernd Bohnet. (2015). Inverted indexing for cross-lingual NLP.  _53rd Annual Meeting of the Association for Computational Linguistics (ACL)_. Vol. 1. Pages 1713-1722. [[pdf]](http://www.aclweb.org/anthology/P15-1165)
-
-* Sanjeev Arora, Yuanzhi Li, Yingyu Liang, Tengyu Ma, Andrej Risteski. (2016). A Latent Variable Model Approach to PMI-based Word Embeddings.  _Transactions of the Association for Computational Linguistics_. Vol. 4. Pages 385–399. [[pdf]](https://www.transacl.org/ojs/index.php/tacl/article/download/742/204)
+* Xinxiong Chen, Lei Xu, Zhiyuan Liu, Maosong Sun and Huanbo Luan. (2015). Joint Learning of Character and Word Embeddings.
+_Proceedings of the Twenty-Fourth International Joint Conference on Artificial Intelligence (IJCAI)_. Pages 1236-1242. [[pdf]](https://www.ijcai.org/Proceedings/15/Papers/178.pdf)
+<span style="color:green"> ASSIGNED: Jesujoba Alabi, Kwabena Amponsah-Kaakyire [[slides]](./slides2019/)</span>
 
 * Christopher E Moody. (2016) Mixing Dirichlet Topic Models and Word Embeddings to Make lda2vec. _eprint arXiv:1605.02019_. [[pdf]](https://arxiv.org/pdf/1605.02019.pdf) 
 <span style="color:green"> ASSIGNED: Nora Graichen, Insa Kröger [[slides]](./slides2019/)</span>
+
+#### Session 3: 10/07/2019
+
+* Ben Athiwaratkun, Andrew Wilson, Anima Anandkumar. (2018). Probabilistic FastText for Multi-Sense Word Embeddings. _56th Annual Meeting of the Association for Computational Linguistics (ACL)_. Vol. 1. Pages 1-11. [[pdf]](https://www.aclweb.org/anthology/P18-1001)
+<span style="color:green"> ASSIGNED: Sourav Dutta, Daria Pylypenko [[slides]](./slides2019/)</span>
 
 * Lucie Flekova and Iryna Gurevych. (2016). Supersense Embeddings: A Unified Model for Supersense Interpretation, Prediction, and Utilization.
 _Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics_. Pages 2029-2041. [[pdf]](http://www.aclweb.org/anthology/P16-1191)
@@ -146,6 +137,24 @@ _Proceedings of the 54th Annual Meeting of the Association for Computational Lin
 * Massimiliano Mancini, Jose Camacho-Collados, Ignacio Iacobacci and Roberto Navigli. (2017). Embedding Words and Senses Together via Joint Knowledge-Enhanced Training.
 _Proceedings of the 21st Conference on Computational Natural Language Learning (CoNLL 2017)_. Pages 100–111. [[pdf]](https://www.aclweb.org/anthology/K/K17/K17-1012.pdf)
 <span style="color:green"> ASSIGNED: Morgan Wixted, Lisa Kluge [[slides]](./slides2019/)</span>
+
+
+#### Unselected
+
+* Chengyue Gong, Di He, Xu Tan, Tao Qin, Liwei Wang and Tie-Yan Liu. (2018). FRAGE: Frequency-Agnostic Word Representation. _32nd Conference on Neural Information Processing Systems (NeurIPS 2018)_. [[pdf]](https://papers.nips.cc/paper/7408-frage-frequency-agnostic-word-representation.pdf)
+
+* Quoc V. Le and Tomas Mikolov. (2014). Distributed Representations of Sentences and Documents. 
+_Proceedings of the 31st International Conference on Machine Learning, in PMLR_ 32(2). Pages 1188-1196. [[pdf]](http://proceedings.mlr.press/v32/le14.pdf)
+
+* Jiaqi Mu, Suma Bhat, Pramod Viswanath. (2018). All-but-the-Top: Simple and Effective Postprocessing for Word Representations. _International Conference on Learning Representations (ICLR)_. [[pdf]](https://arxiv.org/pdf/1702.01417.pdf)
+
+* Goran Glavaš, Ivan Vulić. (2018). Explicit Retrofitting of Distributional Word Vectors. _56th Annual Meeting of the Association for Computational Linguistics (ACL)_. Vol. 1. Pages 34-45. [[pdf]](https://www.aclweb.org/anthology/P18-1004)
+
+* Alexis Conneau, Douwe Kiela, Holger Schwenk, Loic Barrault, Antoine Bordes. (2017). Supervised Learning of Universal Sentence Representations from Natural Language Inference Data. _Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing (EMNLP)_. Pages 670-680. [[pdf]](https://www.aclweb.org/anthology/D17-1070)
+
+* Anders Søgaard, Zeljko Agic, Hector Martinez Alonso, Barbara Plank, Bernd Bohnet. (2015). Inverted indexing for cross-lingual NLP.  _53rd Annual Meeting of the Association for Computational Linguistics (ACL)_. Vol. 1. Pages 1713-1722. [[pdf]](http://www.aclweb.org/anthology/P15-1165)
+
+* Sanjeev Arora, Yuanzhi Li, Yingyu Liang, Tengyu Ma, Andrej Risteski. (2016). A Latent Variable Model Approach to PMI-based Word Embeddings.  _Transactions of the Association for Computational Linguistics_. Vol. 4. Pages 385–399. [[pdf]](https://www.transacl.org/ojs/index.php/tacl/article/download/742/204)
 
 
 <br>
