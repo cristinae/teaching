@@ -107,7 +107,6 @@ _arXiv_ [[pdf]](https://arxiv.org/abs/1411.2738)
 <span style="color:red"> Provisional, you can add! </span>
 
 * Chengyue Gong, Di He, Xu Tan, Tao Qin, Liwei Wang and Tie-Yan Liu. (2018). FRAGE: Frequency-Agnostic Word Representation. _32nd Conference on Neural Information Processing Systems (NeurIPS 2018)_. [[pdf]](https://papers.nips.cc/paper/7408-frage-frequency-agnostic-word-representation.pdf)
-<span style="color:green"> ASSIGNED??: Sourav Dutta, Daria Pylypenko [[slides]](./slides2019/)</span>
 
 * Quoc V. Le and Tomas Mikolov. (2014). Distributed Representations of Sentences and Documents. 
 _Proceedings of the 31st International Conference on Machine Learning, in PMLR_ 32(2). Pages 1188-1196. [[pdf]](http://proceedings.mlr.press/v32/le14.pdf)
@@ -117,6 +116,7 @@ _Proceedings of the Twenty-Fourth International Joint Conference on Artificial I
 <span style="color:green"> ASSIGNED: Jesujoba Alabi, Kwabena Amponsah-Kaakyire [[slides]](./slides2019/)</span>
 
 * Ben Athiwaratkun, Andrew Wilson, Anima Anandkumar. (2018). Probabilistic FastText for Multi-Sense Word Embeddings. _56th Annual Meeting of the Association for Computational Linguistics (ACL)_. Vol. 1. Pages 1-11. [[pdf]](https://www.aclweb.org/anthology/P18-1001)
+<span style="color:green"> ASSIGNED??: Sourav Dutta, Daria Pylypenko [[slides]](./slides2019/)</span>
 
 * Jiaqi Mu, Suma Bhat, Pramod Viswanath. (2018). All-but-the-Top: Simple and Effective Postprocessing for Word Representations. _International Conference on Learning Representations (ICLR)_. [[pdf]](https://arxiv.org/pdf/1702.01417.pdf)
 
