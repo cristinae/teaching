@@ -110,9 +110,9 @@ _arXiv_ [[pdf]](https://arxiv.org/abs/1411.2738)
 
 * Dani Yogatama, Cyprien de Masson d'Autume, Jerome Connor, Tomás Kociský, Mike Chrzanowski, Lingpeng Kong, Angeliki Lazaridou, Wang Ling, Lei Yu, Chris Dyer, Phil Blunsom. (2019). Learning and Evaluating General Linguistic Intelligence. [[pdf]](https://arxiv.org/pdf/1901.11373.pdf) <span style="color:green"> ASSIGNED: Marc Altmeyer, Susann Boy [[slides]](./slides2019/)</span>
 
-* Tolga Bolukbasi, Kai-Wei Chang, James Zou, Venkatesh Saligrama, Adam Kalai. (2017). Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings [[pdf]](https://arxiv.org/abs/1607.06520) <span style="color:green"> ASSIGNED: Vanessa Hahn, Kathryn Chapman, Guadalupe Romero [[slides]](./slides2019/)</span>
+* Tolga Bolukbasi, Kai-Wei Chang, James Zou, Venkatesh Saligrama, Adam Kalai. (2017). Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings [[pdf]](https://arxiv.org/abs/1607.06520) <span style="color:green"> ASSIGNED: Vanessa Hahn, Kathryn Chapman, Guadalupe Romero [[slides]](./slides2019/genderBias.pptx)</span>
 
-* Jieyu Zhao, Yichao Zhou, Zeyu Li, Wei Wang, Kai-Wei Chang. (2018). Learning Gender-Neutral Word Embeddings [[pdf]](https://arxiv.org/abs/1809.01496) <span style="color:green"> ASSIGNED: Vanessa Hahn, Kathryn Chapman, Guadalupe Romero [[slides]](./slides2019/)</span>
+* Jieyu Zhao, Yichao Zhou, Zeyu Li, Wei Wang, Kai-Wei Chang. (2018). Learning Gender-Neutral Word Embeddings [[pdf]](https://arxiv.org/abs/1809.01496) <span style="color:green"> ASSIGNED: Vanessa Hahn, Kathryn Chapman, Guadalupe Romero [[slides]](./slides2019/genderBias.pptx)</span>
 
 #### Session 2: 03/07/2019
 
