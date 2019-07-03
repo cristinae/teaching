@@ -120,7 +120,7 @@ _arXiv_ [[pdf]](https://arxiv.org/abs/1411.2738)
 
 * Xinxiong Chen, Lei Xu, Zhiyuan Liu, Maosong Sun and Huanbo Luan. (2015). Joint Learning of Character and Word Embeddings.
 _Proceedings of the Twenty-Fourth International Joint Conference on Artificial Intelligence (IJCAI)_. Pages 1236-1242. [[pdf]](https://www.ijcai.org/Proceedings/15/Papers/178.pdf)
-<span style="color:green"> ASSIGNED: Jesujoba Alabi, Kwabena Amponsah-Kaakyire [[slides]](./slides2019/)</span>
+<span style="color:green"> ASSIGNED: Jesujoba Alabi, Kwabena Amponsah-Kaakyire [[slides]](./slides2019/jointCharWord.pdf)</span>
 
 * Christopher E Moody. (2016) Mixing Dirichlet Topic Models and Word Embeddings to Make lda2vec. _eprint arXiv:1605.02019_. [[pdf]](https://arxiv.org/pdf/1605.02019.pdf) 
 <span style="color:green"> ASSIGNED: Nora Graichen, Insa Kröger [[slides]](./slides2019/lda2vec_graichen_kroeger.pdf)</span>
