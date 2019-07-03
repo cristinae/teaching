@@ -123,7 +123,7 @@ _Proceedings of the Twenty-Fourth International Joint Conference on Artificial I
 <span style="color:green"> ASSIGNED: Jesujoba Alabi, Kwabena Amponsah-Kaakyire [[slides]](./slides2019/)</span>
 
 * Christopher E Moody. (2016) Mixing Dirichlet Topic Models and Word Embeddings to Make lda2vec. _eprint arXiv:1605.02019_. [[pdf]](https://arxiv.org/pdf/1605.02019.pdf) 
-<span style="color:green"> ASSIGNED: Nora Graichen, Insa Kröger [[slides]](./slides2019/)</span>
+<span style="color:green"> ASSIGNED: Nora Graichen, Insa Kröger [[slides]](./slides2019/lda2vec_graichen_kroeger.pdf)</span>
 
 #### Session 3: 10/07/2019
 
