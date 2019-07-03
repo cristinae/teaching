@@ -116,7 +116,7 @@ _arXiv_ [[pdf]](https://arxiv.org/abs/1411.2738)
 
 #### Session 2: 03/07/2019
 
-* Maximilian Nickel, Douwe Kiela. (2017). Poincaré Embeddings for Learning Hierarchical Representations. _eprint arXiv:1705.08039_. [[pdf]](https://arxiv.org/pdf/1705.08039.pdf)  <span style="color:green"> ASSIGNED: Tatiana Anikina, Natalia Skachkova [[slides]](./slides2019/)</span>
+* Maximilian Nickel, Douwe Kiela. (2017). Poincaré Embeddings for Learning Hierarchical Representations. _eprint arXiv:1705.08039_. [[pdf]](https://arxiv.org/pdf/1705.08039.pdf)  <span style="color:green"> ASSIGNED: Tatiana Anikina, Natalia Skachkova [[slides]](./slides2019/Skachkova_Anikina_Poincare_embeddings.pdf)</span>
 
 * Xinxiong Chen, Lei Xu, Zhiyuan Liu, Maosong Sun and Huanbo Luan. (2015). Joint Learning of Character and Word Embeddings.
 _Proceedings of the Twenty-Fourth International Joint Conference on Artificial Intelligence (IJCAI)_. Pages 1236-1242. [[pdf]](https://www.ijcai.org/Proceedings/15/Papers/178.pdf)
