@@ -136,7 +136,7 @@ _Proceedings of the 54th Annual Meeting of the Association for Computational Lin
 
 * Massimiliano Mancini, Jose Camacho-Collados, Ignacio Iacobacci and Roberto Navigli. (2017). Embedding Words and Senses Together via Joint Knowledge-Enhanced Training.
 _Proceedings of the 21st Conference on Computational Natural Language Learning (CoNLL 2017)_. Pages 100–111. [[pdf]](https://www.aclweb.org/anthology/K/K17/K17-1012.pdf)
-<span style="color:green"> ASSIGNED: Morgan Wixted, Lisa Kluge [[slides]](./slides2019/)</span>
+<span style="color:green"> ASSIGNED: Morgan Wixted, Lisa Kluge [[slides]](./slides2019/wordsAndSenses.pdf)</span>
 
 
 #### Unselected
