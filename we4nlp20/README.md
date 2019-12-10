@@ -15,13 +15,19 @@ What:
 1. General notion of semantic representations of linguistic elements
 2. Word embeddings, sentence embeddings and multilingual embeddings
 3. Applications of embeddings to several NLP/IR tasks
-4. Hands-on: using embeddings in simple NLP tasks
+4. Hands-on: using and evaluating embeddings in simple NLP tasks
 5. Oral presentations
+
+### Prerequisites
+1. Basics of linear algebra
+2. Basics of neural networks
+3. Basic knowledge of python and notebooks (packages like gensim, nltk, sklearn and matplotlib)
+3. Laptop with the possibility of using Google Colab if higher resources needed
 <br>
 
 ## Course Structure
 
- Please, <span style="color:red"> add your preferences </span> so that I can better distribute the second part of the course. Add your name under the different topics in the [[document]](https://docs.google.com/document/d/1DkSnehmbL8S-PMgmScXW-Y5kSQCTrLf5NzQUcy7w4pY/edit?usp=sharing) following the instructions there.
+Please, <span style="color:red"> add your preferences </span> so that I can better distribute the second part of the course. Add your name under the different topics in the [<span style="color:red">document</span>](https://docs.google.com/document/d/1DkSnehmbL8S-PMgmScXW-Y5kSQCTrLf5NzQUcy7w4pY/edit?usp=sharing) following the instructions there.
 
 #### Part I: Background knowledge 
 
