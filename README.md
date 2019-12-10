@@ -1,15 +1,19 @@
-### Summer Semester 2018/2019 (UdS)
+### Winter Semester 2020 (NIT)
 
-* [Embeddings for Natural Language Processing and Information Retrieval](./we4nlp19/README.md)
-
-### Summer Semester 2018/2019 (UPC)
-
-* [Artificial Intelligence with Deep Learning - NLP Block](./)
+* [Embeddings for Natural Language Processing and Information Retrieval](./we4nlp20/README.md)
 
 <br>
 
 
 ### Previous semesters
+
+#### Summer Semester 2018/2019 (UdS)
+
+* [Embeddings for Natural Language Processing and Information Retrieval](./we4nlp19/README.md)
+
+#### Summer Semester 2018/2019 (UPC)
+
+* [Artificial Intelligence with Deep Learning - NLP Block](./)
 
 #### Summer Semester 2017/2018 (UdS)
 
