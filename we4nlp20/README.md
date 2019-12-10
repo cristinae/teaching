@@ -1,4 +1,8 @@
 # Embeddings for NLP and IR
+
+Please, if you plan to attend the course <span style="color:red"> add your preferences </span> so that I can better distribute the second part. Add your name under the different topics in the [<span style="color:red">[document]</span>](https://docs.google.com/document/d/1DkSnehmbL8S-PMgmScXW-Y5kSQCTrLf5NzQUcy7w4pY/edit?usp=sharing) following the instructions there.
+
+
 ## General Info
 ```
 Where: NIT, Silchar
@@ -22,12 +26,11 @@ What:
 1. Basics of linear algebra
 2. Basics of neural networks
 3. Basic knowledge of python and notebooks (packages like gensim, nltk, sklearn and matplotlib)
-3. Laptop with the possibility of using Google Colab if higher resources needed
+3. Laptop with the possibility of using Google Colab if higher resources are needed
 <br>
 
-## Course Structure
 
-Please, <span style="color:red"> add your preferences </span> so that I can better distribute the second part of the course. Add your name under the different topics in the [<span style="color:red">document</span>](https://docs.google.com/document/d/1DkSnehmbL8S-PMgmScXW-Y5kSQCTrLf5NzQUcy7w4pY/edit?usp=sharing) following the instructions there.
+## Course Structure
 
 #### Part I: Background knowledge 
 
@@ -53,11 +56,13 @@ Please, <span style="color:red"> add your preferences </span> so that I can bett
 <br>
 
 #### Part II: Embeddings, basic typologies and state of the art 
-##### (Presentations by students)
 
-The last 6 days of lectures will follow the **structure**:
+The second part consists of paper presentations done by the students and some exercises. That is 6 days of lectures with the follwong **structure**:
 * Morning: **presentations** by students on a specific topic
 * Afternoon: End of the presentations and **exercises/discussion** on the day topic (all together)
+
+<br>
+Topics and selected papers:
 
 #### D5: Evaluation of embeddings
 
