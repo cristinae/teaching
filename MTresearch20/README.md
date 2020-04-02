@@ -1,4 +1,5 @@
 # Forschungsseminar: Machine Translation
+
 ## General Info
 ```
 Where: Meetings Office (TBD)
@@ -11,7 +12,7 @@ What:
 
 ## Objectives
 
-(Deep) discussion of your own research activities related to machine translation, from technical problems to joint brainstorming on ongoing issues.
+(Informal but deep) discussion of your own research activities related to machine translation, from technical problems to joint brainstorming on ongoing issues.
 
 ## Notes:
 
