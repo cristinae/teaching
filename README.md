@@ -2,8 +2,6 @@
 
 * [Forschungsseminar: Machine Translation](./MTresearch20/README.md)
 
-<br>
-
 
 ### Winter Semester 2020 (NIT)
 
