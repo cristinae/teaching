@@ -2,7 +2,7 @@
 
 ## General Info
 ```
-Where: Meetings Office (TBD)
+Where: Online via Teams (TBC)
 When: Thursdays 11:00 
 Who: Cristina España i Bonet
 What: 
@@ -20,5 +20,4 @@ What:
 * In order to take benefit of the discussions, the number of attendants is limited to 8
 
 
-* Depending on the corona situation, the first sessions might take place online (platform TBD)
 * If you plan to attend the seminar, please, send me an email before the 21st of April (cristinae.uni at gmail) including a description of your machine translation project
