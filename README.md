@@ -1,16 +1,19 @@
-### Summer Semester 2020 (UdS)
+### Winter Semester 2020/2021 (UdS)
 
 * [Forschungsseminar: Machine Translation](./MTresearch20/README.md)
-
-
-### Winter Semester 2020 (NIT)
-
-* [Embeddings for Natural Language Processing and Information Retrieval](./we4nlp20/README.md)
 
 <br>
 
 
 ### Previous semesters
+
+### Summer Semester 2019/2020 (UdS)
+
+* [Forschungsseminar: Machine Translation](./MTresearch20SS/README.md)
+
+### Winter Semester 2020 (NIT)
+
+* [Embeddings for Natural Language Processing and Information Retrieval](./we4nlp20/README.md)
 
 #### Summer Semester 2018/2019 (UdS)
 
