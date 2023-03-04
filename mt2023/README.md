@@ -2,7 +2,7 @@
 ## General Info
 ```
 Where: Building B3.2, Room 0.03
-When: Mondays & Tuesdays, 16:15-17:45, from 11/04/23 to 18/07/23
+When: Mondays & Tuesdays, 16:00-18:00, from 11/04/23 to 18/07/23
 Who: Cristina España-Bonet, Koel Dutta Chowdhury, Yasser Hamidullah
      
 ```
@@ -22,6 +22,7 @@ The evaluation consists of 2 mandatory assignments (20%), a bonus (extra 10%!) a
 * SMT assignment (lab week 5/6, deadline week 9)
 * NMT assignment (lab week 11, deadline week 14)
 * MT Challenge, the bonus (temptative, to discuss, week 15)
+
 * Final exam: <span style="color:red"> TBD </span> 
 * Resit exam: <span style="color:red"> TBD </span>
 <br>
