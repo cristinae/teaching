@@ -36,6 +36,7 @@ and speech recognition by Daniel Jurafsky & James H. Martin. 2007 [[Chapter 25]]
 * Statistical Machine Translation book by Philipp Koehn [[slides]](http://www.statmt.org/book/)
 * From SMT to NMT, three posts in a blog to understand the basics of NMT [[blog]](https://devblogs.nvidia.com/introduction-neural-machine-translation-with-gpus/)
 * Chapter on Neural Machine Translation by Philipp Koehn [[pdf]](https://arxiv.org/pdf/1709.07809.pdf)
+* The illustrated transformer, a blog to understand the insights of a transformer [[blog]](https://jalammar.github.io/illustrated-transformer/)
 <br>
 
 ## Syllabus
@@ -45,7 +46,7 @@ and speech recognition by Daniel Jurafsky & James H. Martin. 2007 [[Chapter 25]]
 Let's start! <br>
 
 * Easter Monday
-* All: Introduction to the course [[slides]](.//slides2023/lectures/) + Languages [[slides]](.//slides2018/lectures/2-introMThard.pdf) 
+* All: Introduction to the course [[slides]](.//slides2023/lectures/) 
 
 ### Week 2
 
@@ -111,7 +112,7 @@ Neural machine translation (NMT), LSTMs and attention <br>
 * Y1: Neural networks II: Andrew Ng introduction
 * Y2: Neural Machine Translation I
 
-* <span style="color:red">Deadline for Lab1 report</span>
+<span style="color:red">Deadline for Lab1 report</span>
 
 
 ### Week 10
@@ -131,7 +132,7 @@ NMT, new technology, let's put everything in practice! Hands on NMT. <br>
 
 ### Week 12 
 
-Week to stop, breath, we some exercises clarify general doubts and practice some exam-like questions. <br>
+Week to stop, breath, we do some exercises, clarify general doubts, and practice some exam-like questions. <br>
 
 * Y5/K5: Buffer, Q/A, Exercises
 * All: Mocky exam-like exercises and questions
@@ -150,12 +151,12 @@ Some selected topics beyond standard neural machine translation.  <br>
 * C10: Cross-lingual embeddings and unsupervised MT
 * C11: Low-resource, multilingual MT
 
-* <span style="color:red">Deadline for Lab2 report</span>
+<span style="color:red">Deadline for Lab2 report</span>
 
-### Week 14
+### Week 15
 
 Some selected topics beyond standard neural machine translation. <br>
-Final remarks <br>
+Final remarks. <br>
 
 * C12: Self-supervised MT and sentence embeddings
 * All: TO DISCUSS-> exam? challenge results?
