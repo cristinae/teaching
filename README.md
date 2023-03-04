@@ -1,11 +1,15 @@
-### Winter Semester 2020/2021 (UdS)
+### Summer Semester 2022/2023 (UdS)
 
-* [Forschungsseminar: Machine Translation](./MTresearch20/README.md)
+* [Machine Translation](./mt2023/README.md)
 
 <br>
 
 
 ### Previous semesters
+
+#### Winter Semester 2020/2021 (UdS)
+
+* [Forschungsseminar: Machine Translation](./MTresearch20/README.md)
 
 #### Summer Semester 2019/2020 (UdS)
 
