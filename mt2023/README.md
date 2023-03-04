@@ -1,8 +1,8 @@
 # Machine Translation
 ## General Info
 ```
-Where: 
-When: Mondays & Tuesdays, 16:15-17:45
+Where: Building B3.2, Room 0.03
+When: Mondays & Tuesdays, 16:15-17:45, from 11/04/23 to 18/07/23
 Who: Cristina España-Bonet, Koel Dutta Chowdhury, Yasser Hamidullah
      
 ```
@@ -34,9 +34,9 @@ There is no textbook for the course, but you can find general information in the
 * Speech and Language Processing: An introduction to natural language processing, computational linguistics,
 and speech recognition by Daniel Jurafsky & James H. Martin. 2007 [[Chapter 25]](.//slides2018/biblio/JurafskyMartinChap25Draft.pdf) [[New draft 3rd edition]](https://web.stanford.edu/~jurafsky/slp3/)
 * Statistical Machine Translation book by Philipp Koehn [[slides]](http://www.statmt.org/book/)
-* From SMT to NMT, three posts in a blog to understand the basics of NMT [[blog]](https://devblogs.nvidia.com/introduction-neural-machine-translation-with-gpus/)
+* From SMT to NMT, three posts by Kyunghyun Cho to understand the basics of NMT [[blog]](https://devblogs.nvidia.com/introduction-neural-machine-translation-with-gpus/)
 * Chapter on Neural Machine Translation by Philipp Koehn [[pdf]](https://arxiv.org/pdf/1709.07809.pdf)
-* The illustrated transformer, a blog to understand the insights of a transformer [[blog]](https://jalammar.github.io/illustrated-transformer/)
+* The illustrated transformer by Jay Alammar, a blog to understand the insights of a transformer [[blog]](https://jalammar.github.io/illustrated-transformer/)
 <br>
 
 ## Syllabus
@@ -46,7 +46,7 @@ and speech recognition by Daniel Jurafsky & James H. Martin. 2007 [[Chapter 25]]
 Let's start! 
 
 * Easter Monday
-* All: Introduction to the course [[slides]](.//slides2023/lectures/) 
+* C1: Introduction to the course [[slides]](.//slides2023/lectures/) 
 
 ### Week 2
 
@@ -55,38 +55,37 @@ Human evaluation vs. automatic evaluation. String matching automatic metrics and
 
 * K1: MT Evaluation I 
 * K2: MT Evaluation II
- 
 
 ### Week 3 
 
 What's machine translation about? Types of MT systems: rule-based, statistical and neural. <br>
 A few words on statistical machine translation (SMT) and language models. Why in 2023!? 
 
-* C1: Introduction to MT [[slides]](.//slides2023/lectures/) 
-* C2: Statistical Machine Translation I
+* C2: Introduction to MT [[slides]](.//slides2023/lectures/) 
+* C3: Statistical Machine Translation I
 
 ### Week 4
 
 More on SMT: IBM models, alignment, phrase tables and beam search.
 
 * May 1st
-* C3: Statistical Machine Translation II
+* C4: Statistical Machine Translation II
 
 ### Week 5
 
 More on SMT: IBM models, alignment, phrase tables and beam search. <br>
 And after that, let's put everything in practice! Hands on SMT.
 
-* C4: Statistical Machine Translation III
-* C5: Lab1, Statistical Machine Translation [[guidelines]](.//slides2023/lectures/) 
+* C5: Statistical Machine Translation III
+* C6: Lab1, Statistical Machine Translation [[guidelines]](.//slides2023/lectures/) 
 
 ### Week 6
 
 Continue with our hands on. <br>
 Transition to neural machine translation, word embeddings: the basic units.
 
-* C6: Lab1, Statistical Machine Translation [[guidelines]](.//slides2023/lectures/) 
-* C7: Word embeddings
+* C7: Lab1, Statistical Machine Translation [[guidelines]](.//slides2023/lectures/) 
+* C8: Word embeddings
 
 
 ### Week 7
@@ -107,7 +106,7 @@ Serious neural networks stuff!
 ### Week 9
 
 Deeper into neural networks and logistic regression. <br>
-Neural machine translation (NMT), LSTMs and attention <br>
+Neural machine translation (NMT), LSTMs and attention. <br>
 
 * Y1: Neural networks II: Andrew Ng introduction
 * Y2: Neural Machine Translation I
@@ -126,8 +125,8 @@ More on Neural machine translation, sequence-to-sequence models with attention a
 
 NMT, new technology, let's put everything in practice again! Hands on NMT.
 
-* C8: Lab2, Neural Machine Translation [[guidelines]](.//slides2023/lectures/) 
 * C9: Lab2, Neural Machine Translation [[guidelines]](.//slides2023/lectures/) 
+* C10: Lab2, Neural Machine Translation [[guidelines]](.//slides2023/lectures/) 
 
 ### Week 12 
 
@@ -147,17 +146,17 @@ We are back with theory, machine translation besides text.
 
 Some selected topics beyond standard neural machine translation. 
 
-* C10: Cross-lingual embeddings and unsupervised MT
-* C11: Low-resource, multilingual MT
+* C11: Cross-lingual embeddings and unsupervised MT
+* C12: Low-resource, multilingual MT
 
 <span style="color:red">Deadline for Lab2 report</span>
 
 ### Week 15
 
-Some selected topics beyond standard neural machine translation. <br>
+Yet another selected topic beyond standard neural machine translation. <br>
 Final remarks.
 
-* C12: Self-supervised MT and sentence embeddings
+* C13: Self-supervised MT and sentence embeddings
 * All: TO DISCUSS-> exam? challenge results?
 
 
