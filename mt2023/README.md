@@ -7,7 +7,7 @@ Who: Cristina España-Bonet, Koel Dutta Chowdhury, Yasser Hamidullah
      
 ```
 
-### See the course [calendar](../calendars/calendarMT.md)
+## See the course [calendar](../calendars/calendarMT.md)
 <br>
 
 ## Objectives
@@ -43,7 +43,7 @@ and speech recognition by Daniel Jurafsky & James H. Martin. 2007 [[Chapter 25]]
 
 ### Week 1
 
-Let's start! <br>
+Let's start! 
 
 * Easter Monday
 * All: Introduction to the course [[slides]](.//slides2023/lectures/) 
@@ -51,7 +51,7 @@ Let's start! <br>
 ### Week 2
 
 Why languages are difficult? Why MT evaluation is a challenge? <br>
-Human evaluation vs. automatic evaluation. String matching automatic metrics and neural metrics.  <br>
+Human evaluation vs. automatic evaluation. String matching automatic metrics and neural metrics. 
 
 * K1: MT Evaluation I 
 * K2: MT Evaluation II
@@ -60,14 +60,14 @@ Human evaluation vs. automatic evaluation. String matching automatic metrics and
 ### Week 3 
 
 What's machine translation about? Types of MT systems: rule-based, statistical and neural. <br>
-A few words on statistical machine translation (SMT) and language models. Why in 2023!?  <br>
+A few words on statistical machine translation (SMT) and language models. Why in 2023!? 
 
 * C1: Introduction to MT [[slides]](.//slides2023/lectures/) 
 * C2: Statistical Machine Translation I
 
 ### Week 4
 
-More on SMT: IBM models, alignment, phrase tables and beam search. <br>
+More on SMT: IBM models, alignment, phrase tables and beam search.
 
 * May 1st
 * C3: Statistical Machine Translation II
@@ -75,7 +75,7 @@ More on SMT: IBM models, alignment, phrase tables and beam search. <br>
 ### Week 5
 
 More on SMT: IBM models, alignment, phrase tables and beam search. <br>
-And after that, let's put everything in practice! Hands on SMT. <br>
+And after that, let's put everything in practice! Hands on SMT.
 
 * C4: Statistical Machine Translation III
 * C5: Lab1, Statistical Machine Translation [[guidelines]](.//slides2023/lectures/) 
@@ -83,7 +83,7 @@ And after that, let's put everything in practice! Hands on SMT. <br>
 ### Week 6
 
 Continue with our hands on. <br>
-Transition to neural machine translation, word embeddings: the basic units. <br>
+Transition to neural machine translation, word embeddings: the basic units.
 
 * C6: Lab1, Statistical Machine Translation [[guidelines]](.//slides2023/lectures/) 
 * C7: Word embeddings
@@ -91,7 +91,7 @@ Transition to neural machine translation, word embeddings: the basic units. <br>
 
 ### Week 7
  
-The basics of neural networks with relevance to machine translation. <br>
+The basics of neural networks with relevance to machine translation. 
 
 * K3: Neural networks for translation technologies I
 * K4: Neural networks for translation technologies II
@@ -99,7 +99,7 @@ The basics of neural networks with relevance to machine translation. <br>
 
 ### Week 8
 
-Serious neural networks stuff! <br>
+Serious neural networks stuff! 
 
 * Whit Monday
 * K5/Y5: Neural networks I: backpropagation
@@ -114,10 +114,9 @@ Neural machine translation (NMT), LSTMs and attention <br>
 
 <span style="color:red">Deadline for Lab1 report</span>
 
-
 ### Week 10
 
-More on Neural machine translation, sequence-to-sequence models with attention and transformers. <br>
+More on Neural machine translation, sequence-to-sequence models with attention and transformers.
 
 * Y3: Neural Machine Translation II
 * Y4: Neural Machine Translation III
@@ -125,28 +124,28 @@ More on Neural machine translation, sequence-to-sequence models with attention a
 
 ### Week 11
 
-NMT, new technology, let's put everything in practice! Hands on NMT. <br>
+NMT, new technology, let's put everything in practice again! Hands on NMT.
 
 * C8: Lab2, Neural Machine Translation [[guidelines]](.//slides2023/lectures/) 
 * C9: Lab2, Neural Machine Translation [[guidelines]](.//slides2023/lectures/) 
 
 ### Week 12 
 
-Week to stop, breath, we do some exercises, clarify general doubts, and practice some exam-like questions. <br>
+Week to stop, breath, we do some exercises, clarify general doubts, and practice some exam-like questions.
 
 * Y5/K5: Buffer, Q/A, Exercises
 * All: Mocky exam-like exercises and questions
 
 ### Week 13
 
-We are back with theory, machine translation besides text. <br>
+We are back with theory, machine translation besides text. 
 
 * Y6: Sign Language Translation
 * K6: Multimodal Machine Translation
 
 ### Week 14
 
-Some selected topics beyond standard neural machine translation.  <br>
+Some selected topics beyond standard neural machine translation. 
 
 * C10: Cross-lingual embeddings and unsupervised MT
 * C11: Low-resource, multilingual MT
@@ -156,7 +155,7 @@ Some selected topics beyond standard neural machine translation.  <br>
 ### Week 15
 
 Some selected topics beyond standard neural machine translation. <br>
-Final remarks. <br>
+Final remarks.
 
 * C12: Self-supervised MT and sentence embeddings
 * All: TO DISCUSS-> exam? challenge results?
