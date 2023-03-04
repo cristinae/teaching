@@ -15,6 +15,7 @@ Who: Cristina España-Bonet, Koel Dutta Chowdhury, Yasser Hamidullah
 The course gives an introduction to machine translation going from statistical to neural machine translation systems and paying special attention to the current state of the art which is almost 100% neural. A strong background on mathematics, statistics and machine learning is not required but a basic knowledge is expected to follow the course.
 <br>
 
+
 ## Evaluation
 
 The evaluation consists of 2 mandatory assignments (20%), a bonus (extra 10%!) and a final exam (80%):
@@ -100,86 +101,63 @@ The basics of neural networks with relevance to machine translation. <br>
 Serious neural networks stuff! <br>
 
 * Whit Monday
-* Y1: Backpropagation
+* K5/Y5: Neural networks I: backpropagation
 
 ### Week 9
 
-* C8: Lab1 Q&A (on-site, bring your laptop!)
-* C9: Evaluation (bring your laptop!) [[slides]](.//slides2018/lectures/7-MTEval.pdf) 
-* <span style="color:red">01/05/2018 Deadline for Lab1 report</span>
+Deeper into neural networks and logistic regression. <br>
+Neural machine translation (NMT), LSTMs and attention <br>
 
-* C10: Lab3, presentation [[slides]](.//slides2018/lectures/8-oralPresentation.pdf) 
-<br>Chose a [[paper]](https://docs.google.com/document/d/1wtGHDMnnHmCnY6uv-9bRO4FfsRHZqRuCvYVfRaCp83A/edit?usp=sharing) 
-<br>Chose a [[date]](https://doodle.com/poll/pzcv2bngb4hiv38u)
-* R4: Neural Machine Translation [[slides]](http://raphael.rubino.free.fr/uds_summer2018_nmt4.pdf)
-* R5: Neural Machine Translation [[slides]](http://raphael.rubino.free.fr/uds_summer2018_nmt5.pdf)
-* R6: Lab2, Neural Machine Translation [[PDF]](http://raphael.rubino.free.fr/uds_summer2018_nmt_lab1.pdf)
+* Y1: Neural networks II: Andrew Ng introduction
+* Y2: Neural Machine Translation I
+
+* <span style="color:red">Deadline for Lab1 report</span>
+
 
 ### Week 10
 
-* R7: Lab2, Neural Machine Translation 
-* R8: Quality Estimation
+More on Neural machine translation, sequence-to-sequence models with attention and transformers. <br>
+
+* Y3: Neural Machine Translation II
+* Y4: Neural Machine Translation III
+
 
 ### Week 11
 
-* R9: Lab2 Q&A (on-site, bring your laptop!)
-* R10: Selected Topics
+NMT, new technology, let's put everything in practice! Hands on NMT. <br>
+
+* C8: Lab2, Neural Machine Translation [[guidelines]](.//slides2023/lectures/) 
+* C9: Lab2, Neural Machine Translation [[guidelines]](.//slides2023/lectures/) 
 
 ### Week 12 
 
-* 02/07/2018 Written Exam
-<br>Chose a [[date]](https://doodle.com/poll/yx5pithafigxdkxa) for the Resit Exam 
-* Free 
+Week to stop, breath, we some exercises clarify general doubts and practice some exam-like questions. <br>
+
+* Y5/K5: Buffer, Q/A, Exercises
+* All: Mocky exam-like exercises and questions
 
 ### Week 13
 
-* *09/07/2018   Lab3: Student Presentations I*
-<br> <br> 2:15-2:35 -- Matt Kuhn
-<br> _Europarl: A Parallel Corpus for Statistical Machine Translation_  [[slides]](.//slides2018/students/matt.pptx) 
-<br> 2:40-3:00 -- Tanja Bäumel
-<br> _Beyond Parallel Data: Joint Word Alignment and Decipherment Improves Machine Translation_
-<br> 3:05-3:25 -- Christine Schäfer
-<br> _Phrase-Based & Neural Unsupervised Machine Translation_
-<br> 3:30-3:50 -- Anastasija Amann
-<br> _A Sense-Based Translation Model for Statistical Machine Translation_  [[slides]](.//slides2018/students/anastasija.pdf) 
+We are back with theory, machine translation besides text. <br>
 
- 
-* *11/07/2018   Lab3: Student Presentations II*
-<br> <br> 2:05-2:25 -- Polina Stadnikova
-<br> _Hierarchical Phrase-Based Translation_
-<br> 2:25-2:45 -- Azin Zahraei
-<br> _Hierarchical Phrase-Based Translation_
-<br> 2:50-3:10 -- Kirstin Kolmorgen
-<br> _Docent: A Document-Level Decoder for Phrase-Based Statistical Machine Translation_
-<br> 3:15-3:35 -- Damyana Gateva
-<br> _Exploiting cross-sentence context for neural machine translation_
-<br> 3:40-4:00 -- Iza Škrjanec
-<br> _Modeling Selectional Preferences of Verbs and Nouns in String-to-Tree Machine Translation_
+* Y6: Sign Language Translation
+* K6: Multimodal Machine Translation
 
 ### Week 14
 
-* *16/07/2018   Lab3: Student Presentations III*
-<br> <br> 2:15-2:35 -- Daria Pylypenko
-<br> _Modeling Source Syntax for Neural Machine Translation_
-<br> 2:40-3:00 -- Mario Magued Mina
-<br> _Neural Machine Translation with Word Predictions_
-<br> 3:05-3:25 -- Dominik Stammbach
-<br> _Unsupervised Neural Machine Translation with Weight Sharing_
-<br> 3:30-3:50 -- Yanzhe Guo  [[slides]](.//slides2018/students/yanzhe.pptm) 
-<br> _Lattice-Based Recurrent Neural Network Encoders for Neural Machine Translation_
+Some selected topics beyond standard neural machine translation.  <br>
 
- 
-* *18/07/2018   Lab3: Student Presentations IV*
-<br><br> 2:00-2:20 -- Tanja Bäumel
-<br> _Beyond Parallel Data: Joint Word Alignment and Decipherment Improves Machine Translation_
-<br> 2:25-2:45 -- Hali Lindsay
-<br> _Is Neural Machine Translation Ready for Deployment? A Case Study on 30 Translation Directions_
-<br> 2:50-3:10 -- Lukas Schmitt
-<br> _Google’s Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation_
-<br> 3:15-3:35 -- Meisyarah Dwiastuti
-<br> _Convolutional Sequence to Sequence Learning_
-<br> 3:40-4:00 -- Insa Kröger
-<br> _A neural interlingua for multilingual machine translation_
+* C10: Cross-lingual embeddings and unsupervised MT
+* C11: Low-resource, multilingual MT
 
+* <span style="color:red">Deadline for Lab2 report</span>
+
+### Week 14
+
+Some selected topics beyond standard neural machine translation. <br>
+Final remarks <br>
+
+* C12: Self-supervised MT and sentence embeddings
+* All: TO DISCUSS-> exam? challenge results?
 
 
