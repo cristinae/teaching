@@ -18,7 +18,7 @@ The course gives an introduction to machine translation going from statistical t
 
 ## Evaluation
 
-The evaluation consists of 2 mandatory assignments (20%), a bonus (extra 10%!) and a final exam (80%):
+The evaluation consists of 2 mandatory labs with an assignment (30%), a final exam (70%) and a challenge bonus (extra 10%!):
 * SMT assignment (lab week 5/6, deadline week 9)
 * NMT assignment (lab week 11, deadline week 14)
 * MT Challenge, the bonus (temptative, to discuss, week 15)
@@ -109,7 +109,7 @@ Serious neural networks stuff!
 Deeper into neural networks and logistic regression. <br>
 Neural machine translation (NMT), LSTMs and attention. <br>
 
-* Y1: Neural networks II: Andrew Ng introduction
+* Y1: Neural networks II: Andrew Ng like introduction
 * Y2: Neural Machine Translation I
 
 <span style="color:red">Deadline for Lab1 report</span>
@@ -138,26 +138,26 @@ Week to stop, breath, we do some exercises, clarify general doubts, and practice
 
 ### Week 13
 
-We are back with theory, machine translation besides text. 
+We are back with theory with some selected topics. 
 
 * Y6: Sign Language Translation
-* K6: Multimodal Machine Translation
+* C11: Cross-lingual embeddings and unsupervised MT
 
 ### Week 14
 
-Some selected topics beyond standard neural machine translation. 
+Some more selected topics beyond standard neural machine translation. 
 
-* C11: Cross-lingual embeddings and unsupervised MT
-* C12: Low-resource, multilingual MT
+* C12: Low-resource and multilingual MT
+* C13: Self-supervised MT and sentence embeddings
 
 <span style="color:red">Deadline for Lab2 report</span>
 
 ### Week 15
 
-Yet another selected topic beyond standard neural machine translation. <br>
+Yet another selected topic, translation beyond text. <br>
 Final remarks.
 
-* C13: Self-supervised MT and sentence embeddings
+* K6: Multimodal Machine Translation
 * All: TO DISCUSS-> exam? challenge results?
 
 
