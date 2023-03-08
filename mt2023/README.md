@@ -102,15 +102,15 @@ The basics of neural networks with relevance to machine translation.
 Serious neural networks stuff! 
 
 * Whit Monday
-* K5/Y5: Neural networks I: backpropagation
+* Y1: Neural networks I: backpropagation
 
 ### Week 9
 
 Deeper into neural networks and logistic regression. <br>
 Neural machine translation (NMT), LSTMs and attention. <br>
 
-* Y1: Neural networks II: Andrew Ng like introduction
-* Y2: Neural Machine Translation I
+* Y2: Neural networks II: Andrew Ng like introduction
+* Y3: Neural Machine Translation I
 
 <span style="color:red">Deadline for Lab1 report</span>
 
@@ -118,8 +118,8 @@ Neural machine translation (NMT), LSTMs and attention. <br>
 
 More on Neural machine translation, sequence-to-sequence models with attention and transformers.
 
-* Y3: Neural Machine Translation II
-* Y4: Neural Machine Translation III
+* Y4: Neural Machine Translation II
+* Y5: Neural Machine Translation III
 
 
 ### Week 11
@@ -133,31 +133,31 @@ NMT, new technology, let's put everything in practice again! Hands on NMT.
 
 Week to stop, breath, we do some exercises, clarify general doubts, and practice some exam-like questions.
 
-* Y5/K5: Buffer, Q/A, Exercises
+* K5: Selected exercises, Q/A
 * All: Mocky exam-like exercises and questions
 
 ### Week 13
 
-We are back with theory with some selected topics. 
+We are back with theory, sign language translation to start with non-textual data. 
 
-* Y6: Sign Language Translation
-* C11: Cross-lingual embeddings and unsupervised MT
+* Y6: Sign Language Translation I 
+* Y7: Sign Language Translation II
 
 ### Week 14
 
-Some more selected topics beyond standard neural machine translation. 
+A bit more on multimodal translation. Starting some selected topics.
 
-* C12: Low-resource and multilingual MT
-* C13: Self-supervised MT and sentence embeddings
+* K6: Multimodal Machine Translation
+* C11: Cross-lingual embeddings and unsupervised MT
 
 <span style="color:red">Deadline for Lab2 report</span>
 
 ### Week 15
 
-Yet another selected topic, translation beyond text. <br>
-Final remarks.
+More selected topics and final remarks.
 
-* K6: Multimodal Machine Translation
-* All: TO DISCUSS-> exam? challenge results?
+* C12: Low-resource and multilingual MT
+* C13: Self-supervised MT and sentence embeddings
+* Alternative: Challenge discussion
 
 
