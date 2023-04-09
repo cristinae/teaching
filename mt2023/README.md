@@ -19,8 +19,8 @@ The course gives an introduction to machine translation going from statistical t
 ## Evaluation
 
 The evaluation consists of 2 mandatory labs with an assignment (30%), a final exam (70%) and a challenge bonus (extra 10%!):
-* SMT assignment (lab week 5/6, deadline week 9)
-* NMT assignment (lab week 11, deadline week 14)
+* SMT assignment (lab week 5, deadline week 8)
+* NMT assignment (lab week 11, deadline week 13)
 * MT Challenge, the bonus (temptative, to discuss, week 15)
 
 * Final exam: <span style="color:red"> 17/07/2023 </span> 
@@ -77,16 +77,16 @@ More on SMT: IBM models, alignment, phrase tables and beam search.
 More on SMT: IBM models, alignment, phrase tables and beam search. <br>
 And after that, let's put everything in practice! Hands on SMT.
 
-* C5: Statistical Machine Translation III
-* C6: Lab1, Statistical Machine Translation [[guidelines]](.//slides2023/lectures/) 
+* C5: <span style="color:red"> (temptative) </span> Statistical Machine Translation III
+* C6: <span style="color:red"> (temptative) </span> Lab1, Statistical Machine Translation [[guidelines]](.//slides2023/lectures/) 
 
 ### Week 6
 
 Continue with our hands on. <br>
 Transition to neural machine translation, word embeddings: the basic units.
 
-* C7: Lab1, Statistical Machine Translation [[guidelines]](.//slides2023/lectures/) 
-* C8: Word embeddings (+ cross-lingual?)
+* C7: <span style="color:red"> (temptative) </span> Lab1, Statistical Machine Translation [[guidelines]](.//slides2023/lectures/) 
+* C8: <span style="color:red"> (temptative) </span> Word embeddings (+ cross-lingual + Unsupervised MT?)
 
 ### Week 7
  
@@ -103,6 +103,8 @@ Serious neural networks stuff!
 * Whit Monday
 * Y1: Neural networks I: backpropagation
 
+<span style="color:red">Deadline for Lab1 report</span>
+
 ### Week 9
 
 Deeper into neural networks and logistic regression. <br>
@@ -110,8 +112,6 @@ Neural machine translation (NMT), LSTMs and attention. <br>
 
 * Y2: Neural networks II: Andrew Ng like introduction
 * Y3: Neural Machine Translation I
-
-<span style="color:red">Deadline for Lab1 report</span>
 
 ### Week 10
 
@@ -143,6 +143,8 @@ More on multimodality, sign language translation.
 * Y6: Sign Language Translation I 
 * Y7: Sign Language Translation II
 
+<span style="color:red">Deadline for Lab2 report</span>
+
 ### Week 14
 
 A couple of selected topics.
@@ -150,11 +152,9 @@ A couple of selected topics.
 * C11: Cross-lingual embeddings and unsupervised MT
 * C12: Low-resource and multilingual MT
 
-<span style="color:red">Deadline for Lab2 report</span>
-
 ### Week 15
 
 * <span style="color:red"> 17/07/2023 EXAM </span>
-* Alternative: Challenge discussion
+* Challenge discussion
 
 
