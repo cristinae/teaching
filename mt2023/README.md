@@ -47,7 +47,7 @@ and speech recognition by Daniel Jurafsky & James H. Martin. 2007 [[Chapter 25]]
 Let's start! 
 
 * Easter Monday
-* C1: Introduction to the course [[slides]](.//slides2023/lectures/) 
+* C1: Introduction to the course [[slides]](.//slides2023/lectures/1-introCourse.pdf) 
 
 ### Week 2
 
