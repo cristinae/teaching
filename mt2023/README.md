@@ -23,14 +23,14 @@ The evaluation consists of 2 mandatory labs with an assignment (30%), a final ex
 * NMT assignment (lab week 11, deadline week 14)
 * MT Challenge, the bonus (temptative, to discuss, week 15)
 
-* Final exam: <span style="color:red"> TBD </span> 
+* Final exam: <span style="color:red"> 17/07/2023 </span> 
 * Resit exam: <span style="color:red"> TBD </span>
 <br>
 
 
 ## Basic Bibliography
 
-There is no textbook for the course, but you can find general information in the following references. More especific texts or slides will be provided for each session.
+There is no textbook for the course, but you can find basic general information in the following references. More especific texts or slides will be provided for each session.
 
 * Speech and Language Processing: An introduction to natural language processing, computational linguistics,
 and speech recognition by Daniel Jurafsky & James H. Martin. 2007 [[Chapter 25]](.//slides2018/biblio/JurafskyMartinChap25Draft.pdf) [[New draft 3rd edition]](https://web.stanford.edu/~jurafsky/slp3/)
@@ -86,8 +86,7 @@ Continue with our hands on. <br>
 Transition to neural machine translation, word embeddings: the basic units.
 
 * C7: Lab1, Statistical Machine Translation [[guidelines]](.//slides2023/lectures/) 
-* C8: Word embeddings
-
+* C8: Word embeddings (+ cross-lingual?)
 
 ### Week 7
  
@@ -131,33 +130,31 @@ NMT, new technology, let's put everything in practice again! Hands on NMT.
 
 ### Week 12 
 
-Week to stop, breath, we do some exercises, clarify general doubts, and practice some exam-like questions.
+A moment to stop, breath, we do some exercises, clarify general doubts.</br>
+Starting multimodality.
 
 * K5: Selected exercises, Q/A
-* All: Mocky exam-like exercises and questions
+* K6: Multimodal Machine Translation
 
 ### Week 13
 
-We are back with theory, sign language translation to start with non-textual data. 
+More on multimodality, sign language translation. 
 
 * Y6: Sign Language Translation I 
 * Y7: Sign Language Translation II
 
 ### Week 14
 
-A bit more on multimodal translation. Starting some selected topics.
+A couple of selected topics.
 
-* K6: Multimodal Machine Translation
 * C11: Cross-lingual embeddings and unsupervised MT
+* C12: Low-resource and multilingual MT
 
 <span style="color:red">Deadline for Lab2 report</span>
 
 ### Week 15
 
-More selected topics and final remarks.
-
-* C12: Low-resource and multilingual MT
-* C13: Self-supervised MT and sentence embeddings
+* <span style="color:red"> 17/07/2023 EXAM </span>
 * Alternative: Challenge discussion
 
 
