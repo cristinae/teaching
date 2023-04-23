@@ -49,22 +49,24 @@ Let's start!
 * Easter Monday
 * C1: Introduction to the course [[slides]](.//slides2023/lectures/1-introCourse.pdf) <br>
 C1: Richness of natural languages, why is MT difficult? [[slides]](.//slides2023/lectures/2-introLanguages.pdf) <br>
-Fill in the form with CA-WEAT lists in your mother tongue. Form is available in [Catalan](https://docs.google.com/forms/d/e/1FAIpQLSfuCtPWl6MgpnitOLWbbncslIVE9ggY1HcezkPwmOvTu9R7SQ/viewform?usp=sf_link), [English](https://docs.google.com/forms/d/e/1FAIpQLSe7PxnTNox-TYTQZFz0S6j0XNv_fcZIg6RgZdOURveKIKs9Pw/viewform?usp=sf_link), [French](https://docs.google.com/forms/d/e/1FAIpQLSeyOaVTzNlpcIhWvbHLisX7VO72Gr3PL7K5gnFLKzDDimLGag/viewform?usp=sf_link), [German](https://docs.google.com/forms/d/e/1FAIpQLSeLsN2u8NWS-glF91uyMpE6UooyiZtfM_yB0c0AmolUsxYrBA/viewform?usp=sf_link), [Italian](https://docs.google.com/forms/d/e/1FAIpQLScFcw_ORqR9NwSzL3jY3s18e4Z2hEBNCbZjSgEhewmOymvIHA/viewform?usp=sf_link) and [Spanish](https://docs.google.com/forms/d/e/1FAIpQLSciZNJr-xxk-W4lvCc5Ja_BixdWy68doagOKmhJx7VmZILyaw/viewform?usp=sf_link). Please, use the English form and add words in your native language if the specific form is not available.
+
+Suggested exercise: Fill in the form with CA-WEAT lists in your mother tongue. Form is available in [Catalan](https://docs.google.com/forms/d/e/1FAIpQLSfuCtPWl6MgpnitOLWbbncslIVE9ggY1HcezkPwmOvTu9R7SQ/viewform?usp=sf_link), [English](https://docs.google.com/forms/d/e/1FAIpQLSe7PxnTNox-TYTQZFz0S6j0XNv_fcZIg6RgZdOURveKIKs9Pw/viewform?usp=sf_link), [French](https://docs.google.com/forms/d/e/1FAIpQLSeyOaVTzNlpcIhWvbHLisX7VO72Gr3PL7K5gnFLKzDDimLGag/viewform?usp=sf_link), [German](https://docs.google.com/forms/d/e/1FAIpQLSeLsN2u8NWS-glF91uyMpE6UooyiZtfM_yB0c0AmolUsxYrBA/viewform?usp=sf_link), [Italian](https://docs.google.com/forms/d/e/1FAIpQLScFcw_ORqR9NwSzL3jY3s18e4Z2hEBNCbZjSgEhewmOymvIHA/viewform?usp=sf_link) and [Spanish](https://docs.google.com/forms/d/e/1FAIpQLSciZNJr-xxk-W4lvCc5Ja_BixdWy68doagOKmhJx7VmZILyaw/viewform?usp=sf_link). Please, use the English form and add words in your native language if the specific form is not available.
 
 ### Week 2
 
 Richness of natural languages, why MT evaluation is a challenge? <br>
 Human evaluation vs. automatic evaluation. String matching automatic metrics and neural metrics. 
 
-* K1: MT Evaluation I 
-* K2: MT Evaluation II
+* K1: MT Evaluation I  [[slides in Moodle]](https://lms.sulb.uni-saarland.de/moodle/course/view.php?id=8655) <br>
+* K2: MT Evaluation II  [[slides]](.//slides2023/lectures/4-MT_evaluation_II.pdf)
 
 ### Week 3 
 
 What's machine translation about? Types of MT systems: rule-based, statistical and neural. <br>
 A few words on statistical machine translation (SMT) and language models. Why in 2023!? 
 
-* C2: Introduction to Machine Translation
+* C2: Recap! Richness of natural languages, why is MT difficult? [[slides]](.//slides2023/lectures/2b-introLanguagesRecap.pdf) <br>
+Introduction to Machine Translation
 * C3: Statistical Machine Translation I
 
 ### Week 4
