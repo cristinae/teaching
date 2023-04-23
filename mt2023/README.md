@@ -40,6 +40,11 @@ and speech recognition by Daniel Jurafsky & James H. Martin. 2007 [[Chapter 25]]
 * The illustrated transformer by Jay Alammar, a blog to understand the insights of a transformer [[blog]](https://jalammar.github.io/illustrated-transformer/)
 <br>
 
+## Related Exercises
+
+We will do some simple excercises during the lectures and devote one lecture only for exercises. We recommend that you practice every week with additional related [exercises](https://lms.sulb.uni-saarland.de/moodle/course/view.php?id=8655). These exercises will not be corrected at class and bear in mind that they are not exhaustive, not all the topics that will be evaluated are covered.
+
+
 ## Syllabus
 
 ### Week 1
@@ -59,6 +64,8 @@ Human evaluation vs. automatic evaluation. String matching automatic metrics and
 
 * K1: MT Evaluation I  [[slides in Moodle]](https://lms.sulb.uni-saarland.de/moodle/course/view.php?id=8655) <br>
 * K2: MT Evaluation II  [[slides]](.//slides2023/lectures/4-MT_evaluation_II.pdf)
+
+Suggested exercise: Chose two short sentences (a hypohesis and a reference translation) and calculate some n-gram based metrics by hand. Use [sacreBLEU](https://github.com/mjpost/sacrebleu) to check your results. Go to your preferred online MT system and get longer hypotheses-reference pairs. Evaluate them with sacreBLEU. Install at least [COMET](https://unbabel.github.io/COMET/html/index.html) as semantic metric and compare the results. We'll use these softwares later in the labs. Advice: don't try Windows!
 
 ### Week 3 
 
