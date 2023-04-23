@@ -42,7 +42,7 @@ and speech recognition by Daniel Jurafsky & James H. Martin. 2007 [[Chapter 25]]
 
 ## Related Exercises
 
-We will do some simple excercises during the lectures and devote one lecture only for exercises. We recommend that you practice every week with additional related [exercises](https://lms.sulb.uni-saarland.de/moodle/course/view.php?id=8655). These exercises will not be corrected at class and bear in mind that they are not exhaustive, not all the topics that will be evaluated are covered.
+We will do some simple excercises during the lectures and devote one lecture for exercises. We suggest practical exercises in the syllabus related to the week's topic. Also, we recommend that you practice every week with additional related [exercises](https://lms.sulb.uni-saarland.de/moodle/course/view.php?id=8655). These exercises will not be corrected in class and bear in mind that they are not exhaustive, not all the topics that will be evaluated are covered in this additional set.
 
 
 ## Syllabus
