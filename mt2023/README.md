@@ -24,7 +24,7 @@ The evaluation consists of 2 mandatory labs with an assignment (30%), a final ex
 * MT Challenge, the bonus (temptative, to discuss, week 15)
 
 * Final exam: <span style="color:red"> 17/07/2023 </span> 
-* Resit exam: <span style="color:red"> TBD </span>
+* Resit exam: <span style="color:red"> TBD (17/10/2023??) </span>
 <br>
 
 
