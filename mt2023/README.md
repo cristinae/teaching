@@ -24,7 +24,7 @@ The evaluation consists of 2 mandatory labs with an assignment (30%), a final ex
 * MT Challenge, the bonus (temptative, to discuss, week 15)
 
 * Final exam: <span style="color:red"> 17/07/2023 </span> 
-* Resit exam: <span style="color:red"> TBD (17/10/2023??) </span>
+* Resit exam: <span style="color:red"> 17/10/2023 </span>
 <br>
 
 
@@ -73,8 +73,10 @@ What's machine translation about? Types of MT systems: rule-based, statistical a
 A few words on statistical machine translation (SMT) and language models. Why in 2023!? 
 
 * C2: Recap! Richness of natural languages, why is MT difficult? [[slides]](.//slides2023/lectures/2b-introLanguagesRecap.pdf) <br>
-Introduction to Machine Translation
-* C3: Statistical Machine Translation I
+Introduction to Machine Translation [[slides]](.//slides2023/lectures/5-MTinNutshell.pdf) 
+* C3: Statistical Machine Translation I [[slides]](.//slides2023/lectures/6-SMT.pdf) <span style="color:red"> Achtung! </span> These slides might not be the final ones, they might be actualised.
+
+Suggested exercise: Read about how everything started, history never harms! [[John Hutchin summary](https://www.infoamerica.org/documentos_pdf/bar05.pdf)] [[blog]](https://www.freecodecamp.org/news/a-history-of-machine-translation-from-the-cold-war-to-deep-learning-f1d335ce8b5/)
 
 ### Week 4
 
