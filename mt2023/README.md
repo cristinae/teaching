@@ -65,7 +65,7 @@ Human evaluation vs. automatic evaluation. String matching automatic metrics and
 * K1: MT Evaluation I  [[slides in Moodle]](https://lms.sulb.uni-saarland.de/moodle/course/view.php?id=8655) <br>
 * K2: MT Evaluation II  [[slides]](.//slides2023/lectures/4-MT_evaluation_II.pdf)
 
-Suggested exercise: Chose two short sentences (a hypohesis and a reference translation) and calculate some n-gram based metrics by hand. Use [sacreBLEU](https://github.com/mjpost/sacrebleu) to check your results. Go to your preferred online MT system and get longer hypotheses-reference pairs. Evaluate them with sacreBLEU. Install at least [COMET](https://unbabel.github.io/COMET/html/index.html) as semantic metric and compare the results. We'll use these softwares later in the labs. Advice: don't try Windows!
+Suggested exercise: Chose two short sentences (a hypohesis and a reference translation) and calculate some n-gram based metrics by hand. Use [sacreBLEU](https://github.com/mjpost/sacrebleu) to check your results. Go to your preferred online MT system and get longer hypotheses-reference pairs. Evaluate them with sacreBLEU. Install at least [COMET](https://unbabel.github.io/COMET/html/index.html) as semantic metric and compare the results. We'll use these software later in the labs. Advice: don't try Windows!
 
 ### Week 3 
 
@@ -80,26 +80,26 @@ Suggested exercise: Read about how everything started, history never harms! [[Jo
 
 ### Week 4
 
-More on SMT: IBM models, alignment, phrase tables and beam search.
+More on SMT: statistical language modelling, IBM models, alignment, phrase tables and beam search.
 
 * May 1st
 * C4: Statistical Machine Translation II
 
 ### Week 5
 
-More on SMT: IBM models, alignment, phrase tables and beam search. <br>
+More on SMT: the log-linear model, MERT, factored models and a bit more. <br>
 And after that, let's put everything in practice! Hands on SMT.
 
-* C5: <span style="color:red"> (temptative) </span> Statistical Machine Translation III
-* C6: <span style="color:red"> (temptative) </span> Lab1, Statistical Machine Translation [[guidelines]](.//slides2023/lectures/) 
+* C5: Statistical Machine Translation III
+* C6: Lab1, Statistical Machine Translation [[guidelines]](.//slides2023/lectures/) 
 
 ### Week 6
 
 Continue with our hands on. <br>
 Transition to neural machine translation, word embeddings: the basic units.
 
-* C7: <span style="color:red"> (temptative) </span> Lab1, Statistical Machine Translation [[guidelines]](.//slides2023/lectures/) 
-* C8: <span style="color:red"> (temptative) </span> Word embeddings (+ cross-lingual + Unsupervised MT?)
+* C7: Lab1, Statistical Machine Translation [[guidelines]](.//slides2023/lectures/) 
+* C8: Word embeddings (+ cross-lingual + Unsupervised MT?)
 
 ### Week 7
  
