@@ -83,22 +83,22 @@ Suggested exercise: Read about how everything started, history never harms! [[Jo
 More on SMT: statistical language modelling, IBM models, alignment, phrase tables and beam search.
 
 * May 1st
-* C4: Statistical Machine Translation II [[slides]](.//slides2023/lectures/6-SMT.pdf)
+* C4: Statistical Machine Translation II [[slides]](.//slides2023/lectures/6-SMT.pdf#page=32)
 
 ### Week 5
 
 More on SMT: the log-linear model, MERT, factored models and a bit more. <br>
 And after that, let's put everything in practice! Hands on SMT.
 
-* C5: Statistical Machine Translation III [[slides]](.//slides2023/lectures/6-SMT.pdf)
-* C6: Lab1, Statistical Machine Translation [[guidelines \& questionnaire]](.//slides2023/lectures/L1-labSMT.pdf) 
+* C5: Statistical Machine Translation III [[slides]](.//slides2023/lectures/6-SMT.pdf#page=163)
+* C6: Lab1, Statistical Machine Translation [[guidelines & questionnaire]](.//slides2023/lectures/L1-labSMT.pdf) 
 
 ### Week 6
 
 Continue with our hands on. <br>
 Transition to neural machine translation, word embeddings: the basic units.
 
-* C7: Lab1, Statistical Machine Translation [[guidelines \& questionnaire]](.//slides2023/lectures/L1-labSMT.pdf) 
+* C7: Lab1, Statistical Machine Translation [[guidelines & questionnaire]](.//slides2023/lectures/L1-labSMT.pdf) 
 * C8: Word embeddings (+ cross-lingual + Unsupervised MT?)
 
 ### Week 7
