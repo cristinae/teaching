@@ -145,7 +145,7 @@ NMT, new technology, let's put everything in practice again! Hands on NMT.
 
 ### Week 12 
 
-A moment to stop, breath, we do some exercises, clarify general doubts.</br>
+A moment to stop, breath, we do some exercises, clarify general doubts.<br>
 Starting multimodality.
 
 * K5: Selected exercises, Q/A
