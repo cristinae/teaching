@@ -85,6 +85,8 @@ More on SMT: statistical language modelling, IBM models, alignment, phrase table
 * May 1st
 * C4: Statistical Machine Translation II [[slides]](.//slides2023/lectures/6-SMT.pdf#page=32)
 
+Suggested exercise: Given a very small toy corpus calculate the language model probability of a short sentence and the lexical translation probablity (simplified IBM1, word by word) given the frequency counts in your corpus.
+
 ### Week 5
 
 More on SMT: the log-linear model, MERT, factored models and a bit more. <br>
