@@ -74,7 +74,7 @@ A few words on statistical machine translation (SMT) and language models. Why in
 
 * C2: Recap! Richness of natural languages, why is MT difficult? [[slides]](.//slides2023/lectures/2b-introLanguagesRecap.pdf) <br>
 Introduction to Machine Translation [[slides]](.//slides2023/lectures/5-MTinNutshell.pdf) 
-* C3: Statistical Machine Translation I [[slides]](.//slides2023/lectures/6-SMT.pdf) <span style="color:red"> Achtung! </span> These slides might not be the final ones, they might be actualised.
+* C3: Statistical Machine Translation I [[slides]](.//slides2023/lectures/6-SMT.pdf) 
 
 Suggested exercise: Read about how everything started, history never harms! [[John Hutchin summary](https://www.infoamerica.org/documentos_pdf/bar05.pdf)] [[blog]](https://www.freecodecamp.org/news/a-history-of-machine-translation-from-the-cold-war-to-deep-learning-f1d335ce8b5/)
 
@@ -83,22 +83,22 @@ Suggested exercise: Read about how everything started, history never harms! [[Jo
 More on SMT: statistical language modelling, IBM models, alignment, phrase tables and beam search.
 
 * May 1st
-* C4: Statistical Machine Translation II
+* C4: Statistical Machine Translation II [[slides]](.//slides2023/lectures/6-SMT.pdf)
 
 ### Week 5
 
 More on SMT: the log-linear model, MERT, factored models and a bit more. <br>
 And after that, let's put everything in practice! Hands on SMT.
 
-* C5: Statistical Machine Translation III
-* C6: Lab1, Statistical Machine Translation [[guidelines]](.//slides2023/lectures/) 
+* C5: Statistical Machine Translation III [[slides]](.//slides2023/lectures/6-SMT.pdf)
+* C6: Lab1, Statistical Machine Translation [[guidelines \& questionnaire]](.//slides2023/lectures/L1-labSMT.pdf) 
 
 ### Week 6
 
 Continue with our hands on. <br>
 Transition to neural machine translation, word embeddings: the basic units.
 
-* C7: Lab1, Statistical Machine Translation [[guidelines]](.//slides2023/lectures/) 
+* C7: Lab1, Statistical Machine Translation [[guidelines \& questionnaire]](.//slides2023/lectures/L1-labSMT.pdf) 
 * C8: Word embeddings (+ cross-lingual + Unsupervised MT?)
 
 ### Week 7
