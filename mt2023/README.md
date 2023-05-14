@@ -19,7 +19,7 @@ The course gives an introduction to machine translation going from statistical t
 ## Evaluation
 
 The evaluation consists of 2 mandatory labs with an assignment (30%), a final exam (70%) and a challenge bonus (extra 10%!):
-* SMT assignment (lab week 5, deadline week 8)
+* SMT assignment [[Ubuntu 22.04 bins]](https://cloud.dfki.de/owncloud/index.php/s/ygo2aS2ZZqe58qH) [[Results]](https://cloud.dfki.de/owncloud/index.php/s/7pXy4f37neetq5b) [[README]](.//slides2023/lectures/READMElab1) (lab week 5, deadline <span style="color:red"> EXTENSION! </span> )
 * NMT assignment (lab week 11, deadline week 13)
 * MT Challenge, the bonus (temptative, to discuss, week 15)
 
