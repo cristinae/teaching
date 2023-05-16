@@ -100,8 +100,8 @@ And after that, let's put everything in practice! Hands on SMT.
 Continue with our hands on. <br>
 Transition to neural machine translation, word embeddings: the basic units.
 
-* C7: Lab1, Statistical Machine Translation [[guidelines & questionnaire]](.//slides2023/lectures/L1-labSMT.pdf) 
-* C8: Word embeddings (+ cross-lingual + Unsupervised MT?)
+* C7: Introduction to Word embeddings [[slides]](.//slides2023/lectures/7-introWE.pdf) 
+* C8: Lab1, Statistical Machine Translation [[guidelines & questionnaire]](.//slides2023/lectures/L1-labSMT.pdf) 
 
 ### Week 7
  
@@ -118,8 +118,6 @@ Serious neural networks stuff!
 * Whit Monday
 * Y1: Neural networks I: backpropagation
 
-<span style="color:red">Deadline for Lab1 report</span>
-
 ### Week 9
 
 Deeper into neural networks and logistic regression. <br>
@@ -127,6 +125,9 @@ Neural machine translation (NMT), LSTMs and attention. <br>
 
 * Y2: Neural networks II: Andrew Ng like introduction
 * Y3: Neural Machine Translation I
+
+<span style="color:red">Deadline for Lab1 report</span>
+
 
 ### Week 10
 
