@@ -1,0 +1,51 @@
+Q: I've installed Giza but when I run moses I get an error because the files are not found
+
+A: Move the following files from the folder created when installing Giza into mosesdecoder/bin/
+mkcls
+snt2plain
+snt2cooc
+mgiza
+merge_alignment.py 
+
+______________________________________________________________________________________________
+
+Q: I've already installed manually Boost in my linux machine but moses does not compile
+
+A: Use the last version of Boost which can be found in https://www.boost.org/
+
+______________________________________________________________________________________________
+
+Q: After running all the training I get a "core dump" error and some of the files are created 
+but they are empty.
+
+A: It might be an issue with python2 vs python3. Look at the beginning of the log generated 
+during the training to see any error related to "python not found" follow this:
+https://askubuntu.com/questions/320996/how-to-make-python-program-command-execute-python-3 
+
+______________________________________________________________________________________________
+
+Q: I'm running a command and I get a "File not found error"
+
+A: The error is probably right :)
+Be sure to give the absolute path (just in case, that's the safest way) to input files, 
+output files and or programs/scripts. Linux does don't know where things are if you do
+not specify it.
+
+______________________________________________________________________________________________
+
+Q: I'm running a command and I get a "File not found error" or the command is not being executed
+
+A: If you already did the previous thing, look for typos, specially lack of or addtional blank 
+spaces. You don't need a space between the path (/home/mosesdecoder/bin/ below) and the name of 
+the file (moses below), and you need a space between a program option (-f below) and its value
+(moses.ini below):
+/home/mosesdecoder/bin/moses -f moses.ini
+
+Also notice that some of the program/scripts options are introduced with a single dash (-) and 
+some of them with two (--)
+
+______________________________________________________________________________________________
+
+Q: I cannot reproduce your guidelines
+
+A: Look at the last version of the pdf online. I'm continously adding things after your comments.
