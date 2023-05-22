@@ -19,7 +19,7 @@ The course gives an introduction to machine translation going from statistical t
 ## Evaluation
 
 The evaluation consists of 2 mandatory labs with an assignment (30%), a final exam (70%) and a challenge bonus (extra 10%!):
-* SMT assignment [[Ubuntu 22.04 bins]](https://cloud.dfki.de/owncloud/index.php/s/ygo2aS2ZZqe58qH) [[Results]](https://cloud.dfki.de/owncloud/index.php/s/7pXy4f37neetq5b) [[README]](.//slides2023/lectures/READMElab1) [[FAQs]](.//slides2023/lectures/FAQsLab1)  (lab week 5, deadline <span style="color:red"> EXTENSION! </span> )
+* SMT assignment [[Ubuntu 22.04 bins]](https://cloud.dfki.de/owncloud/index.php/s/ygo2aS2ZZqe58qH) [[Results]](https://cloud.dfki.de/owncloud/index.php/s/7pXy4f37neetq5b) [[README]](.//slides2023/lectures/READMElab1) [[FAQs]](.//slides2023/lectures/FAQsLab1)  (lab week 5, deadline <span style="color:red"> EXTENSION! 6th June </span> )
 * NMT assignment (lab week 11, deadline week 13)
 * MT Challenge, the bonus (temptative, to discuss, week 15)
 
@@ -107,8 +107,8 @@ Transition to neural machine translation, word embeddings: the basic units.
  
 The basics of neural networks with relevance to machine translation. 
 
-* K3: Neural networks for translation technologies I
-* K4: Neural networks for translation technologies II
+* K3: Neural networks for translation technologies I [[slides in Moodle]](https://lms.sulb.uni-saarland.de/moodle/course/view.php?id=8655)
+* K4: Neural networks for translation technologies II [[slides in Moodle]](https://lms.sulb.uni-saarland.de/moodle/course/view.php?id=8655)
 
 
 ### Week 8
