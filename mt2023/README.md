@@ -10,6 +10,11 @@ Who: Cristina España-Bonet, Koel Dutta Chowdhury, Yasser Hamidullah
 ## See the course [calendar](../calendars/calendarMT.md)
 <br>
 
+## Pools
+* Build your own transformer (non graded) [[Vote]](https://docs.google.com/forms/d/e/1FAIpQLSdfTStFdkOIGP0B9e5WNysNk2XCYqSO94IU1PSL3AkBaPk2iA/viewform)
+* MT challenge [[Vote]](https://docs.google.com/forms/d/e/1FAIpQLSe7RyXdu1X07HkYcMPUmBx32bBo7SxYBI1pRGyTwdZ9fsxOOw/viewform?usp=sf_link)
+
+
 ## Objectives
 
 The course gives an introduction to machine translation going from statistical to neural machine translation systems and paying special attention to the current state of the art which is almost 100% neural. A strong background on mathematics, statistics and machine learning is not required but a basic knowledge is expected to follow the course.
@@ -95,6 +100,8 @@ And after that, let's put everything in practice! Hands on SMT.
 * C5: Statistical Machine Translation III [[slides]](.//slides2023/lectures/6-SMT.pdf#page=163)
 * C6: Lab1, Statistical Machine Translation [[guidelines & questionnaire]](.//slides2023/lectures/L1-labSMT.pdf) 
 
+Suggested exercise: If you are not familiar with bash commands read this [blog](https://blog.machinetranslation.io/bash-commands/)
+
 ### Week 6
 
 Continue with our hands on. <br>
@@ -116,15 +123,15 @@ The basics of neural networks with relevance to machine translation.
 Serious neural networks stuff! 
 
 * Whit Monday
-* Y1: Neural networks I: backpropagation
+* K5: Neural networks I: backpropagation [[slides in Moodle]](https://lms.sulb.uni-saarland.de/moodle/course/view.php?id=8655)
 
 ### Week 9
 
 Deeper into neural networks and logistic regression. <br>
 Neural machine translation (NMT), LSTMs and attention. <br>
 
-* Y2: Neural networks II: Andrew Ng like introduction
-* Y3: Neural Machine Translation I
+* Y1: Neural networks II: Andrew Ng like introduction
+* Y2: Neural Machine Translation I
 
 <span style="color:red">Deadline for Lab1 report</span>
 
@@ -133,31 +140,33 @@ Neural machine translation (NMT), LSTMs and attention. <br>
 
 More on Neural machine translation, sequence-to-sequence models with attention and transformers.
 
-* Y4: Neural Machine Translation II
-* Y5: Neural Machine Translation III
-
+* Y3: Neural Machine Translation II
+* Y4: Neural Machine Translation III
+* C9: <span style="color:red">LCT master</span>, Wed 14th, Lebniz room, floor +1, Building D3.2 (DFKI)
 
 ### Week 11
 
 NMT, new technology, let's put everything in practice again! Hands on NMT.
 
-* C9: Lab2, Neural Machine Translation [[guidelines]](.//slides2023/lectures/) 
-* C10: Lab2, Neural Machine Translation [[guidelines]](.//slides2023/lectures/) 
+* C10: Lab2, Neural Machine Translation [[guidelines & questionnaire]](.//slides2023/lectures/L2-labNMT.pdf) [[config]](.//slides2023/lectures/config.yaml)
+* C11: Lab2, Neural Machine Translation [[guidelines & questionnaire]](.//slides2023/lectures/L2-labNMT.pdf) 
+
+Suggested exercise: If you are not familiar with bash commands read this [blog](https://blog.machinetranslation.io/bash-commands/)
 
 ### Week 12 
 
 A moment to stop, breath, we do some exercises, clarify general doubts.<br>
 Starting multimodality.
 
-* K5: Selected exercises, Q/A
-* K6: Multimodal Machine Translation
+* K6: Selected exercises, Q/A
+* K7: Multimodal Machine Translation
 
 ### Week 13
 
 More on multimodality, sign language translation. 
 
-* Y6: Sign Language Translation I 
-* Y7: Sign Language Translation II
+* Y5: Sign Language Translation I 
+* Y6: Sign Language Translation II
 
 <span style="color:red">Deadline for Lab2 report</span>
 
@@ -165,8 +174,8 @@ More on multimodality, sign language translation.
 
 A couple of selected topics.
 
-* C11: Cross-lingual embeddings and unsupervised MT
-* C12: Low-resource and multilingual MT
+* C12: Cross-lingual embeddings and unsupervised MT
+* C13: Low-resource and multilingual MT
 
 ### Week 15
 
