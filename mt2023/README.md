@@ -128,21 +128,20 @@ Serious neural networks stuff!
 ### Week 9
 
 Deeper into neural networks and logistic regression. <br>
-Neural machine translation (NMT), LSTMs and attention. <br>
 
-* Y1: Neural networks II: Andrew Ng like introduction
-* Y2: Neural Machine Translation I
+* Y1: Neural networks II: Andrew Ng like introduction [[slides in Moodle]](https://lms.sulb.uni-saarland.de/moodle/course/view.php?id=8655)
+* Y2: Neural networks III [[slides in Moodle]](https://lms.sulb.uni-saarland.de/moodle/course/view.php?id=8655)
 
 <span style="color:red">Deadline for Lab1 report</span>
 
 
 ### Week 10
 
-More on Neural machine translation, sequence-to-sequence models with attention and transformers.
+Neural machine translation (NMT), LSTMs and attention. <br>
 
-* Y3: Neural Machine Translation II
-* Y4: Neural Machine Translation III
-* C9: <span style="color:red">LCT master</span>, Wed 14th, Lebniz room, floor +1, Building D3.2 (DFKI)
+* Y3: Neural Machine Translation I [[slides in Moodle]](https://lms.sulb.uni-saarland.de/moodle/course/view.php?id=8655)
+* Y4: Neural Machine Translation II [[slides in Moodle]](https://lms.sulb.uni-saarland.de/moodle/course/view.php?id=8655)
+* C9: <span style="color:red">LCT master</span>, Wed 14th, Leibniz room, floor +1, Building D3.2 (DFKI)
 
 ### Week 11
 
@@ -155,27 +154,27 @@ Suggested exercise: If you are not familiar with bash commands read this [blog](
 
 ### Week 12 
 
-A moment to stop, breath, we do some exercises, clarify general doubts.<br>
-Starting multimodality.
+More on Neural machine translation, sequence-to-sequence models with attention and transformers.
 
-* K6: Selected exercises, Q/A
-* K7: Multimodal Machine Translation
+* Y5: Neural Machine Translation III [[slides in Moodle]](https://lms.sulb.uni-saarland.de/moodle/course/view.php?id=8655)
+* Y6: Neural Machine Translation IV [[slides in Moodle]](https://lms.sulb.uni-saarland.de/moodle/course/view.php?id=8655)
 
 ### Week 13
 
 More on multimodality, sign language translation. 
 
-* Y5: Sign Language Translation I 
-* Y6: Sign Language Translation II
+* Y7: Sign Language Translation I 
+* Y8: Sign Language Translation II
 
 <span style="color:red">Deadline for Lab2 report</span>
 
 ### Week 14
 
-A couple of selected topics.
+A moment to stop, breath, we do some exercises, clarify general doubts.<br>
+Starting multimodality.
 
-* C12: Cross-lingual embeddings and unsupervised MT
-* C13: Low-resource and multilingual MT
+* K6: Selected exercises, Q/A
+* K7/C12/Y9: TBA
 
 ### Week 15
 
