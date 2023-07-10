@@ -10,10 +10,6 @@ Who: Cristina España-Bonet, Koel Dutta Chowdhury, Yasser Hamidullah
 ## See the course [calendar](../calendars/calendarMT.md)
 <br>
 
-## Pools
-* Build your own transformer (non graded) [[Vote]](https://docs.google.com/forms/d/e/1FAIpQLSdfTStFdkOIGP0B9e5WNysNk2XCYqSO94IU1PSL3AkBaPk2iA/viewform)
-* MT challenge [[Vote]](https://docs.google.com/forms/d/e/1FAIpQLSe7RyXdu1X07HkYcMPUmBx32bBo7SxYBI1pRGyTwdZ9fsxOOw/viewform?usp=sf_link)
-
 
 ## Objectives
 
@@ -24,12 +20,13 @@ The course gives an introduction to machine translation going from statistical t
 ## Evaluation
 
 The evaluation consists of 2 mandatory labs with an assignment (30%), a final exam (70%) and a challenge bonus (extra 10%!):
-* SMT assignment [[Ubuntu 22.04 bins]](https://cloud.dfki.de/owncloud/index.php/s/ygo2aS2ZZqe58qH) [[Results]](https://cloud.dfki.de/owncloud/index.php/s/7pXy4f37neetq5b) [[README]](.//slides2023/lectures/READMElab1) [[FAQs]](.//slides2023/lectures/FAQsLab1)  (lab week 5, deadline <span style="color:red"> EXTENSION! 6th June </span> )
-* NMT assignment (lab week 11, deadline week 13)
-* MT Challenge, the bonus (temptative, to discuss, week 15)
+* SMT assignment [[Ubuntu 22.04 bins]](https://cloud.dfki.de/owncloud/index.php/s/ygo2aS2ZZqe58qH) [[Results]](https://cloud.dfki.de/owncloud/index.php/s/7pXy4f37neetq5b) [[README]](.//slides2023/lectures/READMElab1) [[FAQs]](.//slides2023/lectures/FAQsLab1)  
+* NMT assignment 
+* [MT Challenge](https://codalab.lisn.upsaclay.fr/competitions/14480), the bonus (don't need to start, we'll discuss it after the exam, see calendar)
 
-* Final exam: <span style="color:red"> 17/07/2023 </span> 
-* Resit exam: <span style="color:red"> 17/10/2023 </span>
+* Final exam: <span style="color:red"> 17/07/2023 </span> (2h exam, starting at 16:00 sharp)
+* Challenge evaluation week: <span style="color:red"> 11-17/09/2023 </span> 
+* Resit exam: <span style="color:red"> 17/10/2023 </span> (2h exam, starting at 16:00 sharp)
 <br>
 
 
@@ -174,11 +171,11 @@ A moment to stop, breath, we do some exercises, clarify general doubts.<br>
 Starting multimodality.
 
 * K6: Selected exercises, Q/A
-* K7/C12/Y9: TBA
+* K7: Selected exercises, Q/A
 
 ### Week 15
 
-* <span style="color:red"> 17/07/2023 EXAM </span>
-* Challenge discussion
+* <span style="color:red"> 17/07/2023 EXAM </span> Come at 16:00!
+* Challenge discussion [[Codalab Competition]](https://codalab.lisn.upsaclay.fr/competitions/14480)
 
 
