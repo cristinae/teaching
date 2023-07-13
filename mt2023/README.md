@@ -24,9 +24,9 @@ The evaluation consists of 2 mandatory labs with an assignment (30%), a final ex
 * NMT assignment 
 * [MT Challenge](https://codalab.lisn.upsaclay.fr/competitions/14480), the bonus (don't need to start, we'll discuss it after the exam, see calendar)
 
-* Final exam: <span style="color:red"> 17/07/2023 </span> (2h exam, starting at 16:00 sharp)
+* Final exam: <span style="color:red"> 17/07/2023 </span> (2h exam, starting at 16:00 sharp, Building B3.2, Room 0.03 as usual)
 * Challenge evaluation week: <span style="color:red"> 11-17/09/2023 </span> 
-* Resit exam: <span style="color:red"> 17/10/2023 </span> (2h exam, starting at 16:00 sharp)
+* Resit exam: <span style="color:red"> 17/10/2023 </span> (2h exam, starting at 16:00 sharp, Building B3.2, Room 0.03 as usual)
 <br>
 
 
@@ -158,7 +158,7 @@ More on Neural machine translation, sequence-to-sequence models with attention a
 
 ### Week 13
 
-More on multimodality, sign language translation. 
+Some hints on multimodality, sign language translation. 
 
 * Y7: Sign Language Translation I 
 * Y8: Sign Language Translation II
@@ -168,7 +168,6 @@ More on multimodality, sign language translation.
 ### Week 14
 
 A moment to stop, breath, we do some exercises, clarify general doubts.<br>
-Starting multimodality.
 
 * K6: Selected exercises, Q/A
 * K7: Selected exercises, Q/A
@@ -176,6 +175,6 @@ Starting multimodality.
 ### Week 15
 
 * <span style="color:red"> 17/07/2023 EXAM </span> Come at 16:00!
-* Challenge discussion [[Codalab Competition]](https://codalab.lisn.upsaclay.fr/competitions/14480)
+* Challenge discussion [[Codalab Competition]](https://codalab.lisn.upsaclay.fr/competitions/14480) and a bit of low-resourced NMT with an invited guest
 
 
