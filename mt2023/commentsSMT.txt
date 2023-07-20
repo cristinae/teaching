@@ -1,0 +1,25 @@
+- (LM question 3) In NLP "beard" and "Beard" are different words if no lowecasing is applied.
+
+- (Smoothing question 2) The 3 different discount parameters are related to the frequencies (counts) of words and not to the length of the n-gram.
+The question asked about the *modified* KN
+
+- (Giza question 4) While indexes of words start with 1 in monolingual alignments, they start with 0 in the symmetrised version
+
+- (aligment question 5) grow-diag-final-and has nothing to do with BLEU!
+
+- (MERT vs. MIRA question 7) Two important things to comment: online vs complete set updates; and margin-based vs error rate optmisation 
+
+- (Evaluation question 9) You need to detrucase and detokenise before evaluation
+- It's always good to give confidence intervals
+- SacreBLEU is a software that implements currently 3 metrics, not only BLEU but also chrF and TER
+
+- (WMT question 10) You are using the exact same data set as WMT (source and references, there are 2 different options, we only used one) 
+- By using paired bootstrap resampling you gat p-values together with the scores. This allows to make inferences on statistically significant improvements
+
+- (RBMT vs SMT question 10) RBMT should be (on paper) better than SMT at reordering. It is true that the LM makes more fluent output, but word order should be very good with RBMT
+
+- (Comparision to WMT question 10) The test set should be the same we used (it might have a sentence different :(). The difference in quality comes because you were using 100K sentences for training and that people 30M. You did well!
+https://paperswithcode.com/dataset/wmt-2014
+
+
+

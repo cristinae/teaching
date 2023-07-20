@@ -1,0 +1,7 @@
+- (general) TER is an Error Rate metric, the lower the better
+
+- (Sentencepiece question 2) What makes it language independent is mostly the fact that spaces are considered as any other character
+
+- (Sentencepiece question 3) Sentencepiece needs to be applied on the normalised data, not the tokenised/truecased. If it is truecased, then it need to be detokensied before sentencepiece. 
+
+- (Ensemble decoding) Is good to ensemble models close to the best point. If you train very long in the lab exercise, the last models are not as good as the best one, so even multiple models do not improve over only the best one.

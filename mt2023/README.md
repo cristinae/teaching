@@ -22,9 +22,10 @@ The course gives an introduction to machine translation going from statistical t
 The evaluation consists of 2 mandatory labs with an assignment (30%), a final exam (70%) and a challenge bonus (extra 10%!):
 * SMT assignment [[Ubuntu 22.04 bins]](https://cloud.dfki.de/owncloud/index.php/s/ygo2aS2ZZqe58qH) [[Results]](https://cloud.dfki.de/owncloud/index.php/s/7pXy4f37neetq5b) [[README]](.//slides2023/lectures/READMElab1) [[FAQs]](.//slides2023/lectures/FAQsLab1)  
 * NMT assignment 
+*  <span style="color:red">[LAB's marks](marksLABs.pdf)</span>. Read some explanations in [Comments SMT](commentsSMT.txt) and [Comments NMT](commentsNMT.txt).
 * [MT Challenge](https://codalab.lisn.upsaclay.fr/competitions/14480), the bonus (don't need to start, we'll discuss it after the exam, see calendar)
 
-* Final exam: <span style="color:red"> 17/07/2023 </span> (2h exam, starting at 16:00 sharp, Building B3.2, Room 0.03 as usual)
+* Final exam: 17/07/2023 (2h exam, starting at 16:00 sharp, Building B3.2, Room 0.03 as usual)
 * Challenge evaluation week: <span style="color:red"> 11-17/09/2023 </span> 
 * Resit exam: <span style="color:red"> 17/10/2023 </span> (2h exam, starting at 16:00 sharp, Building B3.2, Room 0.03 as usual)
 <br>
@@ -175,6 +176,6 @@ A moment to stop, breath, we do some exercises, clarify general doubts.<br>
 ### Week 15
 
 * <span style="color:red"> 17/07/2023 EXAM </span> Come at 16:00!
-* Challenge discussion [[Codalab Competition]](https://codalab.lisn.upsaclay.fr/competitions/14480) and a bit of low-resourced NMT with an invited guest
+* C12: Challenge discussion [[Codalab Competition]](https://codalab.lisn.upsaclay.fr/competitions/14480) and a bit of low-resourced NMT with an invited guest
 
 
